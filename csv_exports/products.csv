@@ -1,0 +1,501 @@
+product_id,name,category_id,subcategory_id,base_price,current_stock,is_active
+prod_00000,Isombe Cassava Leaves,cat_017,sub_017_02,18347.49,331,True
+prod_00001,Cement Bag 50kg Cimerwa,cat_001,sub_001_02,19920.58,49,True
+prod_00002,PVC Pipe 2inch,cat_018,sub_018_01,17765.57,50,True
+prod_00003,Door Lock Yale,cat_007,sub_007_02,2437.42,188,True
+prod_00004,Exercise Book 96pages,cat_002,sub_002_01,13013.24,497,True
+prod_00005,Akabanga Chilli Oil,cat_006,sub_006_04,4711.05,119,True
+prod_00006,Passion Fruit Tray,cat_008,sub_008_01,19756.78,128,True
+prod_00007,Cement Bag 50kg Cimerwa,cat_000,sub_000_02,15904.7,301,True
+prod_00008,Mosquito Net Treated,cat_016,sub_016_00,15040.47,229,True
+prod_00009,PVC Pipe 2inch,cat_009,sub_009_03,13045.14,31,True
+prod_00010,Door Lock Yale,cat_002,sub_002_00,6781.18,33,True
+prod_00011,Rwanda Arabica Coffee,cat_016,sub_016_04,8888.89,359,True
+prod_00012,Nziza Body Lotion,cat_010,sub_010_03,6594.21,191,True
+prod_00013,Paint Bucket 20L,cat_004,sub_004_04,1669.63,287,True
+prod_00014,Power Bank 10000mAh,cat_001,sub_001_02,12208.0,53,True
+prod_00015,Imishanana Traditional Dress,cat_003,sub_003_02,16984.78,58,True
+prod_00016,Nivea Roll-On,cat_000,sub_000_01,5828.77,158,True
+prod_00017,Amavuta Shea Butter,cat_002,sub_002_01,14948.9,46,True
+prod_00018,Imishanana Traditional Dress,cat_005,sub_005_02,6576.93,397,True
+prod_00019,Mattress Foam Single,cat_014,sub_014_03,9970.4,212,True
+prod_00020,Sandals Handmade,cat_009,sub_009_00,4800.11,28,True
+prod_00021,Isombe Cassava Leaves,cat_003,sub_003_00,10199.01,89,True
+prod_00022,Nivea Roll-On,cat_013,sub_013_00,9465.21,441,True
+prod_00023,Stapler Heavy Duty,cat_000,sub_000_02,3851.53,235,True
+prod_00024,Mutzig Beer,cat_012,sub_012_04,2033.62,158,True
+prod_00025,Earphones Oraimo,cat_016,sub_016_00,10846.79,463,True
+prod_00026,Electric Wire 2.5mm,cat_003,sub_003_01,5491.38,308,True
+prod_00027,School Uniform Set,cat_018,sub_018_04,6802.56,161,True
+prod_00028,Impala Club Soda,cat_008,sub_008_04,1595.36,37,True
+prod_00029,Charcoal Stove Jiko,cat_019,sub_019_04,10387.82,297,True
+prod_00030,PVC Pipe 2inch,cat_004,sub_004_00,9285.2,460,True
+prod_00031,Akagera Print T-Shirt,cat_016,sub_016_04,12391.21,190,True
+prod_00032,Dettol Antiseptic,cat_002,sub_002_02,2342.87,197,True
+prod_00033,Paint Bucket 20L,cat_004,sub_004_04,14322.26,158,True
+prod_00034,Sweet Potato Bag,cat_016,sub_016_02,855.5,92,True
+prod_00035,Toothpaste Colgate,cat_002,sub_002_02,16966.35,259,True
+prod_00036,Savon Ivoirien Soap,cat_004,sub_004_01,4026.5,394,True
+prod_00037,Roofing Nails 4inch,cat_007,sub_007_03,12406.61,383,True
+prod_00038,Feature Phone Tecno,cat_006,sub_006_02,13726.98,225,True
+prod_00039,Agaseke Woven Basket,cat_019,sub_019_01,17523.54,328,True
+prod_00040,Coconut Hair Oil Rwanda,cat_002,sub_002_01,5819.43,262,True
+prod_00041,Leather Shoes Kigali,cat_000,sub_000_03,1538.51,191,True
+prod_00042,Akabanga Chilli Oil,cat_003,sub_003_02,15931.92,19,True
+prod_00043,Cement Bag 50kg Cimerwa,cat_002,sub_002_00,5490.52,76,True
+prod_00044,Akabanga Chilli Oil,cat_019,sub_019_03,1724.74,463,True
+prod_00045,Inzoga ya Primus,cat_019,sub_019_02,5191.0,95,True
+prod_00046,Inyange Milk,cat_016,sub_016_04,10392.89,283,True
+prod_00047,Window Glass Panel,cat_011,sub_011_00,7223.65,336,True
+prod_00048,Isombe Cassava Leaves,cat_015,sub_015_01,16324.2,366,True
+prod_00049,Ibirayi Fries,cat_010,sub_010_02,10549.98,278,True
+prod_00050,Plastic Jerry Can 20L,cat_010,sub_010_02,2927.26,223,True
+prod_00051,Sandals Handmade,cat_011,sub_011_04,5701.05,372,True
+prod_00052,Ubwiza Face Cream,cat_003,sub_003_00,6894.44,156,True
+prod_00053,PVC Pipe 2inch,cat_019,sub_019_03,5853.83,485,True
+prod_00054,Nziza Body Lotion,cat_001,sub_001_01,1811.05,330,True
+prod_00055,Vaseline Petroleum Jelly,cat_014,sub_014_00,11691.47,187,True
+prod_00056,Electric Wire 2.5mm,cat_017,sub_017_00,5604.65,360,True
+prod_00057,School Uniform Set,cat_005,sub_005_03,19946.62,349,True
+prod_00058,Plastic Jerry Can 20L,cat_005,sub_005_01,15977.08,114,True
+prod_00059,Sufuria Cooking Pot 5L,cat_000,sub_000_02,11303.42,239,True
+prod_00060,Passion Fruit Tray,cat_016,sub_016_03,15498.71,294,True
+prod_00061,Sweet Potato Bag,cat_017,sub_017_04,4048.28,221,True
+prod_00062,Kitenge Fabric 2m,cat_009,sub_009_01,3658.36,363,True
+prod_00063,Urwagwa Traditional Beer,cat_004,sub_004_02,12481.35,257,True
+prod_00064,Urwagwa Traditional Beer,cat_002,sub_002_00,18996.66,295,True
+prod_00065,Sufuria Cooking Pot 5L,cat_015,sub_015_04,6148.6,247,True
+prod_00066,Passion Fruit Tray,cat_014,sub_014_01,7133.76,160,True
+prod_00067,Vaseline Petroleum Jelly,cat_011,sub_011_04,11452.2,123,True
+prod_00068,Maize Flour 2kg,cat_019,sub_019_03,5341.27,461,True
+prod_00069,Door Lock Yale,cat_015,sub_015_04,9602.89,157,True
+prod_00070,Rukundo Tea Leaves,cat_007,sub_007_01,11875.21,25,True
+prod_00071,Agaseke Woven Basket,cat_013,sub_013_01,17707.89,187,True
+prod_00072,Savon Ivoirien Soap,cat_002,sub_002_03,10332.98,281,True
+prod_00073,Roofing Nails 4inch,cat_004,sub_004_01,12248.03,256,True
+prod_00074,Charcoal Stove Jiko,cat_016,sub_016_03,3404.34,263,True
+prod_00075,Cavendish Banana Bundle,cat_016,sub_016_04,10052.01,153,True
+prod_00076,Ibirayi Fries,cat_013,sub_013_04,6499.72,371,True
+prod_00077,Cavendish Banana Bundle,cat_018,sub_018_03,3824.99,369,True
+prod_00078,Roofing Nails 4inch,cat_006,sub_006_00,9100.25,77,True
+prod_00079,Pillow Fiber,cat_001,sub_001_01,10614.32,166,True
+prod_00080,Power Bank 10000mAh,cat_010,sub_010_04,7408.6,444,True
+prod_00081,Kitenge Fabric 2m,cat_009,sub_009_02,14245.57,360,True
+prod_00082,Agaseke Woven Basket,cat_009,sub_009_00,11682.8,194,True
+prod_00083,Imishanana Traditional Dress,cat_002,sub_002_02,18518.19,131,True
+prod_00084,Mattress Foam Single,cat_017,sub_017_02,3176.82,379,True
+prod_00085,Akabanga Chilli Oil,cat_007,sub_007_01,1523.58,169,True
+prod_00086,Umutsima Porridge,cat_017,sub_017_01,8434.7,450,True
+prod_00087,MTN MoMo Agent Kit,cat_002,sub_002_04,5028.29,370,True
+prod_00088,Akagera Print T-Shirt,cat_001,sub_001_03,15865.23,479,True
+prod_00089,Smartphone Android 4G,cat_009,sub_009_03,19787.44,268,True
+prod_00090,Umushanana Set,cat_003,sub_003_02,3668.64,331,True
+prod_00091,Pineapple Crate Nyungwe,cat_018,sub_018_01,3922.15,327,True
+prod_00092,School Bag Primary,cat_015,sub_015_02,18748.6,133,True
+prod_00093,Nivea Roll-On,cat_000,sub_000_02,13246.83,120,True
+prod_00094,Door Lock Yale,cat_016,sub_016_02,13960.66,469,True
+prod_00095,Electric Wire 2.5mm,cat_019,sub_019_02,8608.99,467,True
+prod_00096,PVC Pipe 2inch,cat_016,sub_016_02,2023.0,57,True
+prod_00097,Calculator Casio,cat_003,sub_003_01,14479.9,46,True
+prod_00098,Isombe Cassava Leaves,cat_001,sub_001_04,9516.38,157,True
+prod_00099,Iron Sheet 3m,cat_013,sub_013_02,14157.51,30,True
+prod_00100,Bed Sheet Cotton,cat_005,sub_005_01,15433.64,330,True
+prod_00101,Bed Sheet Cotton,cat_004,sub_004_02,2813.35,201,True
+prod_00102,Cavendish Banana Bundle,cat_013,sub_013_04,7895.89,126,True
+prod_00103,Ikivuguto Yoghurt,cat_001,sub_001_03,12491.0,452,True
+prod_00104,Bed Sheet Cotton,cat_014,sub_014_04,13604.46,24,True
+prod_00105,School Uniform Set,cat_006,sub_006_00,3232.64,119,True
+prod_00106,Coconut Hair Oil Rwanda,cat_004,sub_004_04,4810.33,140,True
+prod_00107,Power Bank 10000mAh,cat_012,sub_012_04,6715.32,209,True
+prod_00108,Solar Lantern LifeLight,cat_009,sub_009_01,16212.64,29,True
+prod_00109,Smartphone Android 4G,cat_010,sub_010_00,18483.41,189,True
+prod_00110,Fresh Avocado Pack,cat_018,sub_018_04,4731.82,445,True
+prod_00111,Agaseke Woven Basket,cat_015,sub_015_01,14064.71,104,True
+prod_00112,Nziza Body Lotion,cat_012,sub_012_03,10906.18,157,True
+prod_00113,Printer Paper A4 Ream,cat_010,sub_010_03,1391.45,113,True
+prod_00114,Inkorora Storage Basket,cat_018,sub_018_03,6256.25,168,True
+prod_00115,Mutzig Beer,cat_015,sub_015_03,3780.56,180,True
+prod_00116,Sufuria Cooking Pot 5L,cat_001,sub_001_00,8541.65,322,True
+prod_00117,Steel Rod 12mm,cat_015,sub_015_00,628.94,210,True
+prod_00118,Nivea Roll-On,cat_005,sub_005_00,18401.95,76,True
+prod_00119,Toothpaste Colgate,cat_014,sub_014_04,5242.55,115,True
+prod_00120,Akagera Print T-Shirt,cat_012,sub_012_04,9782.1,4,True
+prod_00121,Kitenge Fabric 2m,cat_018,sub_018_00,17948.43,21,True
+prod_00122,Dettol Antiseptic,cat_017,sub_017_04,13333.13,475,True
+prod_00123,Pineapple Crate Nyungwe,cat_002,sub_002_02,3667.78,290,True
+prod_00124,Dettol Antiseptic,cat_002,sub_002_04,15036.4,27,True
+prod_00125,Fanta Citron,cat_010,sub_010_00,12865.4,230,True
+prod_00126,Sweet Potato Bag,cat_019,sub_019_02,16062.08,37,True
+prod_00127,Solar Home System 50W,cat_012,sub_012_02,7533.65,2,True
+prod_00128,Sandals Handmade,cat_013,sub_013_03,11361.21,208,True
+prod_00129,School Uniform Set,cat_012,sub_012_00,6191.02,398,True
+prod_00130,Smart TV 32inch,cat_008,sub_008_03,3345.73,222,True
+prod_00131,Toothpaste Colgate,cat_015,sub_015_04,12525.04,54,True
+prod_00132,MTN MoMo Agent Kit,cat_010,sub_010_03,7027.36,421,True
+prod_00133,Calculator Casio,cat_012,sub_012_02,6183.24,324,True
+prod_00134,Solar Lantern LifeLight,cat_006,sub_006_04,19946.67,349,True
+prod_00135,Decoder StarTimes,cat_014,sub_014_02,16710.0,419,True
+prod_00136,Cement Bag 50kg Cimerwa,cat_004,sub_004_03,15887.0,229,True
+prod_00137,Ubwiza Face Cream,cat_017,sub_017_00,15919.06,359,True
+prod_00138,Gas Cylinder 15kg,cat_005,sub_005_04,1363.79,346,True
+prod_00139,Sweet Potato Bag,cat_016,sub_016_04,11820.11,113,True
+prod_00140,Irish Potato 5kg,cat_011,sub_011_00,9914.04,212,True
+prod_00141,School Uniform Set,cat_011,sub_011_02,7189.8,105,True
+prod_00142,MTN MoMo Agent Kit,cat_001,sub_001_00,940.41,331,True
+prod_00143,Dettol Antiseptic,cat_017,sub_017_01,6954.3,490,True
+prod_00144,Kitenge Fabric 2m,cat_000,sub_000_04,17720.4,303,True
+prod_00145,Inkorora Storage Basket,cat_002,sub_002_04,2484.16,274,True
+prod_00146,School Uniform Set,cat_016,sub_016_02,12140.93,200,True
+prod_00147,Vaseline Petroleum Jelly,cat_019,sub_019_04,2152.66,160,True
+prod_00148,Inkorora Storage Basket,cat_013,sub_013_04,3188.41,216,True
+prod_00149,Biro Pen Box,cat_009,sub_009_01,4148.42,230,True
+prod_00150,Power Bank 10000mAh,cat_016,sub_016_03,8478.12,212,True
+prod_00151,Gas Cylinder 15kg,cat_009,sub_009_00,5859.63,147,True
+prod_00152,PVC Pipe 2inch,cat_003,sub_003_04,2727.03,278,True
+prod_00153,Ikivuguto Yoghurt,cat_017,sub_017_01,19800.63,376,True
+prod_00154,Stapler Heavy Duty,cat_014,sub_014_02,7297.25,44,True
+prod_00155,Umutsima Porridge,cat_011,sub_011_04,12839.03,315,True
+prod_00156,Rwanda Arabica Coffee,cat_018,sub_018_02,10879.48,275,True
+prod_00157,Irish Potato 5kg,cat_004,sub_004_03,18415.99,443,True
+prod_00158,Kitenge Fabric 2m,cat_018,sub_018_02,12742.35,231,True
+prod_00159,Inzoga ya Primus,cat_011,sub_011_03,19029.95,297,True
+prod_00160,Passion Fruit Tray,cat_017,sub_017_03,4747.68,422,True
+prod_00161,Door Lock Yale,cat_018,sub_018_03,15871.92,349,True
+prod_00162,School Uniform Set,cat_000,sub_000_00,18623.94,225,True
+prod_00163,Phone Charger USB-C,cat_005,sub_005_02,2320.13,128,True
+prod_00164,PVC Pipe 2inch,cat_013,sub_013_00,14222.11,109,True
+prod_00165,Rukundo Tea Leaves,cat_000,sub_000_00,14064.14,61,True
+prod_00166,Irish Potato 5kg,cat_003,sub_003_02,7667.45,70,True
+prod_00167,PVC Pipe 2inch,cat_002,sub_002_04,11484.18,332,True
+prod_00168,Fanta Citron,cat_006,sub_006_00,17983.56,385,True
+prod_00169,Dettol Antiseptic,cat_007,sub_007_04,12219.48,311,True
+prod_00170,Mattress Foam Single,cat_009,sub_009_00,15784.13,488,True
+prod_00171,Mutzig Beer,cat_000,sub_000_02,18711.53,198,True
+prod_00172,Agaseke Woven Basket,cat_000,sub_000_04,1816.89,110,True
+prod_00173,Sweet Potato Bag,cat_016,sub_016_03,8759.72,42,True
+prod_00174,Smart TV 32inch,cat_017,sub_017_02,8119.26,390,True
+prod_00175,Coconut Hair Oil Rwanda,cat_002,sub_002_03,2761.74,311,True
+prod_00176,Fresh Avocado Pack,cat_016,sub_016_04,15768.25,132,True
+prod_00177,Calculator Casio,cat_000,sub_000_02,16238.6,268,True
+prod_00178,Roofing Nails 4inch,cat_005,sub_005_02,3567.54,52,True
+prod_00179,Cement Bag 50kg Cimerwa,cat_011,sub_011_03,18444.42,476,True
+prod_00180,Charcoal Stove Jiko,cat_007,sub_007_02,5341.13,368,True
+prod_00181,Gahunda Work Shirt,cat_001,sub_001_01,4852.11,23,True
+prod_00182,Feature Phone Tecno,cat_010,sub_010_00,11285.28,188,True
+prod_00183,Toothpaste Colgate,cat_017,sub_017_01,3436.04,209,True
+prod_00184,Impala Club Soda,cat_009,sub_009_00,4501.29,214,True
+prod_00185,Charcoal Stove Jiko,cat_001,sub_001_01,17997.11,211,True
+prod_00186,Leather Shoes Kigali,cat_004,sub_004_03,1959.19,31,True
+prod_00187,Printer Paper A4 Ream,cat_012,sub_012_02,6702.13,119,True
+prod_00188,Solar Lantern LifeLight,cat_003,sub_003_01,2560.33,238,True
+prod_00189,Sandals Handmade,cat_014,sub_014_02,9535.26,61,True
+prod_00190,Biro Pen Box,cat_004,sub_004_00,14367.57,202,True
+prod_00191,Power Bank 10000mAh,cat_017,sub_017_01,2347.14,411,True
+prod_00192,Inzoga ya Primus,cat_004,sub_004_01,16561.63,351,True
+prod_00193,School Bag Primary,cat_006,sub_006_03,16281.32,463,True
+prod_00194,Sweet Potato Bag,cat_013,sub_013_03,10174.46,349,True
+prod_00195,Pineapple Crate Nyungwe,cat_001,sub_001_04,12573.94,331,True
+prod_00196,Calculator Casio,cat_013,sub_013_01,13031.72,269,True
+prod_00197,Kitenge Fabric 2m,cat_016,sub_016_02,8073.43,13,True
+prod_00198,Earphones Oraimo,cat_001,sub_001_03,10823.93,299,True
+prod_00199,Vaseline Petroleum Jelly,cat_008,sub_008_04,16417.56,377,True
+prod_00200,Calculator Casio,cat_011,sub_011_01,3933.96,162,True
+prod_00201,Phone Charger USB-C,cat_004,sub_004_04,18993.19,414,True
+prod_00202,Irish Potato 5kg,cat_019,sub_019_01,888.6,0,False
+prod_00203,Dettol Antiseptic,cat_018,sub_018_01,15600.15,269,True
+prod_00204,Biro Pen Box,cat_018,sub_018_00,7062.94,69,True
+prod_00205,School Bag Primary,cat_019,sub_019_02,4853.13,417,True
+prod_00206,Mutzig Beer,cat_012,sub_012_04,1131.46,162,True
+prod_00207,Akagera Print T-Shirt,cat_007,sub_007_02,19656.4,325,True
+prod_00208,PVC Pipe 2inch,cat_014,sub_014_00,5671.64,354,True
+prod_00209,Mutzig Beer,cat_013,sub_013_01,17748.76,451,True
+prod_00210,Exercise Book 96pages,cat_001,sub_001_02,891.52,487,True
+prod_00211,Sorghum Flour 1kg,cat_002,sub_002_02,12083.6,457,True
+prod_00212,Bed Sheet Cotton,cat_019,sub_019_03,3563.52,169,True
+prod_00213,Sufuria Cooking Pot 5L,cat_008,sub_008_02,6299.31,25,True
+prod_00214,Gahunda Work Shirt,cat_006,sub_006_00,1001.85,326,True
+prod_00215,PVC Pipe 2inch,cat_012,sub_012_03,10037.39,135,True
+prod_00216,Stapler Heavy Duty,cat_014,sub_014_02,4911.72,288,True
+prod_00217,Fanta Citron,cat_007,sub_007_04,1689.18,419,True
+prod_00218,Smartphone Android 4G,cat_012,sub_012_00,10290.98,264,True
+prod_00219,Biro Pen Box,cat_004,sub_004_00,8755.81,222,True
+prod_00220,Stapler Heavy Duty,cat_012,sub_012_04,6859.47,266,True
+prod_00221,Agaseke Woven Basket,cat_016,sub_016_03,2694.12,75,True
+prod_00222,Nivea Roll-On,cat_017,sub_017_02,17618.92,196,True
+prod_00223,Gahunda Work Shirt,cat_001,sub_001_03,17846.7,353,True
+prod_00224,PVC Pipe 2inch,cat_008,sub_008_03,17235.58,50,True
+prod_00225,Mosquito Net Treated,cat_010,sub_010_02,14711.59,330,True
+prod_00226,Smartphone Android 4G,cat_011,sub_011_00,10547.76,33,True
+prod_00227,Urwagwa Traditional Beer,cat_006,sub_006_00,5365.06,25,True
+prod_00228,Radio FM Portable,cat_007,sub_007_02,10031.34,90,True
+prod_00229,Power Bank 10000mAh,cat_002,sub_002_02,1035.28,83,True
+prod_00230,Gahunda Work Shirt,cat_006,sub_006_02,13205.95,10,True
+prod_00231,Mosquito Net Treated,cat_008,sub_008_03,17961.92,178,True
+prod_00232,Rukundo Tea Leaves,cat_019,sub_019_03,11897.5,261,True
+prod_00233,Mosquito Net Treated,cat_015,sub_015_00,7057.53,327,True
+prod_00234,Radio FM Portable,cat_007,sub_007_00,16205.88,414,True
+prod_00235,Roofing Nails 4inch,cat_013,sub_013_03,8071.36,298,True
+prod_00236,Biro Pen Box,cat_011,sub_011_04,6353.8,430,True
+prod_00237,Printer Paper A4 Ream,cat_005,sub_005_02,13261.48,181,True
+prod_00238,Toothpaste Colgate,cat_009,sub_009_03,17098.67,27,True
+prod_00239,Calculator Casio,cat_016,sub_016_02,8555.59,437,True
+prod_00240,Umutsima Porridge,cat_014,sub_014_01,6669.48,92,True
+prod_00241,Impala Club Soda,cat_000,sub_000_03,5833.79,396,True
+prod_00242,Nziza Body Lotion,cat_004,sub_004_04,8957.37,206,True
+prod_00243,Power Bank 10000mAh,cat_000,sub_000_02,15258.53,97,True
+prod_00244,School Uniform Set,cat_011,sub_011_02,3014.15,257,True
+prod_00245,Nivea Roll-On,cat_009,sub_009_03,14692.72,268,True
+prod_00246,Decoder StarTimes,cat_000,sub_000_01,4874.27,108,True
+prod_00247,Cement Bag 50kg Cimerwa,cat_017,sub_017_04,1447.45,338,True
+prod_00248,Inyange Juice,cat_014,sub_014_03,2910.1,242,True
+prod_00249,Agaseke Woven Basket,cat_009,sub_009_03,13402.46,266,True
+prod_00250,Solar Lantern LifeLight,cat_003,sub_003_00,10205.91,102,True
+prod_00251,Plastic Jerry Can 20L,cat_015,sub_015_02,5072.85,343,True
+prod_00252,Ibirayi Fries,cat_004,sub_004_00,15700.76,370,True
+prod_00253,Pineapple Crate Nyungwe,cat_003,sub_003_01,17545.74,148,True
+prod_00254,Door Lock Yale,cat_005,sub_005_02,7471.78,489,True
+prod_00255,Umutsima Porridge,cat_008,sub_008_03,13953.1,409,True
+prod_00256,Passion Fruit Tray,cat_005,sub_005_00,8612.54,247,True
+prod_00257,School Bag Primary,cat_015,sub_015_03,2702.28,225,True
+prod_00258,Biro Pen Box,cat_018,sub_018_01,19568.96,447,True
+prod_00259,Inkorora Storage Basket,cat_019,sub_019_00,727.07,80,True
+prod_00260,Electric Wire 2.5mm,cat_010,sub_010_01,6952.45,25,True
+prod_00261,Ikivuguto Yoghurt,cat_002,sub_002_03,9217.83,254,True
+prod_00262,Amavuta Shea Butter,cat_017,sub_017_04,503.31,405,True
+prod_00263,Power Bank 10000mAh,cat_011,sub_011_00,16423.48,232,True
+prod_00264,Iron Sheet 3m,cat_000,sub_000_02,7425.21,493,True
+prod_00265,Rukundo Tea Leaves,cat_003,sub_003_02,12411.61,61,True
+prod_00266,Plastic Jerry Can 20L,cat_013,sub_013_00,18569.22,344,True
+prod_00267,Passion Fruit Tray,cat_000,sub_000_04,14856.17,478,True
+prod_00268,Kitenge Fabric 2m,cat_003,sub_003_03,13321.68,451,True
+prod_00269,Exercise Book 96pages,cat_012,sub_012_02,19424.59,412,True
+prod_00270,MTN MoMo Agent Kit,cat_010,sub_010_04,12835.37,107,True
+prod_00271,Cement Bag 50kg Cimerwa,cat_016,sub_016_04,14039.08,363,True
+prod_00272,Ibirayi Fries,cat_017,sub_017_02,17610.81,413,True
+prod_00273,Bed Sheet Cotton,cat_001,sub_001_01,5706.08,82,True
+prod_00274,Agaseke Woven Basket,cat_001,sub_001_02,16373.51,315,True
+prod_00275,Nziza Body Lotion,cat_001,sub_001_03,8057.32,499,True
+prod_00276,Mutzig Beer,cat_018,sub_018_04,14899.78,397,True
+prod_00277,Decoder StarTimes,cat_005,sub_005_01,14834.05,193,True
+prod_00278,School Uniform Set,cat_000,sub_000_02,9593.46,79,True
+prod_00279,Bed Sheet Cotton,cat_015,sub_015_04,11228.12,401,True
+prod_00280,Mattress Foam Single,cat_017,sub_017_03,2292.94,452,True
+prod_00281,Smart TV 32inch,cat_015,sub_015_04,16561.92,4,True
+prod_00282,Gas Cylinder 15kg,cat_001,sub_001_02,7936.77,483,True
+prod_00283,Inzoga ya Primus,cat_014,sub_014_03,1355.11,333,True
+prod_00284,Sweet Potato Bag,cat_006,sub_006_01,17366.54,427,True
+prod_00285,Mutzig Beer,cat_000,sub_000_03,14478.93,44,True
+prod_00286,Pillow Fiber,cat_018,sub_018_01,18264.24,198,True
+prod_00287,Rukundo Tea Leaves,cat_000,sub_000_04,1733.13,299,True
+prod_00288,Pillow Fiber,cat_009,sub_009_02,12328.03,391,True
+prod_00289,Inyange Juice,cat_007,sub_007_01,15061.7,408,True
+prod_00290,Coconut Hair Oil Rwanda,cat_017,sub_017_04,3256.79,2,True
+prod_00291,Decoder StarTimes,cat_006,sub_006_03,18159.75,262,True
+prod_00292,Feature Phone Tecno,cat_006,sub_006_00,4036.48,290,True
+prod_00293,Inzoga ya Primus,cat_018,sub_018_03,19055.03,65,True
+prod_00294,Sorghum Flour 1kg,cat_006,sub_006_02,9974.29,315,True
+prod_00295,Akagera Print T-Shirt,cat_000,sub_000_02,5300.42,364,True
+prod_00296,Fanta Citron,cat_015,sub_015_03,9184.48,156,True
+prod_00297,Printer Paper A4 Ream,cat_008,sub_008_01,17880.29,134,True
+prod_00298,Sweet Potato Bag,cat_018,sub_018_03,15499.4,464,True
+prod_00299,Savon Ivoirien Soap,cat_011,sub_011_03,4854.48,301,True
+prod_00300,Calculator Casio,cat_016,sub_016_00,13422.23,493,True
+prod_00301,Phone Charger USB-C,cat_004,sub_004_03,18813.92,112,True
+prod_00302,Mosquito Net Treated,cat_001,sub_001_01,10598.76,184,True
+prod_00303,Toothpaste Colgate,cat_008,sub_008_02,11783.31,89,True
+prod_00304,Phone Charger USB-C,cat_007,sub_007_04,8413.92,444,True
+prod_00305,Cement Bag 50kg Cimerwa,cat_002,sub_002_04,13047.8,76,True
+prod_00306,Inyange Milk,cat_010,sub_010_00,9889.57,245,True
+prod_00307,Mosquito Net Treated,cat_007,sub_007_00,2993.76,82,True
+prod_00308,Sorghum Flour 1kg,cat_012,sub_012_04,19400.25,9,True
+prod_00309,Amavuta Shea Butter,cat_007,sub_007_03,12216.35,298,True
+prod_00310,Charcoal Stove Jiko,cat_014,sub_014_04,12016.62,193,True
+prod_00311,Passion Fruit Tray,cat_013,sub_013_01,12307.46,243,True
+prod_00312,Sufuria Cooking Pot 5L,cat_019,sub_019_04,16636.67,480,True
+prod_00313,Fanta Citron,cat_012,sub_012_02,11986.44,464,True
+prod_00314,Leather Shoes Kigali,cat_009,sub_009_04,17596.94,131,True
+prod_00315,Dettol Antiseptic,cat_013,sub_013_02,2578.37,333,True
+prod_00316,Pineapple Crate Nyungwe,cat_006,sub_006_03,11266.05,247,True
+prod_00317,Amavuta Shea Butter,cat_003,sub_003_01,9208.6,486,True
+prod_00318,Inzoga ya Primus,cat_017,sub_017_04,14092.62,26,True
+prod_00319,Umutsima Porridge,cat_008,sub_008_01,7731.28,19,True
+prod_00320,Ikivuguto Yoghurt,cat_005,sub_005_03,9059.95,435,True
+prod_00321,Mosquito Net Treated,cat_011,sub_011_01,13272.87,44,True
+prod_00322,Nivea Roll-On,cat_000,sub_000_00,18423.96,145,True
+prod_00323,Cavendish Banana Bundle,cat_018,sub_018_00,5591.6,259,True
+prod_00324,Door Lock Yale,cat_016,sub_016_02,17584.2,406,True
+prod_00325,Phone Charger USB-C,cat_014,sub_014_04,17309.45,59,True
+prod_00326,Amavuta Shea Butter,cat_010,sub_010_03,19131.19,274,True
+prod_00327,Feature Phone Tecno,cat_002,sub_002_04,18662.23,160,True
+prod_00328,Rukundo Tea Leaves,cat_007,sub_007_01,17518.48,117,True
+prod_00329,School Bag Primary,cat_003,sub_003_00,13678.34,252,True
+prod_00330,Paint Bucket 20L,cat_008,sub_008_03,4066.0,468,True
+prod_00331,Mosquito Net Treated,cat_015,sub_015_04,1134.97,201,True
+prod_00332,Earphones Oraimo,cat_014,sub_014_02,13939.61,345,True
+prod_00333,Nivea Roll-On,cat_008,sub_008_03,19191.27,187,True
+prod_00334,Earphones Oraimo,cat_008,sub_008_03,4007.84,294,True
+prod_00335,Mosquito Net Treated,cat_017,sub_017_03,17198.02,74,True
+prod_00336,Roofing Nails 4inch,cat_017,sub_017_02,15813.99,128,True
+prod_00337,Pillow Fiber,cat_003,sub_003_03,15019.57,184,True
+prod_00338,Irish Potato 5kg,cat_005,sub_005_02,7424.63,261,True
+prod_00339,Phone Charger USB-C,cat_005,sub_005_02,8725.42,292,True
+prod_00340,Mosquito Net Treated,cat_010,sub_010_02,13233.76,136,True
+prod_00341,Fanta Citron,cat_014,sub_014_03,3762.7,11,True
+prod_00342,Fanta Citron,cat_006,sub_006_01,8242.39,32,True
+prod_00343,Passion Fruit Tray,cat_003,sub_003_02,12552.99,335,True
+prod_00344,Exercise Book 96pages,cat_004,sub_004_04,16851.1,17,True
+prod_00345,Coconut Hair Oil Rwanda,cat_014,sub_014_01,19406.07,276,True
+prod_00346,Pineapple Crate Nyungwe,cat_015,sub_015_04,4929.0,226,True
+prod_00347,Phone Charger USB-C,cat_011,sub_011_02,9649.36,352,True
+prod_00348,Toothpaste Colgate,cat_000,sub_000_04,7786.06,451,True
+prod_00349,Inzoga ya Primus,cat_007,sub_007_02,2044.59,122,True
+prod_00350,Pillow Fiber,cat_005,sub_005_01,6147.11,233,True
+prod_00351,Plastic Jerry Can 20L,cat_000,sub_000_01,19460.49,137,True
+prod_00352,Irish Potato 5kg,cat_006,sub_006_02,8694.74,409,True
+prod_00353,Toothpaste Colgate,cat_001,sub_001_02,15625.23,278,True
+prod_00354,Rwanda Arabica Coffee,cat_000,sub_000_00,19504.67,127,True
+prod_00355,Exercise Book 96pages,cat_016,sub_016_01,9720.1,492,True
+prod_00356,Earphones Oraimo,cat_016,sub_016_00,5439.6,152,True
+prod_00357,Roofing Nails 4inch,cat_013,sub_013_02,793.82,141,True
+prod_00358,Umutsima Porridge,cat_019,sub_019_01,7742.27,127,True
+prod_00359,Biro Pen Box,cat_001,sub_001_02,13069.21,274,True
+prod_00360,Bed Sheet Cotton,cat_011,sub_011_03,14797.18,352,True
+prod_00361,Exercise Book 96pages,cat_015,sub_015_01,11550.68,178,True
+prod_00362,Savon Ivoirien Soap,cat_005,sub_005_00,10857.18,151,True
+prod_00363,Sweet Potato Bag,cat_019,sub_019_01,6753.53,337,True
+prod_00364,Inkorora Storage Basket,cat_019,sub_019_02,6790.7,164,True
+prod_00365,Savon Ivoirien Soap,cat_006,sub_006_00,1120.43,428,True
+prod_00366,Cement Bag 50kg Cimerwa,cat_007,sub_007_04,14497.98,476,True
+prod_00367,WiFi Router ZTE,cat_011,sub_011_00,16561.04,270,True
+prod_00368,Calculator Casio,cat_016,sub_016_00,2473.89,272,True
+prod_00369,Sorghum Flour 1kg,cat_005,sub_005_04,15109.29,382,True
+prod_00370,Iron Sheet 3m,cat_005,sub_005_04,8330.36,336,True
+prod_00371,Ikivuguto Yoghurt,cat_013,sub_013_02,12364.06,279,True
+prod_00372,Kitenge Fabric 2m,cat_009,sub_009_04,817.9,455,True
+prod_00373,Pineapple Crate Nyungwe,cat_017,sub_017_04,11348.3,292,True
+prod_00374,Mutzig Beer,cat_008,sub_008_02,17847.69,119,True
+prod_00375,Umutsima Porridge,cat_010,sub_010_03,3871.6,460,True
+prod_00376,Inyange Juice,cat_010,sub_010_02,17655.95,213,True
+prod_00377,Power Bank 10000mAh,cat_012,sub_012_00,6443.28,163,True
+prod_00378,Passion Fruit Tray,cat_004,sub_004_00,13635.89,497,True
+prod_00379,Passion Fruit Tray,cat_010,sub_010_00,9779.17,25,True
+prod_00380,Mattress Foam Single,cat_004,sub_004_03,11406.28,202,True
+prod_00381,Coconut Hair Oil Rwanda,cat_007,sub_007_01,1897.06,220,True
+prod_00382,Phone Charger USB-C,cat_019,sub_019_00,15508.79,179,True
+prod_00383,Cavendish Banana Bundle,cat_006,sub_006_02,3541.83,436,True
+prod_00384,Radio FM Portable,cat_009,sub_009_03,9688.21,107,True
+prod_00385,Mattress Foam Single,cat_017,sub_017_03,12649.32,355,True
+prod_00386,Savon Ivoirien Soap,cat_001,sub_001_02,3821.23,102,True
+prod_00387,Inkorora Storage Basket,cat_003,sub_003_00,6203.66,332,True
+prod_00388,Dettol Antiseptic,cat_019,sub_019_04,2216.4,256,True
+prod_00389,Umutsima Porridge,cat_005,sub_005_00,7262.21,181,True
+prod_00390,Impala Club Soda,cat_008,sub_008_03,17862.84,15,True
+prod_00391,Sweet Potato Bag,cat_012,sub_012_04,19231.81,446,True
+prod_00392,Bed Sheet Cotton,cat_013,sub_013_02,18239.84,229,True
+prod_00393,Irish Potato 5kg,cat_006,sub_006_01,6525.47,460,True
+prod_00394,Irish Potato 5kg,cat_018,sub_018_01,6691.18,272,True
+prod_00395,Smartphone Android 4G,cat_000,sub_000_02,17662.57,492,True
+prod_00396,Sufuria Cooking Pot 5L,cat_003,sub_003_01,4102.56,313,True
+prod_00397,Pineapple Crate Nyungwe,cat_004,sub_004_04,16999.7,364,True
+prod_00398,Inzoga ya Primus,cat_005,sub_005_01,4912.32,391,True
+prod_00399,Toothpaste Colgate,cat_005,sub_005_03,17409.02,352,True
+prod_00400,Smart TV 32inch,cat_010,sub_010_03,12424.35,292,True
+prod_00401,Agaseke Woven Basket,cat_016,sub_016_04,8214.42,20,True
+prod_00402,Printer Paper A4 Ream,cat_014,sub_014_01,8738.01,470,True
+prod_00403,Impala Club Soda,cat_017,sub_017_01,8164.8,230,True
+prod_00404,Mattress Foam Single,cat_008,sub_008_02,13988.49,364,True
+prod_00405,Akagera Print T-Shirt,cat_012,sub_012_04,12435.41,193,True
+prod_00406,Electric Wire 2.5mm,cat_018,sub_018_01,3661.42,91,True
+prod_00407,Akabanga Chilli Oil,cat_009,sub_009_01,2792.3,491,True
+prod_00408,Exercise Book 96pages,cat_019,sub_019_03,5138.63,337,True
+prod_00409,Coconut Hair Oil Rwanda,cat_008,sub_008_04,12758.39,422,True
+prod_00410,MTN MoMo Agent Kit,cat_001,sub_001_01,17149.67,295,True
+prod_00411,School Uniform Set,cat_005,sub_005_02,12416.25,358,True
+prod_00412,Iron Sheet 3m,cat_010,sub_010_02,18001.83,34,True
+prod_00413,Leather Shoes Kigali,cat_016,sub_016_01,14068.68,29,True
+prod_00414,Phone Charger USB-C,cat_008,sub_008_04,11715.28,181,True
+prod_00415,Cement Bag 50kg Cimerwa,cat_009,sub_009_01,530.83,238,True
+prod_00416,Agaseke Woven Basket,cat_013,sub_013_00,7008.95,412,True
+prod_00417,Amavuta Shea Butter,cat_008,sub_008_00,6501.56,281,True
+prod_00418,Ikivuguto Yoghurt,cat_012,sub_012_04,12511.87,426,True
+prod_00419,Umutsima Porridge,cat_004,sub_004_03,3530.03,456,True
+prod_00420,Akagera Print T-Shirt,cat_016,sub_016_02,11516.38,161,True
+prod_00421,Vaseline Petroleum Jelly,cat_011,sub_011_00,19407.46,430,True
+prod_00422,Earphones Oraimo,cat_005,sub_005_04,2778.47,384,True
+prod_00423,Ikivuguto Yoghurt,cat_011,sub_011_03,16674.42,110,True
+prod_00424,Sandals Handmade,cat_006,sub_006_00,9153.59,409,True
+prod_00425,Door Lock Yale,cat_004,sub_004_00,16531.7,264,True
+prod_00426,Gahunda Work Shirt,cat_012,sub_012_04,2758.8,477,True
+prod_00427,Cavendish Banana Bundle,cat_006,sub_006_02,4410.83,141,True
+prod_00428,Amavuta Shea Butter,cat_000,sub_000_04,11412.7,105,True
+prod_00429,Impala Club Soda,cat_017,sub_017_03,1489.16,241,True
+prod_00430,Pillow Fiber,cat_013,sub_013_03,3990.17,456,True
+prod_00431,Power Bank 10000mAh,cat_002,sub_002_03,11571.89,416,True
+prod_00432,Cavendish Banana Bundle,cat_004,sub_004_04,5532.03,200,True
+prod_00433,Sandals Handmade,cat_011,sub_011_03,9494.21,144,True
+prod_00434,Sufuria Cooking Pot 5L,cat_017,sub_017_00,15952.4,236,True
+prod_00435,Mutzig Beer,cat_012,sub_012_00,7143.93,355,True
+prod_00436,Nivea Roll-On,cat_018,sub_018_03,2729.3,237,True
+prod_00437,WiFi Router ZTE,cat_002,sub_002_04,2620.52,305,True
+prod_00438,Umushanana Set,cat_004,sub_004_04,18113.49,414,True
+prod_00439,Steel Rod 12mm,cat_012,sub_012_04,11769.66,105,True
+prod_00440,Exercise Book 96pages,cat_011,sub_011_00,11863.18,261,True
+prod_00441,Leather Shoes Kigali,cat_001,sub_001_00,14215.41,183,True
+prod_00442,Savon Ivoirien Soap,cat_012,sub_012_03,7940.52,108,True
+prod_00443,Irish Potato 5kg,cat_013,sub_013_01,6125.18,343,True
+prod_00444,Door Lock Yale,cat_015,sub_015_03,19512.01,43,True
+prod_00445,School Bag Primary,cat_016,sub_016_03,11264.98,196,True
+prod_00446,Printer Paper A4 Ream,cat_015,sub_015_01,14386.53,210,True
+prod_00447,Impala Club Soda,cat_015,sub_015_00,3270.71,269,True
+prod_00448,Inyange Juice,cat_007,sub_007_03,12797.93,491,True
+prod_00449,Ikivuguto Yoghurt,cat_015,sub_015_03,10496.93,293,True
+prod_00450,Umushanana Set,cat_019,sub_019_02,14675.95,133,True
+prod_00451,Decoder StarTimes,cat_019,sub_019_00,6092.91,64,True
+prod_00452,Mattress Foam Single,cat_000,sub_000_00,12274.52,302,True
+prod_00453,Iron Sheet 3m,cat_001,sub_001_02,19689.4,304,True
+prod_00454,Window Glass Panel,cat_012,sub_012_01,13383.01,326,True
+prod_00455,Steel Rod 12mm,cat_012,sub_012_03,6376.66,485,True
+prod_00456,Steel Rod 12mm,cat_000,sub_000_02,18580.84,195,True
+prod_00457,Stapler Heavy Duty,cat_019,sub_019_02,7031.86,410,True
+prod_00458,Inyange Juice,cat_006,sub_006_04,7079.43,92,True
+prod_00459,WiFi Router ZTE,cat_013,sub_013_00,10742.65,228,True
+prod_00460,Calculator Casio,cat_019,sub_019_00,14307.46,44,True
+prod_00461,Kitenge Fabric 2m,cat_005,sub_005_00,14065.25,150,True
+prod_00462,Umutsima Porridge,cat_013,sub_013_02,5518.06,37,True
+prod_00463,Inkorora Storage Basket,cat_008,sub_008_02,3969.62,251,True
+prod_00464,Rukundo Tea Leaves,cat_003,sub_003_01,11042.33,111,True
+prod_00465,Akabanga Chilli Oil,cat_001,sub_001_00,1873.04,128,True
+prod_00466,Inzoga ya Primus,cat_001,sub_001_03,5695.51,168,True
+prod_00467,Ubwiza Face Cream,cat_017,sub_017_01,564.49,418,True
+prod_00468,Door Lock Yale,cat_010,sub_010_02,8311.99,490,True
+prod_00469,Rukundo Tea Leaves,cat_009,sub_009_01,3944.06,495,True
+prod_00470,Stapler Heavy Duty,cat_011,sub_011_03,2154.82,224,True
+prod_00471,Inyange Milk,cat_007,sub_007_03,8080.97,276,True
+prod_00472,Mosquito Net Treated,cat_001,sub_001_02,1593.06,369,True
+prod_00473,Inyange Milk,cat_014,sub_014_04,3404.6,119,True
+prod_00474,Rwanda Arabica Coffee,cat_015,sub_015_04,1393.13,332,True
+prod_00475,Power Bank 10000mAh,cat_014,sub_014_04,3828.44,32,True
+prod_00476,WiFi Router ZTE,cat_002,sub_002_01,8811.12,427,True
+prod_00477,Smart TV 32inch,cat_001,sub_001_04,3882.23,61,True
+prod_00478,Akabanga Chilli Oil,cat_018,sub_018_00,3100.73,433,True
+prod_00479,Iron Sheet 3m,cat_005,sub_005_00,14281.45,454,True
+prod_00480,Akabanga Chilli Oil,cat_007,sub_007_01,12405.49,305,True
+prod_00481,Solar Lantern LifeLight,cat_017,sub_017_01,4242.11,500,True
+prod_00482,Savon Ivoirien Soap,cat_008,sub_008_00,4277.52,76,True
+prod_00483,MTN MoMo Agent Kit,cat_009,sub_009_01,8976.1,315,True
+prod_00484,Cavendish Banana Bundle,cat_005,sub_005_00,9958.7,36,True
+prod_00485,Steel Rod 12mm,cat_010,sub_010_01,2412.25,211,True
+prod_00486,Ubwiza Face Cream,cat_004,sub_004_01,18593.8,91,True
+prod_00487,Sorghum Flour 1kg,cat_008,sub_008_01,7049.88,354,True
+prod_00488,Mosquito Net Treated,cat_010,sub_010_01,17784.97,80,True
+prod_00489,Stapler Heavy Duty,cat_015,sub_015_01,12035.83,236,True
+prod_00490,Rwanda Arabica Coffee,cat_004,sub_004_04,18015.91,22,True
+prod_00491,Impala Club Soda,cat_014,sub_014_03,5189.97,385,True
+prod_00492,Nivea Roll-On,cat_000,sub_000_03,13546.19,360,True
+prod_00493,Imishanana Traditional Dress,cat_005,sub_005_02,12722.81,324,True
+prod_00494,Ibirayi Fries,cat_019,sub_019_04,11716.97,403,True
+prod_00495,Biro Pen Box,cat_003,sub_003_03,7629.02,20,True
+prod_00496,Solar Lantern LifeLight,cat_006,sub_006_01,19634.41,276,True
+prod_00497,Charcoal Stove Jiko,cat_007,sub_007_02,7377.88,257,True
+prod_00498,Inzoga ya Primus,cat_016,sub_016_00,9668.2,347,True
+prod_00499,Cavendish Banana Bundle,cat_006,sub_006_03,2202.52,459,True

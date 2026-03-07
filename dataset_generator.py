@@ -1,347 +1,427 @@
+"""
+dataset_generator.py
+ULK Software Engineering Final Exam-Tuyizere Andre-202540326
+Generates synthetic e-commerce dataset: users, categories, products, sessions, transactions
+Usage: python dataset_generator.py
+Requires: pip install faker pandas
+"""
 
 import json
 import random
+import uuid
 import os
-import math
 from datetime import datetime, timedelta
-from faker import Faker
 
-fake = Faker()
-random.seed(42)
-Faker.seed(42)
+try:
+    from faker import Faker
+    fake = Faker()
+    USE_FAKER = True
+except ImportError:
+    USE_FAKER = False
+    print("[WARN] Faker not installed – using built-in random data generation.")
 
-# ─── Configuration ────────────────────────────────────────────────────────────
-NUM_USERS         = 500
-NUM_CATEGORIES    = 20
-SUBCATS_PER_CAT   = 4
-NUM_PRODUCTS      = 1000
-NUM_SESSIONS      = 5000
-SESSIONS_PER_FILE = 1000          # sessions split across multiple files
-CONVERSION_RATE   = 0.30          # 30% of sessions convert to a transaction
-DAYS_RANGE        = 90            # 90-day activity window
-START_DATE        = datetime(2025, 1, 1)
-END_DATE          = START_DATE + timedelta(days=DAYS_RANGE)
+# ── Configuration ────────────────────────────────────────────────────────────
+SEED = 42
+random.seed(SEED)
 
-PAYMENT_METHODS   = ["credit_card", "debit_card", "paypal", "bank_transfer", "mobile_money"]
-DEVICE_TYPES      = ["mobile", "desktop", "tablet"]
-OS_MAP            = {"mobile": ["iOS", "Android"], "desktop": ["Windows", "macOS", "Linux"], "tablet": ["iPadOS", "Android"]}
-BROWSER_MAP       = {"iOS": ["Safari", "Chrome"], "Android": ["Chrome", "Firefox"], "Windows": ["Chrome", "Edge", "Firefox"],
-                     "macOS": ["Safari", "Chrome"], "Linux": ["Firefox", "Chrome"], "iPadOS": ["Safari", "Chrome"]}
-REFERRERS         = ["search_engine", "social_media", "email", "direct", "affiliate", "display_ad"]
-PAGE_TYPES        = ["home", "category_listing", "product_detail", "cart", "checkout", "search_results"]
-STATUSES_TXN      = ["completed", "shipped", "processing", "cancelled", "refunded"]
-STATUSES_CONV     = ["converted", "abandoned", "browsing"]
+NUM_USERS        = 500
+NUM_CATEGORIES   = 20
+NUM_PRODUCTS     = 500
+NUM_SESSIONS     = 2000
+SESSION_FILES    = 4          # sessions split across N files
+NUM_TRANSACTIONS = 800
+START_DATE       = datetime(2025, 1, 1)
+END_DATE         = datetime(2025, 3, 31)
+OUTPUT_DIR       = "ecommerce_data"
 
-OUTPUT_DIR = "."   # change if you want files in a subdirectory
+STATES = ["Kigali", "Northern", "Southern", "Eastern", "Western"]
+CITIES = [
+    # Kigali
+    "Nyarugenge", "Gasabo", "Kicukiro",
+    # Northern
+    "Musanze", "Burera", "Gakenke", "Gicumbi", "Rulindo",
+    # Southern
+    "Huye", "Gisagara", "Muhanga", "Kamonyi", "Nyanza",
+    "Nyaruguru", "Ruhango", "Nyamagabe",
+    # Eastern
+    "Rwamagana", "Bugesera", "Gatsibo", "Kayonza", "Kirehe",
+    "Ngoma", "Nyagatare",
+    # Western
+    "Rubavu", "Karongi", "Ngororero", "Nyabihu", "Nyamasheke",
+    "Rusizi", "Rutsiro"
+]
+PAYMENT_METHODS = [ "mtn_momo", "airtel_money", "bank_transfer", "cash", "visa_card",  ]
+DEVICE_TYPES     = ["mobile","desktop","tablet"]
+OS_MAP           = {"mobile":["iOS","Android"], "desktop":["Windows","macOS","Linux"],
+                    "tablet":["iPadOS","Android"]}
+BROWSERS         = ["Chrome","Safari","Firefox","Edge"]
+REFERRERS = [ "whatsapp", "facebook", "google_search", "direct", "instagram", "sms_campaign",   "word_of_mouth", ]
+PAGE_TYPES       = ["home","category_listing","product_detail","cart","checkout","search"]
+CONV_STATUSES    = ["converted","abandoned","browsing"]
+TXN_STATUSES     = ["completed","shipped","processing","refunded"]
 
-
-# ─── Helpers ──────────────────────────────────────────────────────────────────
-
-def rand_date(start: datetime, end: datetime) -> datetime:
+# ── Helpers ───────────────────────────────────────────────────────────────────
+def rand_date(start=START_DATE, end=END_DATE):
     delta = end - start
     return start + timedelta(seconds=random.randint(0, int(delta.total_seconds())))
 
+def fmt(dt): return dt.strftime("%Y-%m-%dT%H:%M:%S")
 
-def fmt(dt: datetime) -> str:
-    return dt.strftime("%Y-%m-%dT%H:%M:%S")
+CITY_PROVINCE = {
+    "Nyarugenge": "Kigali",  "Gasabo": "Kigali",     "Kicukiro": "Kigali",
+    "Musanze": "Northern",   "Burera": "Northern",    "Gakenke": "Northern",
+    "Gicumbi": "Northern",   "Rulindo": "Northern",
+    "Huye": "Southern",      "Gisagara": "Southern",  "Muhanga": "Southern",
+    "Kamonyi": "Southern",   "Nyanza": "Southern",    "Nyaruguru": "Southern",
+    "Ruhango": "Southern",   "Nyamagabe": "Southern",
+    "Rwamagana": "Eastern",  "Bugesera": "Eastern",   "Gatsibo": "Eastern",
+    "Kayonza": "Eastern",    "Kirehe": "Eastern",     "Ngoma": "Eastern",
+    "Nyagatare": "Eastern",
+    "Rubavu": "Western",     "Karongi": "Western",    "Ngororero": "Western",
+    "Nyabihu": "Western",    "Nyamasheke": "Western", "Rusizi": "Western",
+    "Rutsiro": "Western"
+}
+def city_state():
+    city = random.choice(CITIES)
+    return city, CITY_PROVINCE[city]
 
+# def word():
+#     words = ["Innovative","Advanced","Strategic","Dynamic","Synergistic","Ergonomic",
+#              "Scalable","Virtual","Executive","Paradigm","Interface","Platform",
+#              "Framework","Solution","Enterprise","Concrete","Agile","Modular"]
+#     return random.choice(words)
 
-def write_json(filename: str, data) -> None:
-    path = os.path.join(OUTPUT_DIR, filename)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"  ✔  Written: {filename}  ({len(data) if isinstance(data, list) else 1} records)")
+# def product_name():
+#     return f"{word()} {word()} {word()}"
 
+# def company_name():
+#     suffixes = ["LLC","Inc","Corp","Group","Partners","Associates"]
+#     return f"{word()}-{word()} {random.choice(suffixes)}"
 
-# ─── 1. USERS ─────────────────────────────────────────────────────────────────
-
-def generate_users(n: int) -> list:
-    print("\n[1/5] Generating users …")
+# ── Generators ────────────────────────────────────────────────────────────────
+def generate_users(n=NUM_USERS):
     users = []
     for i in range(n):
-        reg_date = rand_date(START_DATE - timedelta(days=180), END_DATE - timedelta(days=1))
-        last_active = rand_date(reg_date, END_DATE)
+        city, state = city_state()
+        reg = rand_date(datetime(2024,10,1), datetime(2025,1,1))
+        last = rand_date(reg, END_DATE)
         users.append({
             "user_id": f"user_{i:06d}",
-            "name": fake.name(),
-            "email": fake.unique.email(),
-            "age": random.randint(18, 70),
-            "gender": random.choice(["M", "F", "Other"]),
-            "geo_data": {
-                "city": fake.city(),
-                "state": fake.state_abbr(),
-                "country": "US"
-            },
-            "registration_date": fmt(reg_date),
-            "last_active": fmt(last_active),
-            "preferred_payment": random.choice(PAYMENT_METHODS),
-            "is_premium": random.random() < 0.15   # 15% premium users
+            "geo_data": {"city": city, "state": state, "country": "RW"},
+            "registration_date": fmt(reg),
+            "last_active": fmt(last)
         })
     return users
-
-
-# ─── 2. CATEGORIES ────────────────────────────────────────────────────────────
-
-CATEGORY_NAMES = [
-    "Electronics", "Clothing & Apparel", "Home & Kitchen", "Sports & Outdoors",
-    "Books & Media", "Toys & Games", "Health & Beauty", "Automotive",
-    "Garden & Tools", "Food & Grocery", "Jewelry & Watches", "Office Supplies",
-    "Pet Supplies", "Baby & Kids", "Musical Instruments", "Travel & Luggage",
-    "Arts & Crafts", "Software & Gaming", "Industrial & Scientific", "Handmade"
+PRODUCT_CATEGORIES = [
+    ("Food & Beverages",        ["Dairy Products","Grains & Flour","Beverages","Cooking Oil","Snacks & Confectionery"]),
+    ("Fresh Produce",           ["Vegetables","Fruits","Herbs & Spices","Mushrooms","Flowers"]),
+    ("Coffee & Tea",            ["Arabica Coffee","Green Tea","Herbal Tea","Instant Coffee","Coffee Accessories"]),
+    ("Electronics & Tech",      ["Mobile Phones","Solar Products","Home Electronics","Accessories","Network Equipment"]),
+    ("Clothing & Fashion",      ["Traditional Wear","Casual Wear","School Uniforms","Shoes & Sandals","Accessories"]),
+    ("Textiles & Crafts",       ["Kitenge Fabric","Agaseke Baskets","Imigongo Art","Woven Mats","Jewelry"]),
+    ("Beauty & Personal Care",  ["Skin Care","Hair Care","Soap & Hygiene","Perfumes","Baby Care"]),
+    ("Construction & Hardware", ["Cement & Building","Iron & Steel","Paint & Coating","Plumbing","Electrical"]),
+    ("Home & Kitchen",          ["Cookware","Storage","Bedding","Cleaning","Furniture"]),
+    ("Agriculture & Farming",   ["Seeds & Seedlings","Fertilizers","Tools & Equipment","Animal Feed","Pesticides"]),
+    ("Education & Office",      ["Stationery","Books","School Bags","Office Supplies","Art Materials"]),
+    ("Health & Pharmacy",       ["Medicines OTC","Vitamins","First Aid","Medical Devices","Baby Health"]),
+    ("Automotive & Transport",  ["Spare Parts","Lubricants","Tyres","Car Accessories","Bicycle Parts"]),
+    ("Energy & Solar",          ["Solar Panels","Batteries","Inverters","Gas & LPG","Lighting"]),
+    ("Livestock & Poultry",     ["Cattle Products","Poultry","Fish & Seafood","Goat Products","Beekeeping"]),
+    ("Sports & Recreation",     ["Football Equipment","Fitness","Outdoor","Games","Cycling"]),
+    ("Baby & Children",         ["Baby Food","Toys","Baby Clothing","School Items","Safety Products"]),
+    ("Packaging & Logistics",   ["Boxes & Cartons","Bags & Sacks","Wrapping","Labels","Cold Storage"]),
+    ("Hospitality & Catering",  ["Restaurant Equipment","Uniforms","Cleaning Products","Disposables","Decor"]),
+    ("Digital Services",        ["Airtime & Data","Mobile Money","Printing","Photography","Software"]),
 ]
 
-def generate_categories(n: int) -> list:
-    print("[2/5] Generating categories …")
+def generate_categories(n=NUM_CATEGORIES):
     categories = []
-    for i in range(n):
-        name = CATEGORY_NAMES[i] if i < len(CATEGORY_NAMES) else fake.bs().title()
-        subcategories = []
-        for j in range(SUBCATS_PER_CAT):
-            subcategories.append({
+    cats = PRODUCT_CATEGORIES[:n]
+    for i, (cat_name, subcats) in enumerate(cats):
+        subs = []
+        for j, sub_name in enumerate(subcats):
+            subs.append({
                 "subcategory_id": f"sub_{i:03d}_{j:02d}",
-                "name": fake.bs().title(),
-                "profit_margin": round(random.uniform(0.08, 0.45), 2)
+                "name": sub_name,
+                "profit_margin": round(random.uniform(0.10, 0.45), 2)
             })
         categories.append({
             "category_id": f"cat_{i:03d}",
-            "name": name,
-            "subcategories": subcategories
+            "name": cat_name,
+            "subcategories": subs
         })
     return categories
+# Rwanda product market - real categories sold in Kigali and across Rwanda
+PRODUCT_WORDS = {
+    "food": [
+        "Inzoga", "Igitoki", "Isombe", "Uburo", "Ibiharage", "Amasaka",
+        "Inyama", "Amata", "Akabanga", "Ubunyobwa", "Ibijumba", "Indamutsa",
+        "Urwagwa", "Isukari", "Amavuta", "Ibirembo", "Umutsima", "Ikivuguto"
+    ],
+    "agri": [
+        "Arabica", "Bourbon", "Cavendish", "Gahima", "Inyabutatu",
+        "Rugali", "Inkoko", "Inka", "Intama", "Ingurube",
+        "Imirire", "Imboga", "Imbuto", "Inanasi", "Icyahozo"
+    ],
+    "tech": [
+        "Smart", "Digital", "Mobile", "Solar", "Wireless",
+        "FastNet", "PayGo", "EasyPay", "MoMo", "Neza",
+        "Keza", "Sheja", "Inzozi", "Iterambere", "Ireme"
+    ],
+    "textile": [
+        "Imishanana", "Kitenge", "Akagera", "Umushanana", "Inzira",
+        "Ubwenge", "Inanga", "Agaseke", "Amasunzu", "Urugori"
+    ],
+    "beauty": [
+        "Ubwiza", "Keza", "Nziza", "Sheja", "Umucyo",
+        "Amavuta", "Ubusugire", "Inzozi", "Agahire", "Umutima"
+    ],
+    "construction": [
+        "Ibuye", "Urutare", "Icyuma", "Ibiti", "Inzu",
+        "Iterambere", "Amazi", "Uruzi", "Isuku", "Imbaho"
+    ]
+}
 
+PRODUCT_TYPES = [
+    # Food & Beverages
+    "Akabanga Chilli Oil", "Inyange Juice", "Inyange Milk", "Urwagwa Traditional Beer",
+    "Ikivuguto Yoghurt", "Isombe Cassava Leaves", "Ibirayi Fries", "Umutsima Porridge",
+    "Inzoga ya Primus", "Mutzig Beer", "Fanta Citron", "Impala Club Soda",
+    # Agriculture & Fresh Produce
+    "Rwanda Arabica Coffee", "Rukundo Tea Leaves", "Cavendish Banana Bundle",
+    "Fresh Avocado Pack", "Passion Fruit Tray", "Pineapple Crate Nyungwe",
+    "Irish Potato 5kg", "Sweet Potato Bag", "Maize Flour 2kg", "Sorghum Flour 1kg",
+    # Technology & Electronics
+    "MTN MoMo Agent Kit", "Solar Home System 50W", "Smartphone Android 4G",
+    "Feature Phone Tecno", "Solar Lantern LifeLight", "WiFi Router ZTE",
+    "Power Bank 10000mAh", "Phone Charger USB-C", "Earphones Oraimo",
+    "Smart TV 32inch", "Decoder StarTimes", "Radio FM Portable",
+    # Clothing & Textiles
+    "Imishanana Traditional Dress", "Kitenge Fabric 2m", "Agaseke Woven Basket",
+    "Umushanana Set", "School Uniform Set", "Gahunda Work Shirt",
+    "Leather Shoes Kigali", "Sandals Handmade", "Akagera Print T-Shirt",
+    # Beauty & Personal Care
+    "Amavuta Shea Butter", "Coconut Hair Oil Rwanda", "Ubwiza Face Cream",
+    "Savon Ivoirien Soap", "Nziza Body Lotion", "Toothpaste Colgate",
+    "Vaseline Petroleum Jelly", "Dettol Antiseptic", "Nivea Roll-On",
+    # Construction & Hardware
+    "Iron Sheet 3m", "Cement Bag 50kg Cimerwa", "Paint Bucket 20L",
+    "Steel Rod 12mm", "PVC Pipe 2inch", "Electric Wire 2.5mm",
+    "Door Lock Yale", "Window Glass Panel", "Roofing Nails 4inch",
+    # Home & Kitchen
+    "Sufuria Cooking Pot 5L", "Inkorora Storage Basket", "Plastic Jerry Can 20L",
+    "Charcoal Stove Jiko", "Gas Cylinder 15kg", "Mosquito Net Treated",
+    "Mattress Foam Single", "Pillow Fiber", "Bed Sheet Cotton",
+    # Education & Office
+    "Exercise Book 96pages", "Biro Pen Box", "Calculator Casio",
+    "School Bag Primary", "Printer Paper A4 Ream", "Stapler Heavy Duty",
+]
 
-# ─── 3. PRODUCTS ──────────────────────────────────────────────────────────────
+COMPANY_SUFFIXES = [
+    "Rwanda Ltd", "Kigali SARL", "Ubumwe Co.", "Iterambere Group",
+    "Inzozi Enterprises", "Neza Trading", "Sheja Holdings",
+    "Umurava Solutions", "Ejo Heza Ventures", "Ubwiza Industries"
+]
 
-def generate_products(n: int, categories: list) -> list:
-    print("[3/5] Generating products …")
+COMPANY_NAMES = [
+    "Inyange Industries", "Rwanda Trading Company", "Kigali Business Center",
+    "Ubumwe Supermarket", "Nakumatt Rwanda", "Simba Superstore",
+    "Sonarwa General Store", "BK TecHouse", "RwandAir Shop",
+    "Sulfo Rwanda", "BRALIRWA Distributors", "Minimex Rwanda",
+    "Akagera Business Group", "Inkomoko Entrepreneurs", "Ikirezi Natural Products",
+    "Gashora Enterprises", "Ruliba Clays", "Cimerwa Hardware",
+    "Kigali Cement Ltd", "Mahama Trading Post", "Huye Mountain Coffee",
+    "Musanze Fresh Market", "Rubavu Fish Market", "Nyagatare Agro Ltd",
+    "Eastern Province Traders", "Southern Highlands Co.", "Northern Growers Ltd",
+]
+
+def word():
+    category = random.choice(list(PRODUCT_WORDS.keys()))
+    return random.choice(PRODUCT_WORDS[category])
+
+def product_name():
+    return random.choice(PRODUCT_TYPES)
+
+def company_name():
+    if random.random() < 0.6:
+        return random.choice(COMPANY_NAMES)
+    else:
+        return random.choice(COMPANY_NAMES) + " - " + random.choice(COMPANY_SUFFIXES)
+
+def generate_products(categories, n=NUM_PRODUCTS):
     products = []
     for i in range(n):
         cat = random.choice(categories)
-        subcat = random.choice(cat["subcategories"])
-        creation = rand_date(START_DATE - timedelta(days=120), END_DATE - timedelta(days=5))
-
-        # Build a small price history (1-3 price changes)
-        price_history = []
-        price = round(random.uniform(5.0, 500.0), 2)
+        sub = random.choice(cat["subcategories"])
+        base_price = round(random.uniform(500, 20000), 2)
+        creation = rand_date(datetime(2024,10,1), datetime(2025,1,1))
+        stock = random.randint(0, 500)
+        # price history: 1-3 price changes
+        ph = []
+        cur_price = round(base_price * random.uniform(0.8, 1.6), 2)
         ph_date = creation
-        for _ in range(random.randint(1, 3)):
-            price_history.append({"price": price, "date": fmt(ph_date)})
-            next_start = ph_date + timedelta(days=1)
-            if next_start >= END_DATE:          # no room left — stop early
-                break
-            ph_date = rand_date(next_start, END_DATE)
-            price = round(price * random.uniform(0.85, 1.20), 2)   # ±15% change
-
-        current_stock = random.randint(0, 200)
+        for _ in range(random.randint(1,3)):
+            ph.append({"price": cur_price, "date": fmt(ph_date)})
+            ph_date = rand_date(ph_date, END_DATE)
+            cur_price = round(cur_price * random.uniform(0.85, 1.8), 2)
+        ph.append({"price": base_price, "date": fmt(ph_date)})
         products.append({
             "product_id": f"prod_{i:05d}",
-            "name": fake.catch_phrase().title(),
+            "name": product_name(),
             "category_id": cat["category_id"],
-            "subcategory_id": subcat["subcategory_id"],
-            "base_price": price_history[0]["price"],
-            "current_price": price_history[-1]["price"],
-            "current_stock": current_stock,
-            "is_active": current_stock > 0,
-            "price_history": price_history,
-            "creation_date": fmt(creation),
-            "tags": [fake.word() for _ in range(random.randint(2, 5))]
+            "subcategory_id": sub["subcategory_id"],
+            "base_price": base_price,
+            "current_stock": stock,
+            "is_active": stock > 0,
+            "price_history": ph,
+            "creation_date": fmt(creation)
         })
     return products
 
-
-# ─── 4. SESSIONS ──────────────────────────────────────────────────────────────
-
-def _build_page_views(start: datetime, products: list, categories: list) -> tuple:
-    """Return (page_views list, viewed_product_ids list, cart_contents dict)."""
-    page_views = []
-    viewed_products = []
-    cart_contents = {}
-    ts = start
-
-    # Always start with a home or search page
-    page_views.append({
-        "timestamp": fmt(ts),
-        "page_type": random.choice(["home", "search_results"]),
-        "product_id": None,
-        "category_id": None,
-        "view_duration": random.randint(10, 90)
-    })
-    ts += timedelta(seconds=page_views[-1]["view_duration"] + random.randint(2, 15))
-
-    # 1-3 category pages
-    for _ in range(random.randint(1, 3)):
-        cat = random.choice(categories)
-        page_views.append({
-            "timestamp": fmt(ts),
-            "page_type": "category_listing",
-            "product_id": None,
-            "category_id": cat["category_id"],
-            "view_duration": random.randint(20, 120)
-        })
-        ts += timedelta(seconds=page_views[-1]["view_duration"] + random.randint(2, 15))
-
-    # 1-5 product detail pages
-    active_products = [p for p in products if p["is_active"]]
-    for _ in range(random.randint(1, 5)):
-        prod = random.choice(active_products)
-        viewed_products.append(prod["product_id"])
-        page_views.append({
-            "timestamp": fmt(ts),
-            "page_type": "product_detail",
-            "product_id": prod["product_id"],
-            "category_id": prod["category_id"],
-            "view_duration": random.randint(30, 300)
-        })
-        ts += timedelta(seconds=page_views[-1]["view_duration"] + random.randint(2, 20))
-
-        # ~40% chance the viewed product goes to cart
-        if random.random() < 0.40:
-            qty = random.randint(1, 4)
-            if prod["product_id"] in cart_contents:
-                cart_contents[prod["product_id"]]["quantity"] += qty
-            else:
-                cart_contents[prod["product_id"]] = {
-                    "quantity": qty,
-                    "price": prod["current_price"]
-                }
-
-    # Cart page (if anything in cart)
-    if cart_contents:
-        page_views.append({
-            "timestamp": fmt(ts),
-            "page_type": "cart",
-            "product_id": None,
-            "category_id": None,
-            "view_duration": random.randint(20, 120)
-        })
-        ts += timedelta(seconds=page_views[-1]["view_duration"] + random.randint(2, 15))
-
-    return page_views, list(set(viewed_products)), cart_contents
-
-
-def generate_sessions(n: int, users: list, products: list, categories: list) -> list:
-    print("[4/5] Generating sessions …")
+def generate_sessions(users, products, n=NUM_SESSIONS):
     sessions = []
     for i in range(n):
         user = random.choice(users)
-        start = rand_date(START_DATE, END_DATE - timedelta(hours=1))
-        page_views, viewed_products, cart_contents = _build_page_views(start, products, categories)
-        total_duration = sum(pv["view_duration"] for pv in page_views)
-        end = start + timedelta(seconds=total_duration)
-
-        # Determine conversion
-        if cart_contents and random.random() < CONVERSION_RATE:
-            conv_status = "converted"
-        elif cart_contents:
-            conv_status = "abandoned"
-        else:
-            conv_status = "browsing"
-
+        start = rand_date()
+        duration = random.randint(60, 3600)
+        end = start + timedelta(seconds=duration)
         device_type = random.choice(DEVICE_TYPES)
-        os_name = random.choice(OS_MAP[device_type])
-        browser = random.choice(BROWSER_MAP[os_name])
-
+        os_choice = random.choice(OS_MAP[device_type])
+        city, state = city_state()
+        # page views
+        viewed = random.sample(products, min(random.randint(1,6), len(products)))
+        viewed_ids = [p["product_id"] for p in viewed]
+        page_views = []
+        ts = start
+        page_views.append({
+            "timestamp": fmt(ts), "page_type": "home",
+            "product_id": None, "category_id": None,
+            "view_duration": random.randint(10,90)
+        })
+        for prod in viewed:
+            ts += timedelta(seconds=random.randint(30,180))
+            page_views.append({
+                "timestamp": fmt(ts), "page_type": "category_listing",
+                "product_id": None, "category_id": prod["category_id"],
+                "view_duration": random.randint(20,120)
+            })
+            ts += timedelta(seconds=random.randint(20,120))
+            page_views.append({
+                "timestamp": fmt(ts), "page_type": "product_detail",
+                "product_id": prod["product_id"], "category_id": prod["category_id"],
+                "view_duration": random.randint(30,300)
+            })
+        # cart
+        conv = random.choice(CONV_STATUSES)
+        cart = {}
+        if conv in ["converted","abandoned"] and viewed:
+            cart_products = random.sample(viewed, random.randint(1, min(3, len(viewed))))
+            for cp in cart_products:
+                cart[cp["product_id"]] = {
+                    "quantity": random.randint(1,4),
+                    "price": cp["base_price"]
+                }
+            ts += timedelta(seconds=random.randint(30,120))
+            page_views.append({
+                "timestamp": fmt(ts), "page_type": "cart",
+                "product_id": None, "category_id": None,
+                "view_duration": random.randint(20,90)
+            })
+        session_id = f"sess_{uuid.uuid4().hex[:10]}"
         sessions.append({
-            "session_id": f"sess_{fake.hexify(text='^^^^^^^^^^')}",
+            "session_id": session_id,
             "user_id": user["user_id"],
             "start_time": fmt(start),
             "end_time": fmt(end),
-            "duration_seconds": total_duration,
+            "duration_seconds": duration,
             "geo_data": {
-                "city": user["geo_data"]["city"],
-                "state": user["geo_data"]["state"],
-                "country": "US",
-                "ip_address": fake.ipv4()
+                "city": city, "state": state, "country": "RW",
+                "ip_address": f"{random.randint(10,200)}.{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(1,254)}"
             },
-            "device_profile": {
-                "type": device_type,
-                "os": os_name,
-                "browser": browser
-            },
-            "viewed_products": viewed_products,
+            "device_profile": {"type": device_type, "os": os_choice,
+                               "browser": random.choice(BROWSERS)},
+            "viewed_products": viewed_ids,
             "page_views": page_views,
-            "cart_contents": cart_contents,
-            "conversion_status": conv_status,
+            "cart_contents": cart,
+            "conversion_status": conv,
             "referrer": random.choice(REFERRERS)
         })
     return sessions
 
-
-# ─── 5. TRANSACTIONS ──────────────────────────────────────────────────────────
-
-def generate_transactions(sessions: list) -> list:
-    print("[5/5] Generating transactions …")
-    transactions = []
-    converted = [s for s in sessions if s["conversion_status"] == "converted"]
-    for sess in converted:
+def generate_transactions(sessions, products_dict, n=NUM_TRANSACTIONS):
+    conv_sessions = [s for s in sessions if s["conversion_status"] == "converted"]
+    random.shuffle(conv_sessions)
+    txns = []
+    for s in conv_sessions[:n]:
+        if not s["cart_contents"]:
+            continue
         items = []
         subtotal = 0.0
-        for prod_id, cart_item in sess["cart_contents"].items():
-            line_total = round(cart_item["price"] * cart_item["quantity"], 2)
+        for pid, info in s["cart_contents"].items():
+            sub = round(info["quantity"] * info["price"], 2)
             items.append({
-                "product_id": prod_id,
-                "quantity": cart_item["quantity"],
-                "unit_price": cart_item["price"],
-                "subtotal": line_total
+                "product_id": pid,
+                "quantity": info["quantity"],
+                "unit_price": info["price"],
+                "subtotal": sub
             })
-            subtotal += line_total
-
+            subtotal += sub
         subtotal = round(subtotal, 2)
         discount = round(subtotal * random.uniform(0, 0.15), 2) if random.random() < 0.3 else 0.0
         total = round(subtotal - discount, 2)
-
-        transactions.append({
-            "transaction_id": f"txn_{fake.hexify(text='^^^^^^^^^^^^')}",
-            "session_id": sess["session_id"],
-            "user_id": sess["user_id"],
-            "timestamp": sess["end_time"],
+        txns.append({
+            "transaction_id": f"txn_{uuid.uuid4().hex[:12]}",
+            "session_id": s["session_id"],
+            "user_id": s["user_id"],
+            "timestamp": s["end_time"],
             "items": items,
             "subtotal": subtotal,
             "discount": discount,
             "total": total,
             "payment_method": random.choice(PAYMENT_METHODS),
-            "status": random.choice(STATUSES_TXN)
+            "status": random.choice(TXN_STATUSES)
         })
-    return transactions
+    return txns
 
-
-# ─── MAIN ─────────────────────────────────────────────────────────────────────
-
+# ── Main ───────────────────────────────────────────────────────────────────────
 def main():
-    print("=" * 55)
-    print("  ULK E-Commerce Dataset Generator")
-    print("=" * 55)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    print("Generating users...")
+    users = generate_users()
+    with open(f"{OUTPUT_DIR}/users.json","w") as f:
+        json.dump(users, f, indent=2)
 
-    users      = generate_users(NUM_USERS)
-    categories = generate_categories(NUM_CATEGORIES)
-    products   = generate_products(NUM_PRODUCTS, categories)
-    sessions   = generate_sessions(NUM_SESSIONS, users, products, categories)
-    transactions = generate_transactions(sessions)
+    print("Generating categories...")
+    categories = generate_categories()
+    with open(f"{OUTPUT_DIR}/categories.json","w") as f:
+        json.dump(categories, f, indent=2)
 
-    print("\nWriting JSON files …")
-    write_json("users.json", users)
-    write_json("categories.json", categories)
-    write_json("products.json", products)
+    print("Generating products...")
+    products = generate_products(categories)
+    with open(f"{OUTPUT_DIR}/products.json","w") as f:
+        json.dump(products, f, indent=2)
 
-    # Split sessions across multiple files
-    num_files = math.ceil(len(sessions) / SESSIONS_PER_FILE)
-    for file_idx in range(num_files):
-        chunk = sessions[file_idx * SESSIONS_PER_FILE : (file_idx + 1) * SESSIONS_PER_FILE]
-        write_json(f"sessions_{file_idx}.json", chunk)
+    print("Generating sessions...")
+    sessions = generate_sessions(users, products)
+    chunk = len(sessions) // SESSION_FILES
+    for i in range(SESSION_FILES):
+        chunk_data = sessions[i*chunk:(i+1)*chunk] if i < SESSION_FILES-1 else sessions[i*chunk:]
+        with open(f"{OUTPUT_DIR}/sessions_{i}.json","w") as f:
+            json.dump(chunk_data, f, indent=2)
 
-    write_json("transactions.json", transactions)
+    print("Generating transactions...")
+    products_dict = {p["product_id"]: p for p in products}
+    transactions = generate_transactions(sessions, products_dict)
+    with open(f"{OUTPUT_DIR}/transactions.json","w") as f:
+        json.dump(transactions, f, indent=2)
 
-    print("\n" + "=" * 55)
-    print("  Summary")
-    print("=" * 55)
-    print(f"  Users        : {len(users):>6,}")
-    print(f"  Categories   : {len(categories):>6,}  (each with {SUBCATS_PER_CAT} subcategories)")
-    print(f"  Products     : {len(products):>6,}")
-    print(f"  Sessions     : {len(sessions):>6,}  → {num_files} file(s)")
-    print(f"  Transactions : {len(transactions):>6,}  (~{len(transactions)/len(sessions)*100:.1f}% conversion)")
-    print("=" * 55)
-    print("\nDone! All files written to:", os.path.abspath(OUTPUT_DIR))
-
+    print(f"\nDone! Dataset written to '{OUTPUT_DIR}/'")
+    print(f"  users:        {len(users)}")
+    print(f"  categories:   {len(categories)}")
+    print(f"  products:     {len(products)}")
+    print(f"  sessions:     {len(sessions)} across {SESSION_FILES} files")
+    print(f"  transactions: {len(transactions)}")
 
 if __name__ == "__main__":
     main()
