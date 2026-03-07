@@ -91,7 +91,7 @@ rwanda-ecommerce-analytics/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/your-username/rwanda-ecommerce-analytics.git
+git clone https://github.com/tuyandre/advanced_database_work
 cd rwanda-ecommerce-analytics
 
 pip install faker pandas pymongo happybase pyspark matplotlib
