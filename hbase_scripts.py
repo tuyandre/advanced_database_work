@@ -27,7 +27,7 @@ HBASE_HOST = "localhost"
 
 try:
     import happybase
-    conn = happybase.Connection(HBASE_HOST, timeout=3000)
+    conn = happybase.Connection(HBASE_HOST, timeout=15000)
     conn.open()
     DEMO_MODE = False
     print("Connected to HBase at", HBASE_HOST)
@@ -42,49 +42,9 @@ TABLE 1: user_sessions
 ======================
 Purpose: Store time-series user browsing activity for fast user-activity lookups.
 
-Row Key Design:  <user_id>#<reverse_timestamp>
-  - user_id groups all sessions for a user together
-  - reverse_timestamp = (Long.MAX_VALUE - epoch_millis) ensures most RECENT
-    sessions appear first in HBase scans (newest-first ordering)
-  - Separator '#' prevents key collisions between fields
-
-Example row key: "user_000042#9223370799715000807"
-
-Column Families:
-  sess:   Core session metadata     (TTL: 90 days → archive to cold storage)
-  device: Device & geo information  (low churn, good for caching)
-  stats:  Aggregated session metrics (updated by Spark batch job)
-
-Columns:
-  sess:session_id        → "sess_a7b3c9d8e2"
-  sess:start_time        → "2025-03-12T14:37:22"
-  sess:end_time          → "2025-03-12T14:52:41"
-  sess:duration_seconds  → "919"
-  sess:conversion_status → "converted"
-  sess:referrer          → "search_engine"
-  sess:viewed_products   → "prod_00123,prod_02456,prod_01872"  (CSV)
-  device:type            → "mobile"
-  device:os              → "iOS"
-  device:browser         → "Safari"
-  device:city            → "North Michaelville"
-  device:state           → "WY"
-  device:ip_address      → "172.24.78.193"
-  stats:page_view_count  → "4"
-  stats:cart_size        → "1"
-
-Justification for HBase over MongoDB for sessions:
-  - A 90-day window can generate 100M+ page_view events. HBase handles this
-    horizontally with region splits; MongoDB would require sharding setup.
-  - Row key scan (user + time range) gives O(1) region server lookup.
-  - Sparse columns (not every session has cart data) map naturally to
-    wide-column model with no wasted space.
 
 TABLE 2: product_performance
 ============================
-Purpose: Track daily product engagement metrics for trend analysis.
-
-Row Key Design:  <product_id>#<date>
-  Example: "prod_00123#2025-03-12"
 
 Column Families:
   views: Daily view counters     (incremented by Spark streaming)
@@ -107,74 +67,6 @@ Columns:
 HBASE_SHELL_COMMANDS = """
 # ── Connect to HBase Shell ────────────────────────────────────────────
 # docker exec -it hbase hbase shell
-
-# ── Create Tables ─────────────────────────────────────────────────────
-
-create 'user_sessions',
-  {NAME => 'sess',   VERSIONS => 1, COMPRESSION => 'NONE',
-   BLOOMFILTER => 'ROW', TTL => 7776000},
-  {NAME => 'device', VERSIONS => 1, COMPRESSION => 'NONE'},
-  {NAME => 'stats',  VERSIONS => 3, COMPRESSION => 'NONE'}
-
-create 'product_performance',
-  {NAME => 'views', VERSIONS => 1, COMPRESSION => 'NONE',
-   BLOOMFILTER => 'ROWCOL'},
-  {NAME => 'sales', VERSIONS => 1, COMPRESSION => 'NONE'}
-
-# ── Verify Tables ─────────────────────────────────────────────────────
-list
-describe 'user_sessions'
-describe 'product_performance'
-
-# ── Sample Manual Put (user_sessions) ─────────────────────────────────
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'sess:session_id',        'sess_a7b3c9d8e2'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'sess:start_time',        '2025-03-12T14:37:22'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'sess:end_time',          '2025-03-12T14:52:41'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'sess:duration_seconds',  '919'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'sess:conversion_status', 'converted'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'sess:referrer',          'search_engine'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'device:type',            'mobile'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'device:os',              'iOS'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'device:browser',         'Safari'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'stats:page_view_count',  '4'
-put 'user_sessions', 'user_000042#9223370799715000807',
-    'stats:cart_size',        '1'
-
-# ── Query: Get all sessions for user_000042 ───────────────────────────
-scan 'user_sessions',
-  {STARTROW => 'user_000042#',
-   STOPROW  => 'user_000042$',
-   LIMIT    => 20}
-
-# ── Query: Get sessions with conversion_status = 'converted' ──────────
-scan 'user_sessions',
-  {STARTROW => 'user_000042#',
-   STOPROW  => 'user_000042$',
-   FILTER   => "SingleColumnValueFilter('sess','conversion_status',
-                =,'binary:converted')"}
-
-# ── Query: Product performance for prod_00123 over March 2025 ─────────
-scan 'product_performance',
-  {STARTROW => 'prod_00123#2025-03-01',
-   STOPROW  => 'prod_00123#2025-03-32',
-   COLUMNS  => ['views:view_count','sales:units_sold','sales:revenue']}
-
-# ── Get single row ─────────────────────────────────────────────────────
-get 'user_sessions', 'user_000042#9223370799715000807'
-
-# ── Count rows ─────────────────────────────────────────────────────────
-count 'user_sessions', {INTERVAL => 100}
-count 'product_performance'
 
 # ── Delete table ───────────────────────────────────────────────────────
 disable 'user_sessions'
@@ -308,7 +200,7 @@ def demo_simulate():
 # ════════════════════════════════════════════════════════════════════════════
 def main():
     print("=" * 60)
-    print("ULK Final Project – HBase Scripts")
+    print("ULK Final Exam – HBase Scripts")
     print("=" * 60)
 
     print("\n── HBase Shell Commands ──────────────────────────────────")

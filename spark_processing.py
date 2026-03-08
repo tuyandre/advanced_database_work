@@ -191,15 +191,6 @@ def cohort_analysis(users, txns):
 
 # ── Step 4: Integrated CLV Estimation ─────────────────────────────────────────
 def estimate_clv(users, txns, sessions, months_projection=6):
-    """
-    Customer Lifetime Value estimation combining:
-      - Purchase history (transactions)   → avg order value, frequency
-      - Session engagement (sessions)     → avg session duration, conversion rate
-      - Registration date (users)         → tenure in months
-
-    CLV formula: CLV = avg_monthly_revenue × projected_months × retention_factor
-    retention_factor derived from session engagement (high engagement → higher retention)
-    """
     # User spend & order history
     user_stats = defaultdict(lambda: {"spend":0.0,"orders":0,"sessions":0,
                                        "converted_sessions":0,"total_duration":0})
