@@ -1,0 +1,101 @@
+category_id,category_name,subcategory_id,subcategory_name,profit_margin
+cat_000,Food & Beverages,sub_000_00,Dairy Products,0.25
+cat_000,Food & Beverages,sub_000_01,Grains & Flour,0.19
+cat_000,Food & Beverages,sub_000_02,Beverages,0.24
+cat_000,Food & Beverages,sub_000_03,Cooking Oil,0.34
+cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,0.16
+cat_001,Fresh Produce,sub_001_00,Vegetables,0.16
+cat_001,Fresh Produce,sub_001_01,Fruits,0.31
+cat_001,Fresh Produce,sub_001_02,Herbs & Spices,0.23
+cat_001,Fresh Produce,sub_001_03,Mushrooms,0.34
+cat_001,Fresh Produce,sub_001_04,Flowers,0.27
+cat_002,Coffee & Tea,sub_002_00,Arabica Coffee,0.3
+cat_002,Coffee & Tea,sub_002_01,Green Tea,0.18
+cat_002,Coffee & Tea,sub_002_02,Herbal Tea,0.32
+cat_002,Coffee & Tea,sub_002_03,Instant Coffee,0.26
+cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,0.33
+cat_003,Electronics & Tech,sub_003_00,Mobile Phones,0.41
+cat_003,Electronics & Tech,sub_003_01,Solar Products,0.26
+cat_003,Electronics & Tech,sub_003_02,Home Electronics,0.2
+cat_003,Electronics & Tech,sub_003_03,Accessories,0.29
+cat_003,Electronics & Tech,sub_003_04,Network Equipment,0.13
+cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,0.43
+cat_004,Clothing & Fashion,sub_004_01,Casual Wear,0.45
+cat_004,Clothing & Fashion,sub_004_02,School Uniforms,0.2
+cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,0.44
+cat_004,Clothing & Fashion,sub_004_04,Accessories,0.34
+cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,0.26
+cat_005,Textiles & Crafts,sub_005_01,Agaseke Baskets,0.21
+cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,0.45
+cat_005,Textiles & Crafts,sub_005_03,Woven Mats,0.4
+cat_005,Textiles & Crafts,sub_005_04,Jewelry,0.14
+cat_006,Beauty & Personal Care,sub_006_00,Skin Care,0.23
+cat_006,Beauty & Personal Care,sub_006_01,Hair Care,0.23
+cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,0.2
+cat_006,Beauty & Personal Care,sub_006_03,Perfumes,0.34
+cat_006,Beauty & Personal Care,sub_006_04,Baby Care,0.11
+cat_007,Construction & Hardware,sub_007_00,Cement & Building,0.39
+cat_007,Construction & Hardware,sub_007_01,Iron & Steel,0.24
+cat_007,Construction & Hardware,sub_007_02,Paint & Coating,0.1
+cat_007,Construction & Hardware,sub_007_03,Plumbing,0.4
+cat_007,Construction & Hardware,sub_007_04,Electrical,0.37
+cat_008,Home & Kitchen,sub_008_00,Cookware,0.44
+cat_008,Home & Kitchen,sub_008_01,Storage,0.42
+cat_008,Home & Kitchen,sub_008_02,Bedding,0.36
+cat_008,Home & Kitchen,sub_008_03,Cleaning,0.39
+cat_008,Home & Kitchen,sub_008_04,Furniture,0.42
+cat_009,Agriculture & Farming,sub_009_00,Seeds & Seedlings,0.37
+cat_009,Agriculture & Farming,sub_009_01,Fertilizers,0.18
+cat_009,Agriculture & Farming,sub_009_02,Tools & Equipment,0.38
+cat_009,Agriculture & Farming,sub_009_03,Animal Feed,0.18
+cat_009,Agriculture & Farming,sub_009_04,Pesticides,0.17
+cat_010,Education & Office,sub_010_00,Stationery,0.19
+cat_010,Education & Office,sub_010_01,Books,0.36
+cat_010,Education & Office,sub_010_02,School Bags,0.37
+cat_010,Education & Office,sub_010_03,Office Supplies,0.34
+cat_010,Education & Office,sub_010_04,Art Materials,0.15
+cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,0.13
+cat_011,Health & Pharmacy,sub_011_01,Vitamins,0.32
+cat_011,Health & Pharmacy,sub_011_02,First Aid,0.11
+cat_011,Health & Pharmacy,sub_011_03,Medical Devices,0.38
+cat_011,Health & Pharmacy,sub_011_04,Baby Health,0.11
+cat_012,Automotive & Transport,sub_012_00,Spare Parts,0.23
+cat_012,Automotive & Transport,sub_012_01,Lubricants,0.15
+cat_012,Automotive & Transport,sub_012_02,Tyres,0.42
+cat_012,Automotive & Transport,sub_012_03,Car Accessories,0.21
+cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,0.25
+cat_013,Energy & Solar,sub_013_00,Solar Panels,0.17
+cat_013,Energy & Solar,sub_013_01,Batteries,0.38
+cat_013,Energy & Solar,sub_013_02,Inverters,0.41
+cat_013,Energy & Solar,sub_013_03,Gas & LPG,0.23
+cat_013,Energy & Solar,sub_013_04,Lighting,0.28
+cat_014,Livestock & Poultry,sub_014_00,Cattle Products,0.2
+cat_014,Livestock & Poultry,sub_014_01,Poultry,0.16
+cat_014,Livestock & Poultry,sub_014_02,Fish & Seafood,0.42
+cat_014,Livestock & Poultry,sub_014_03,Goat Products,0.43
+cat_014,Livestock & Poultry,sub_014_04,Beekeeping,0.44
+cat_015,Sports & Recreation,sub_015_00,Football Equipment,0.2
+cat_015,Sports & Recreation,sub_015_01,Fitness,0.4
+cat_015,Sports & Recreation,sub_015_02,Outdoor,0.38
+cat_015,Sports & Recreation,sub_015_03,Games,0.26
+cat_015,Sports & Recreation,sub_015_04,Cycling,0.13
+cat_016,Baby & Children,sub_016_00,Baby Food,0.36
+cat_016,Baby & Children,sub_016_01,Toys,0.18
+cat_016,Baby & Children,sub_016_02,Baby Clothing,0.34
+cat_016,Baby & Children,sub_016_03,School Items,0.34
+cat_016,Baby & Children,sub_016_04,Safety Products,0.24
+cat_017,Packaging & Logistics,sub_017_00,Boxes & Cartons,0.4
+cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,0.3
+cat_017,Packaging & Logistics,sub_017_02,Wrapping,0.13
+cat_017,Packaging & Logistics,sub_017_03,Labels,0.24
+cat_017,Packaging & Logistics,sub_017_04,Cold Storage,0.19
+cat_018,Hospitality & Catering,sub_018_00,Restaurant Equipment,0.14
+cat_018,Hospitality & Catering,sub_018_01,Uniforms,0.23
+cat_018,Hospitality & Catering,sub_018_02,Cleaning Products,0.36
+cat_018,Hospitality & Catering,sub_018_03,Disposables,0.19
+cat_018,Hospitality & Catering,sub_018_04,Decor,0.23
+cat_019,Digital Services,sub_019_00,Airtime & Data,0.32
+cat_019,Digital Services,sub_019_01,Mobile Money,0.23
+cat_019,Digital Services,sub_019_02,Printing,0.34
+cat_019,Digital Services,sub_019_03,Photography,0.27
+cat_019,Digital Services,sub_019_04,Software,0.32

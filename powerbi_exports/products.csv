@@ -1,0 +1,501 @@
+product_id,name,category_id,category_name,subcategory_id,subcategory_name,base_price_rwf,current_stock,is_active,creation_date
+prod_00000,Isombe Cassava Leaves,cat_017,Packaging & Logistics,sub_017_02,Wrapping,18347.49,331,True,2024-10-22T11:49:22
+prod_00001,Cement Bag 50kg Cimerwa,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,19920.58,49,True,2024-10-12T06:34:49
+prod_00002,PVC Pipe 2inch,cat_018,Hospitality & Catering,sub_018_01,Uniforms,17765.57,50,True,2024-12-03T14:04:43
+prod_00003,Door Lock Yale,cat_007,Construction & Hardware,sub_007_02,Paint & Coating,2437.42,188,True,2024-12-06T13:45:02
+prod_00004,Exercise Book 96pages,cat_002,Coffee & Tea,sub_002_01,Green Tea,13013.24,497,True,2024-11-27T23:27:03
+prod_00005,Akabanga Chilli Oil,cat_006,Beauty & Personal Care,sub_006_04,Baby Care,4711.05,119,True,2024-12-24T10:32:14
+prod_00006,Passion Fruit Tray,cat_008,Home & Kitchen,sub_008_01,Storage,19756.78,128,True,2024-11-22T10:47:35
+prod_00007,Cement Bag 50kg Cimerwa,cat_000,Food & Beverages,sub_000_02,Beverages,15904.7,301,True,2024-10-24T02:25:14
+prod_00008,Mosquito Net Treated,cat_016,Baby & Children,sub_016_00,Baby Food,15040.47,229,True,2024-11-16T05:44:00
+prod_00009,PVC Pipe 2inch,cat_009,Agriculture & Farming,sub_009_03,Animal Feed,13045.14,31,True,2024-10-04T00:35:10
+prod_00010,Door Lock Yale,cat_002,Coffee & Tea,sub_002_00,Arabica Coffee,6781.18,33,True,2024-10-15T09:38:34
+prod_00011,Rwanda Arabica Coffee,cat_016,Baby & Children,sub_016_04,Safety Products,8888.89,359,True,2024-12-17T00:02:52
+prod_00012,Nziza Body Lotion,cat_010,Education & Office,sub_010_03,Office Supplies,6594.21,191,True,2024-10-25T17:56:10
+prod_00013,Paint Bucket 20L,cat_004,Clothing & Fashion,sub_004_04,Accessories,1669.63,287,True,2024-11-24T12:35:28
+prod_00014,Power Bank 10000mAh,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,12208.0,53,True,2024-11-04T03:23:42
+prod_00015,Imishanana Traditional Dress,cat_003,Electronics & Tech,sub_003_02,Home Electronics,16984.78,58,True,2024-11-05T16:28:45
+prod_00016,Nivea Roll-On,cat_000,Food & Beverages,sub_000_01,Grains & Flour,5828.77,158,True,2024-12-14T00:32:34
+prod_00017,Amavuta Shea Butter,cat_002,Coffee & Tea,sub_002_01,Green Tea,14948.9,46,True,2024-10-03T23:26:10
+prod_00018,Imishanana Traditional Dress,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,6576.93,397,True,2024-11-01T11:52:00
+prod_00019,Mattress Foam Single,cat_014,Livestock & Poultry,sub_014_03,Goat Products,9970.4,212,True,2024-11-12T22:02:15
+prod_00020,Sandals Handmade,cat_009,Agriculture & Farming,sub_009_00,Seeds & Seedlings,4800.11,28,True,2024-11-28T04:31:42
+prod_00021,Isombe Cassava Leaves,cat_003,Electronics & Tech,sub_003_00,Mobile Phones,10199.01,89,True,2024-11-11T19:29:56
+prod_00022,Nivea Roll-On,cat_013,Energy & Solar,sub_013_00,Solar Panels,9465.21,441,True,2024-10-08T13:25:58
+prod_00023,Stapler Heavy Duty,cat_000,Food & Beverages,sub_000_02,Beverages,3851.53,235,True,2024-11-30T00:20:10
+prod_00024,Mutzig Beer,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,2033.62,158,True,2024-12-24T12:28:08
+prod_00025,Earphones Oraimo,cat_016,Baby & Children,sub_016_00,Baby Food,10846.79,463,True,2024-10-19T19:49:42
+prod_00026,Electric Wire 2.5mm,cat_003,Electronics & Tech,sub_003_01,Solar Products,5491.38,308,True,2024-10-17T20:16:55
+prod_00027,School Uniform Set,cat_018,Hospitality & Catering,sub_018_04,Decor,6802.56,161,True,2024-11-30T21:31:20
+prod_00028,Impala Club Soda,cat_008,Home & Kitchen,sub_008_04,Furniture,1595.36,37,True,2024-11-19T06:10:50
+prod_00029,Charcoal Stove Jiko,cat_019,Digital Services,sub_019_04,Software,10387.82,297,True,2024-11-14T22:11:46
+prod_00030,PVC Pipe 2inch,cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,9285.2,460,True,2024-12-18T17:41:22
+prod_00031,Akagera Print T-Shirt,cat_016,Baby & Children,sub_016_04,Safety Products,12391.21,190,True,2024-11-05T07:56:37
+prod_00032,Dettol Antiseptic,cat_002,Coffee & Tea,sub_002_02,Herbal Tea,2342.87,197,True,2024-12-05T20:44:18
+prod_00033,Paint Bucket 20L,cat_004,Clothing & Fashion,sub_004_04,Accessories,14322.26,158,True,2024-10-09T05:24:34
+prod_00034,Sweet Potato Bag,cat_016,Baby & Children,sub_016_02,Baby Clothing,855.5,92,True,2024-10-30T23:42:36
+prod_00035,Toothpaste Colgate,cat_002,Coffee & Tea,sub_002_02,Herbal Tea,16966.35,259,True,2024-10-10T19:40:30
+prod_00036,Savon Ivoirien Soap,cat_004,Clothing & Fashion,sub_004_01,Casual Wear,4026.5,394,True,2024-12-07T06:26:50
+prod_00037,Roofing Nails 4inch,cat_007,Construction & Hardware,sub_007_03,Plumbing,12406.61,383,True,2024-12-13T01:11:54
+prod_00038,Feature Phone Tecno,cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,13726.98,225,True,2024-11-25T09:10:24
+prod_00039,Agaseke Woven Basket,cat_019,Digital Services,sub_019_01,Mobile Money,17523.54,328,True,2024-10-06T01:35:15
+prod_00040,Coconut Hair Oil Rwanda,cat_002,Coffee & Tea,sub_002_01,Green Tea,5819.43,262,True,2024-12-27T21:30:58
+prod_00041,Leather Shoes Kigali,cat_000,Food & Beverages,sub_000_03,Cooking Oil,1538.51,191,True,2024-11-18T17:45:40
+prod_00042,Akabanga Chilli Oil,cat_003,Electronics & Tech,sub_003_02,Home Electronics,15931.92,19,True,2024-10-14T08:37:49
+prod_00043,Cement Bag 50kg Cimerwa,cat_002,Coffee & Tea,sub_002_00,Arabica Coffee,5490.52,76,True,2024-12-21T01:36:18
+prod_00044,Akabanga Chilli Oil,cat_019,Digital Services,sub_019_03,Photography,1724.74,463,True,2024-12-21T05:37:25
+prod_00045,Inzoga ya Primus,cat_019,Digital Services,sub_019_02,Printing,5191.0,95,True,2024-11-10T10:40:22
+prod_00046,Inyange Milk,cat_016,Baby & Children,sub_016_04,Safety Products,10392.89,283,True,2024-11-19T06:50:46
+prod_00047,Window Glass Panel,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,7223.65,336,True,2024-12-11T03:52:34
+prod_00048,Isombe Cassava Leaves,cat_015,Sports & Recreation,sub_015_01,Fitness,16324.2,366,True,2024-10-07T03:02:05
+prod_00049,Ibirayi Fries,cat_010,Education & Office,sub_010_02,School Bags,10549.98,278,True,2024-12-19T04:02:01
+prod_00050,Plastic Jerry Can 20L,cat_010,Education & Office,sub_010_02,School Bags,2927.26,223,True,2024-11-05T17:32:48
+prod_00051,Sandals Handmade,cat_011,Health & Pharmacy,sub_011_04,Baby Health,5701.05,372,True,2024-10-09T00:29:55
+prod_00052,Ubwiza Face Cream,cat_003,Electronics & Tech,sub_003_00,Mobile Phones,6894.44,156,True,2024-10-29T16:53:27
+prod_00053,PVC Pipe 2inch,cat_019,Digital Services,sub_019_03,Photography,5853.83,485,True,2024-12-16T20:16:37
+prod_00054,Nziza Body Lotion,cat_001,Fresh Produce,sub_001_01,Fruits,1811.05,330,True,2024-12-15T14:04:20
+prod_00055,Vaseline Petroleum Jelly,cat_014,Livestock & Poultry,sub_014_00,Cattle Products,11691.47,187,True,2024-11-21T09:43:51
+prod_00056,Electric Wire 2.5mm,cat_017,Packaging & Logistics,sub_017_00,Boxes & Cartons,5604.65,360,True,2024-10-26T06:31:08
+prod_00057,School Uniform Set,cat_005,Textiles & Crafts,sub_005_03,Woven Mats,19946.62,349,True,2024-12-18T16:37:57
+prod_00058,Plastic Jerry Can 20L,cat_005,Textiles & Crafts,sub_005_01,Agaseke Baskets,15977.08,114,True,2024-11-19T09:29:12
+prod_00059,Sufuria Cooking Pot 5L,cat_000,Food & Beverages,sub_000_02,Beverages,11303.42,239,True,2024-11-05T19:37:31
+prod_00060,Passion Fruit Tray,cat_016,Baby & Children,sub_016_03,School Items,15498.71,294,True,2024-12-19T22:31:11
+prod_00061,Sweet Potato Bag,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,4048.28,221,True,2024-10-13T12:40:06
+prod_00062,Kitenge Fabric 2m,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,3658.36,363,True,2024-12-30T18:05:49
+prod_00063,Urwagwa Traditional Beer,cat_004,Clothing & Fashion,sub_004_02,School Uniforms,12481.35,257,True,2024-10-10T01:42:14
+prod_00064,Urwagwa Traditional Beer,cat_002,Coffee & Tea,sub_002_00,Arabica Coffee,18996.66,295,True,2024-12-14T20:36:44
+prod_00065,Sufuria Cooking Pot 5L,cat_015,Sports & Recreation,sub_015_04,Cycling,6148.6,247,True,2024-10-30T07:55:49
+prod_00066,Passion Fruit Tray,cat_014,Livestock & Poultry,sub_014_01,Poultry,7133.76,160,True,2024-10-14T22:46:20
+prod_00067,Vaseline Petroleum Jelly,cat_011,Health & Pharmacy,sub_011_04,Baby Health,11452.2,123,True,2024-10-31T23:35:38
+prod_00068,Maize Flour 2kg,cat_019,Digital Services,sub_019_03,Photography,5341.27,461,True,2024-12-24T00:18:45
+prod_00069,Door Lock Yale,cat_015,Sports & Recreation,sub_015_04,Cycling,9602.89,157,True,2024-12-25T08:23:41
+prod_00070,Rukundo Tea Leaves,cat_007,Construction & Hardware,sub_007_01,Iron & Steel,11875.21,25,True,2024-10-05T17:22:54
+prod_00071,Agaseke Woven Basket,cat_013,Energy & Solar,sub_013_01,Batteries,17707.89,187,True,2024-12-10T15:12:59
+prod_00072,Savon Ivoirien Soap,cat_002,Coffee & Tea,sub_002_03,Instant Coffee,10332.98,281,True,2024-12-14T05:11:26
+prod_00073,Roofing Nails 4inch,cat_004,Clothing & Fashion,sub_004_01,Casual Wear,12248.03,256,True,2024-11-08T23:17:58
+prod_00074,Charcoal Stove Jiko,cat_016,Baby & Children,sub_016_03,School Items,3404.34,263,True,2024-12-26T17:08:51
+prod_00075,Cavendish Banana Bundle,cat_016,Baby & Children,sub_016_04,Safety Products,10052.01,153,True,2024-11-24T15:42:30
+prod_00076,Ibirayi Fries,cat_013,Energy & Solar,sub_013_04,Lighting,6499.72,371,True,2024-12-27T06:16:44
+prod_00077,Cavendish Banana Bundle,cat_018,Hospitality & Catering,sub_018_03,Disposables,3824.99,369,True,2024-12-01T01:44:06
+prod_00078,Roofing Nails 4inch,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,9100.25,77,True,2024-11-10T15:49:43
+prod_00079,Pillow Fiber,cat_001,Fresh Produce,sub_001_01,Fruits,10614.32,166,True,2024-11-24T10:57:39
+prod_00080,Power Bank 10000mAh,cat_010,Education & Office,sub_010_04,Art Materials,7408.6,444,True,2024-12-14T22:51:59
+prod_00081,Kitenge Fabric 2m,cat_009,Agriculture & Farming,sub_009_02,Tools & Equipment,14245.57,360,True,2024-12-07T00:22:32
+prod_00082,Agaseke Woven Basket,cat_009,Agriculture & Farming,sub_009_00,Seeds & Seedlings,11682.8,194,True,2024-11-22T17:43:35
+prod_00083,Imishanana Traditional Dress,cat_002,Coffee & Tea,sub_002_02,Herbal Tea,18518.19,131,True,2024-12-03T16:31:32
+prod_00084,Mattress Foam Single,cat_017,Packaging & Logistics,sub_017_02,Wrapping,3176.82,379,True,2024-11-29T18:37:53
+prod_00085,Akabanga Chilli Oil,cat_007,Construction & Hardware,sub_007_01,Iron & Steel,1523.58,169,True,2024-11-10T03:03:43
+prod_00086,Umutsima Porridge,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,8434.7,450,True,2024-12-30T18:46:57
+prod_00087,MTN MoMo Agent Kit,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,5028.29,370,True,2024-12-11T17:15:51
+prod_00088,Akagera Print T-Shirt,cat_001,Fresh Produce,sub_001_03,Mushrooms,15865.23,479,True,2024-10-19T02:08:15
+prod_00089,Smartphone Android 4G,cat_009,Agriculture & Farming,sub_009_03,Animal Feed,19787.44,268,True,2024-11-22T17:58:54
+prod_00090,Umushanana Set,cat_003,Electronics & Tech,sub_003_02,Home Electronics,3668.64,331,True,2024-11-14T13:20:53
+prod_00091,Pineapple Crate Nyungwe,cat_018,Hospitality & Catering,sub_018_01,Uniforms,3922.15,327,True,2024-12-23T02:57:57
+prod_00092,School Bag Primary,cat_015,Sports & Recreation,sub_015_02,Outdoor,18748.6,133,True,2024-10-01T15:54:55
+prod_00093,Nivea Roll-On,cat_000,Food & Beverages,sub_000_02,Beverages,13246.83,120,True,2024-12-07T06:16:04
+prod_00094,Door Lock Yale,cat_016,Baby & Children,sub_016_02,Baby Clothing,13960.66,469,True,2024-12-02T00:18:18
+prod_00095,Electric Wire 2.5mm,cat_019,Digital Services,sub_019_02,Printing,8608.99,467,True,2024-11-23T07:48:32
+prod_00096,PVC Pipe 2inch,cat_016,Baby & Children,sub_016_02,Baby Clothing,2023.0,57,True,2024-11-24T18:36:30
+prod_00097,Calculator Casio,cat_003,Electronics & Tech,sub_003_01,Solar Products,14479.9,46,True,2024-11-17T11:03:06
+prod_00098,Isombe Cassava Leaves,cat_001,Fresh Produce,sub_001_04,Flowers,9516.38,157,True,2024-12-18T08:14:56
+prod_00099,Iron Sheet 3m,cat_013,Energy & Solar,sub_013_02,Inverters,14157.51,30,True,2024-11-22T13:00:08
+prod_00100,Bed Sheet Cotton,cat_005,Textiles & Crafts,sub_005_01,Agaseke Baskets,15433.64,330,True,2024-12-10T19:22:03
+prod_00101,Bed Sheet Cotton,cat_004,Clothing & Fashion,sub_004_02,School Uniforms,2813.35,201,True,2024-11-22T03:54:10
+prod_00102,Cavendish Banana Bundle,cat_013,Energy & Solar,sub_013_04,Lighting,7895.89,126,True,2024-10-23T07:09:21
+prod_00103,Ikivuguto Yoghurt,cat_001,Fresh Produce,sub_001_03,Mushrooms,12491.0,452,True,2024-12-30T21:35:32
+prod_00104,Bed Sheet Cotton,cat_014,Livestock & Poultry,sub_014_04,Beekeeping,13604.46,24,True,2024-12-24T16:24:08
+prod_00105,School Uniform Set,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,3232.64,119,True,2024-10-29T02:01:57
+prod_00106,Coconut Hair Oil Rwanda,cat_004,Clothing & Fashion,sub_004_04,Accessories,4810.33,140,True,2024-10-30T04:13:04
+prod_00107,Power Bank 10000mAh,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,6715.32,209,True,2024-11-10T10:06:24
+prod_00108,Solar Lantern LifeLight,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,16212.64,29,True,2024-12-28T19:30:05
+prod_00109,Smartphone Android 4G,cat_010,Education & Office,sub_010_00,Stationery,18483.41,189,True,2024-12-22T05:57:49
+prod_00110,Fresh Avocado Pack,cat_018,Hospitality & Catering,sub_018_04,Decor,4731.82,445,True,2024-10-21T06:44:48
+prod_00111,Agaseke Woven Basket,cat_015,Sports & Recreation,sub_015_01,Fitness,14064.71,104,True,2024-12-08T07:53:58
+prod_00112,Nziza Body Lotion,cat_012,Automotive & Transport,sub_012_03,Car Accessories,10906.18,157,True,2024-11-04T21:08:07
+prod_00113,Printer Paper A4 Ream,cat_010,Education & Office,sub_010_03,Office Supplies,1391.45,113,True,2024-12-23T21:27:49
+prod_00114,Inkorora Storage Basket,cat_018,Hospitality & Catering,sub_018_03,Disposables,6256.25,168,True,2024-10-20T01:09:35
+prod_00115,Mutzig Beer,cat_015,Sports & Recreation,sub_015_03,Games,3780.56,180,True,2024-12-17T04:25:37
+prod_00116,Sufuria Cooking Pot 5L,cat_001,Fresh Produce,sub_001_00,Vegetables,8541.65,322,True,2024-12-21T19:16:17
+prod_00117,Steel Rod 12mm,cat_015,Sports & Recreation,sub_015_00,Football Equipment,628.94,210,True,2024-11-23T13:25:21
+prod_00118,Nivea Roll-On,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,18401.95,76,True,2024-11-20T21:54:23
+prod_00119,Toothpaste Colgate,cat_014,Livestock & Poultry,sub_014_04,Beekeeping,5242.55,115,True,2024-12-07T16:40:42
+prod_00120,Akagera Print T-Shirt,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,9782.1,4,True,2024-12-01T19:43:50
+prod_00121,Kitenge Fabric 2m,cat_018,Hospitality & Catering,sub_018_00,Restaurant Equipment,17948.43,21,True,2024-12-29T05:46:47
+prod_00122,Dettol Antiseptic,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,13333.13,475,True,2024-10-18T09:55:34
+prod_00123,Pineapple Crate Nyungwe,cat_002,Coffee & Tea,sub_002_02,Herbal Tea,3667.78,290,True,2024-10-24T08:20:26
+prod_00124,Dettol Antiseptic,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,15036.4,27,True,2024-11-03T13:54:39
+prod_00125,Fanta Citron,cat_010,Education & Office,sub_010_00,Stationery,12865.4,230,True,2024-12-16T01:47:58
+prod_00126,Sweet Potato Bag,cat_019,Digital Services,sub_019_02,Printing,16062.08,37,True,2024-12-09T05:39:47
+prod_00127,Solar Home System 50W,cat_012,Automotive & Transport,sub_012_02,Tyres,7533.65,2,True,2024-10-09T21:15:29
+prod_00128,Sandals Handmade,cat_013,Energy & Solar,sub_013_03,Gas & LPG,11361.21,208,True,2024-11-19T18:04:25
+prod_00129,School Uniform Set,cat_012,Automotive & Transport,sub_012_00,Spare Parts,6191.02,398,True,2024-11-07T15:38:18
+prod_00130,Smart TV 32inch,cat_008,Home & Kitchen,sub_008_03,Cleaning,3345.73,222,True,2024-10-17T05:37:17
+prod_00131,Toothpaste Colgate,cat_015,Sports & Recreation,sub_015_04,Cycling,12525.04,54,True,2024-11-14T10:53:41
+prod_00132,MTN MoMo Agent Kit,cat_010,Education & Office,sub_010_03,Office Supplies,7027.36,421,True,2024-12-19T04:11:44
+prod_00133,Calculator Casio,cat_012,Automotive & Transport,sub_012_02,Tyres,6183.24,324,True,2024-12-07T11:22:08
+prod_00134,Solar Lantern LifeLight,cat_006,Beauty & Personal Care,sub_006_04,Baby Care,19946.67,349,True,2024-10-18T11:15:38
+prod_00135,Decoder StarTimes,cat_014,Livestock & Poultry,sub_014_02,Fish & Seafood,16710.0,419,True,2024-10-07T17:09:04
+prod_00136,Cement Bag 50kg Cimerwa,cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,15887.0,229,True,2024-10-08T04:21:04
+prod_00137,Ubwiza Face Cream,cat_017,Packaging & Logistics,sub_017_00,Boxes & Cartons,15919.06,359,True,2024-11-04T21:45:51
+prod_00138,Gas Cylinder 15kg,cat_005,Textiles & Crafts,sub_005_04,Jewelry,1363.79,346,True,2024-12-02T15:01:53
+prod_00139,Sweet Potato Bag,cat_016,Baby & Children,sub_016_04,Safety Products,11820.11,113,True,2024-11-25T20:23:44
+prod_00140,Irish Potato 5kg,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,9914.04,212,True,2024-10-29T16:24:25
+prod_00141,School Uniform Set,cat_011,Health & Pharmacy,sub_011_02,First Aid,7189.8,105,True,2024-12-16T03:28:53
+prod_00142,MTN MoMo Agent Kit,cat_001,Fresh Produce,sub_001_00,Vegetables,940.41,331,True,2024-11-03T07:25:46
+prod_00143,Dettol Antiseptic,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,6954.3,490,True,2024-11-11T09:30:45
+prod_00144,Kitenge Fabric 2m,cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,17720.4,303,True,2024-11-13T15:35:08
+prod_00145,Inkorora Storage Basket,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,2484.16,274,True,2024-12-24T15:51:32
+prod_00146,School Uniform Set,cat_016,Baby & Children,sub_016_02,Baby Clothing,12140.93,200,True,2024-11-29T08:27:06
+prod_00147,Vaseline Petroleum Jelly,cat_019,Digital Services,sub_019_04,Software,2152.66,160,True,2024-10-14T00:07:15
+prod_00148,Inkorora Storage Basket,cat_013,Energy & Solar,sub_013_04,Lighting,3188.41,216,True,2024-11-07T06:06:32
+prod_00149,Biro Pen Box,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,4148.42,230,True,2024-12-21T17:58:03
+prod_00150,Power Bank 10000mAh,cat_016,Baby & Children,sub_016_03,School Items,8478.12,212,True,2024-11-17T17:48:15
+prod_00151,Gas Cylinder 15kg,cat_009,Agriculture & Farming,sub_009_00,Seeds & Seedlings,5859.63,147,True,2024-11-22T04:43:07
+prod_00152,PVC Pipe 2inch,cat_003,Electronics & Tech,sub_003_04,Network Equipment,2727.03,278,True,2024-12-15T06:08:39
+prod_00153,Ikivuguto Yoghurt,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,19800.63,376,True,2024-10-10T22:38:51
+prod_00154,Stapler Heavy Duty,cat_014,Livestock & Poultry,sub_014_02,Fish & Seafood,7297.25,44,True,2024-12-19T07:06:55
+prod_00155,Umutsima Porridge,cat_011,Health & Pharmacy,sub_011_04,Baby Health,12839.03,315,True,2024-10-17T02:45:54
+prod_00156,Rwanda Arabica Coffee,cat_018,Hospitality & Catering,sub_018_02,Cleaning Products,10879.48,275,True,2024-11-27T22:46:45
+prod_00157,Irish Potato 5kg,cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,18415.99,443,True,2024-10-27T22:12:38
+prod_00158,Kitenge Fabric 2m,cat_018,Hospitality & Catering,sub_018_02,Cleaning Products,12742.35,231,True,2024-11-06T10:12:53
+prod_00159,Inzoga ya Primus,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,19029.95,297,True,2024-11-01T18:38:21
+prod_00160,Passion Fruit Tray,cat_017,Packaging & Logistics,sub_017_03,Labels,4747.68,422,True,2024-11-11T17:08:27
+prod_00161,Door Lock Yale,cat_018,Hospitality & Catering,sub_018_03,Disposables,15871.92,349,True,2024-12-26T19:31:52
+prod_00162,School Uniform Set,cat_000,Food & Beverages,sub_000_00,Dairy Products,18623.94,225,True,2024-10-16T08:07:41
+prod_00163,Phone Charger USB-C,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,2320.13,128,True,2024-11-04T23:52:31
+prod_00164,PVC Pipe 2inch,cat_013,Energy & Solar,sub_013_00,Solar Panels,14222.11,109,True,2024-10-01T02:31:52
+prod_00165,Rukundo Tea Leaves,cat_000,Food & Beverages,sub_000_00,Dairy Products,14064.14,61,True,2024-12-19T08:00:07
+prod_00166,Irish Potato 5kg,cat_003,Electronics & Tech,sub_003_02,Home Electronics,7667.45,70,True,2024-10-30T01:18:55
+prod_00167,PVC Pipe 2inch,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,11484.18,332,True,2024-11-29T06:08:48
+prod_00168,Fanta Citron,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,17983.56,385,True,2024-10-14T14:15:15
+prod_00169,Dettol Antiseptic,cat_007,Construction & Hardware,sub_007_04,Electrical,12219.48,311,True,2024-12-10T00:28:13
+prod_00170,Mattress Foam Single,cat_009,Agriculture & Farming,sub_009_00,Seeds & Seedlings,15784.13,488,True,2024-12-17T01:38:12
+prod_00171,Mutzig Beer,cat_000,Food & Beverages,sub_000_02,Beverages,18711.53,198,True,2024-10-13T19:32:32
+prod_00172,Agaseke Woven Basket,cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,1816.89,110,True,2024-10-26T10:56:09
+prod_00173,Sweet Potato Bag,cat_016,Baby & Children,sub_016_03,School Items,8759.72,42,True,2024-11-09T01:22:27
+prod_00174,Smart TV 32inch,cat_017,Packaging & Logistics,sub_017_02,Wrapping,8119.26,390,True,2024-12-01T14:00:45
+prod_00175,Coconut Hair Oil Rwanda,cat_002,Coffee & Tea,sub_002_03,Instant Coffee,2761.74,311,True,2024-11-29T10:45:17
+prod_00176,Fresh Avocado Pack,cat_016,Baby & Children,sub_016_04,Safety Products,15768.25,132,True,2024-12-09T23:30:19
+prod_00177,Calculator Casio,cat_000,Food & Beverages,sub_000_02,Beverages,16238.6,268,True,2024-10-27T09:45:38
+prod_00178,Roofing Nails 4inch,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,3567.54,52,True,2024-12-15T01:59:13
+prod_00179,Cement Bag 50kg Cimerwa,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,18444.42,476,True,2024-10-18T09:00:33
+prod_00180,Charcoal Stove Jiko,cat_007,Construction & Hardware,sub_007_02,Paint & Coating,5341.13,368,True,2024-12-28T22:05:46
+prod_00181,Gahunda Work Shirt,cat_001,Fresh Produce,sub_001_01,Fruits,4852.11,23,True,2024-11-20T01:50:26
+prod_00182,Feature Phone Tecno,cat_010,Education & Office,sub_010_00,Stationery,11285.28,188,True,2024-10-01T18:34:10
+prod_00183,Toothpaste Colgate,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,3436.04,209,True,2024-12-30T12:38:37
+prod_00184,Impala Club Soda,cat_009,Agriculture & Farming,sub_009_00,Seeds & Seedlings,4501.29,214,True,2024-10-24T02:58:14
+prod_00185,Charcoal Stove Jiko,cat_001,Fresh Produce,sub_001_01,Fruits,17997.11,211,True,2024-11-20T11:07:36
+prod_00186,Leather Shoes Kigali,cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,1959.19,31,True,2024-11-25T03:07:05
+prod_00187,Printer Paper A4 Ream,cat_012,Automotive & Transport,sub_012_02,Tyres,6702.13,119,True,2024-10-27T09:42:11
+prod_00188,Solar Lantern LifeLight,cat_003,Electronics & Tech,sub_003_01,Solar Products,2560.33,238,True,2024-11-13T15:33:59
+prod_00189,Sandals Handmade,cat_014,Livestock & Poultry,sub_014_02,Fish & Seafood,9535.26,61,True,2024-12-22T18:25:38
+prod_00190,Biro Pen Box,cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,14367.57,202,True,2024-11-04T12:56:26
+prod_00191,Power Bank 10000mAh,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,2347.14,411,True,2024-10-10T21:27:40
+prod_00192,Inzoga ya Primus,cat_004,Clothing & Fashion,sub_004_01,Casual Wear,16561.63,351,True,2024-11-06T03:22:53
+prod_00193,School Bag Primary,cat_006,Beauty & Personal Care,sub_006_03,Perfumes,16281.32,463,True,2024-10-09T22:19:32
+prod_00194,Sweet Potato Bag,cat_013,Energy & Solar,sub_013_03,Gas & LPG,10174.46,349,True,2024-11-07T03:49:27
+prod_00195,Pineapple Crate Nyungwe,cat_001,Fresh Produce,sub_001_04,Flowers,12573.94,331,True,2024-10-24T20:43:12
+prod_00196,Calculator Casio,cat_013,Energy & Solar,sub_013_01,Batteries,13031.72,269,True,2024-12-17T09:36:21
+prod_00197,Kitenge Fabric 2m,cat_016,Baby & Children,sub_016_02,Baby Clothing,8073.43,13,True,2024-10-18T11:00:04
+prod_00198,Earphones Oraimo,cat_001,Fresh Produce,sub_001_03,Mushrooms,10823.93,299,True,2024-12-14T10:52:18
+prod_00199,Vaseline Petroleum Jelly,cat_008,Home & Kitchen,sub_008_04,Furniture,16417.56,377,True,2024-12-29T01:22:10
+prod_00200,Calculator Casio,cat_011,Health & Pharmacy,sub_011_01,Vitamins,3933.96,162,True,2024-11-27T12:40:13
+prod_00201,Phone Charger USB-C,cat_004,Clothing & Fashion,sub_004_04,Accessories,18993.19,414,True,2024-12-21T05:38:41
+prod_00202,Irish Potato 5kg,cat_019,Digital Services,sub_019_01,Mobile Money,888.6,0,False,2024-11-16T09:47:42
+prod_00203,Dettol Antiseptic,cat_018,Hospitality & Catering,sub_018_01,Uniforms,15600.15,269,True,2024-12-22T04:26:36
+prod_00204,Biro Pen Box,cat_018,Hospitality & Catering,sub_018_00,Restaurant Equipment,7062.94,69,True,2024-11-01T07:43:11
+prod_00205,School Bag Primary,cat_019,Digital Services,sub_019_02,Printing,4853.13,417,True,2024-11-27T04:21:11
+prod_00206,Mutzig Beer,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,1131.46,162,True,2024-11-28T11:40:02
+prod_00207,Akagera Print T-Shirt,cat_007,Construction & Hardware,sub_007_02,Paint & Coating,19656.4,325,True,2024-10-17T07:12:21
+prod_00208,PVC Pipe 2inch,cat_014,Livestock & Poultry,sub_014_00,Cattle Products,5671.64,354,True,2024-10-25T05:28:20
+prod_00209,Mutzig Beer,cat_013,Energy & Solar,sub_013_01,Batteries,17748.76,451,True,2024-11-17T20:57:51
+prod_00210,Exercise Book 96pages,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,891.52,487,True,2024-10-26T08:28:17
+prod_00211,Sorghum Flour 1kg,cat_002,Coffee & Tea,sub_002_02,Herbal Tea,12083.6,457,True,2024-11-29T13:53:45
+prod_00212,Bed Sheet Cotton,cat_019,Digital Services,sub_019_03,Photography,3563.52,169,True,2024-10-10T19:56:52
+prod_00213,Sufuria Cooking Pot 5L,cat_008,Home & Kitchen,sub_008_02,Bedding,6299.31,25,True,2024-10-10T07:30:01
+prod_00214,Gahunda Work Shirt,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,1001.85,326,True,2024-10-17T14:04:04
+prod_00215,PVC Pipe 2inch,cat_012,Automotive & Transport,sub_012_03,Car Accessories,10037.39,135,True,2024-12-04T04:20:05
+prod_00216,Stapler Heavy Duty,cat_014,Livestock & Poultry,sub_014_02,Fish & Seafood,4911.72,288,True,2024-10-27T01:47:41
+prod_00217,Fanta Citron,cat_007,Construction & Hardware,sub_007_04,Electrical,1689.18,419,True,2024-11-07T14:01:21
+prod_00218,Smartphone Android 4G,cat_012,Automotive & Transport,sub_012_00,Spare Parts,10290.98,264,True,2024-12-27T10:12:44
+prod_00219,Biro Pen Box,cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,8755.81,222,True,2024-12-06T07:47:51
+prod_00220,Stapler Heavy Duty,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,6859.47,266,True,2024-10-27T19:35:40
+prod_00221,Agaseke Woven Basket,cat_016,Baby & Children,sub_016_03,School Items,2694.12,75,True,2024-10-15T12:41:30
+prod_00222,Nivea Roll-On,cat_017,Packaging & Logistics,sub_017_02,Wrapping,17618.92,196,True,2024-10-26T15:28:58
+prod_00223,Gahunda Work Shirt,cat_001,Fresh Produce,sub_001_03,Mushrooms,17846.7,353,True,2024-11-02T04:26:13
+prod_00224,PVC Pipe 2inch,cat_008,Home & Kitchen,sub_008_03,Cleaning,17235.58,50,True,2024-12-06T11:49:15
+prod_00225,Mosquito Net Treated,cat_010,Education & Office,sub_010_02,School Bags,14711.59,330,True,2024-11-28T17:42:12
+prod_00226,Smartphone Android 4G,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,10547.76,33,True,2024-10-16T10:25:57
+prod_00227,Urwagwa Traditional Beer,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,5365.06,25,True,2024-11-14T07:36:08
+prod_00228,Radio FM Portable,cat_007,Construction & Hardware,sub_007_02,Paint & Coating,10031.34,90,True,2024-11-13T07:29:46
+prod_00229,Power Bank 10000mAh,cat_002,Coffee & Tea,sub_002_02,Herbal Tea,1035.28,83,True,2024-10-05T19:41:43
+prod_00230,Gahunda Work Shirt,cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,13205.95,10,True,2024-11-19T20:01:55
+prod_00231,Mosquito Net Treated,cat_008,Home & Kitchen,sub_008_03,Cleaning,17961.92,178,True,2024-12-22T16:20:22
+prod_00232,Rukundo Tea Leaves,cat_019,Digital Services,sub_019_03,Photography,11897.5,261,True,2024-10-01T17:07:15
+prod_00233,Mosquito Net Treated,cat_015,Sports & Recreation,sub_015_00,Football Equipment,7057.53,327,True,2024-10-27T20:15:09
+prod_00234,Radio FM Portable,cat_007,Construction & Hardware,sub_007_00,Cement & Building,16205.88,414,True,2024-12-17T21:38:34
+prod_00235,Roofing Nails 4inch,cat_013,Energy & Solar,sub_013_03,Gas & LPG,8071.36,298,True,2024-10-04T10:17:57
+prod_00236,Biro Pen Box,cat_011,Health & Pharmacy,sub_011_04,Baby Health,6353.8,430,True,2024-10-17T12:05:51
+prod_00237,Printer Paper A4 Ream,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,13261.48,181,True,2024-10-22T13:53:17
+prod_00238,Toothpaste Colgate,cat_009,Agriculture & Farming,sub_009_03,Animal Feed,17098.67,27,True,2024-11-15T16:25:46
+prod_00239,Calculator Casio,cat_016,Baby & Children,sub_016_02,Baby Clothing,8555.59,437,True,2024-12-24T13:13:32
+prod_00240,Umutsima Porridge,cat_014,Livestock & Poultry,sub_014_01,Poultry,6669.48,92,True,2024-12-09T11:37:42
+prod_00241,Impala Club Soda,cat_000,Food & Beverages,sub_000_03,Cooking Oil,5833.79,396,True,2024-12-13T21:42:32
+prod_00242,Nziza Body Lotion,cat_004,Clothing & Fashion,sub_004_04,Accessories,8957.37,206,True,2024-11-11T16:35:49
+prod_00243,Power Bank 10000mAh,cat_000,Food & Beverages,sub_000_02,Beverages,15258.53,97,True,2024-11-21T13:23:54
+prod_00244,School Uniform Set,cat_011,Health & Pharmacy,sub_011_02,First Aid,3014.15,257,True,2024-11-07T05:44:14
+prod_00245,Nivea Roll-On,cat_009,Agriculture & Farming,sub_009_03,Animal Feed,14692.72,268,True,2024-11-27T21:38:33
+prod_00246,Decoder StarTimes,cat_000,Food & Beverages,sub_000_01,Grains & Flour,4874.27,108,True,2024-10-13T17:43:53
+prod_00247,Cement Bag 50kg Cimerwa,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,1447.45,338,True,2024-10-05T15:45:20
+prod_00248,Inyange Juice,cat_014,Livestock & Poultry,sub_014_03,Goat Products,2910.1,242,True,2024-10-25T12:55:22
+prod_00249,Agaseke Woven Basket,cat_009,Agriculture & Farming,sub_009_03,Animal Feed,13402.46,266,True,2024-12-04T07:41:49
+prod_00250,Solar Lantern LifeLight,cat_003,Electronics & Tech,sub_003_00,Mobile Phones,10205.91,102,True,2024-11-29T03:04:37
+prod_00251,Plastic Jerry Can 20L,cat_015,Sports & Recreation,sub_015_02,Outdoor,5072.85,343,True,2024-10-02T05:42:29
+prod_00252,Ibirayi Fries,cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,15700.76,370,True,2024-10-08T06:52:30
+prod_00253,Pineapple Crate Nyungwe,cat_003,Electronics & Tech,sub_003_01,Solar Products,17545.74,148,True,2024-12-22T17:53:00
+prod_00254,Door Lock Yale,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,7471.78,489,True,2024-11-12T11:56:55
+prod_00255,Umutsima Porridge,cat_008,Home & Kitchen,sub_008_03,Cleaning,13953.1,409,True,2024-11-16T10:23:29
+prod_00256,Passion Fruit Tray,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,8612.54,247,True,2024-11-27T08:32:52
+prod_00257,School Bag Primary,cat_015,Sports & Recreation,sub_015_03,Games,2702.28,225,True,2024-11-09T22:21:42
+prod_00258,Biro Pen Box,cat_018,Hospitality & Catering,sub_018_01,Uniforms,19568.96,447,True,2024-12-05T00:51:01
+prod_00259,Inkorora Storage Basket,cat_019,Digital Services,sub_019_00,Airtime & Data,727.07,80,True,2024-12-30T17:14:35
+prod_00260,Electric Wire 2.5mm,cat_010,Education & Office,sub_010_01,Books,6952.45,25,True,2024-10-28T00:09:11
+prod_00261,Ikivuguto Yoghurt,cat_002,Coffee & Tea,sub_002_03,Instant Coffee,9217.83,254,True,2024-10-12T12:36:25
+prod_00262,Amavuta Shea Butter,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,503.31,405,True,2024-10-09T19:48:07
+prod_00263,Power Bank 10000mAh,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,16423.48,232,True,2024-12-21T23:24:08
+prod_00264,Iron Sheet 3m,cat_000,Food & Beverages,sub_000_02,Beverages,7425.21,493,True,2024-12-01T12:32:15
+prod_00265,Rukundo Tea Leaves,cat_003,Electronics & Tech,sub_003_02,Home Electronics,12411.61,61,True,2024-10-19T05:00:28
+prod_00266,Plastic Jerry Can 20L,cat_013,Energy & Solar,sub_013_00,Solar Panels,18569.22,344,True,2024-12-21T07:26:15
+prod_00267,Passion Fruit Tray,cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,14856.17,478,True,2024-11-23T17:06:38
+prod_00268,Kitenge Fabric 2m,cat_003,Electronics & Tech,sub_003_03,Accessories,13321.68,451,True,2024-11-28T20:27:25
+prod_00269,Exercise Book 96pages,cat_012,Automotive & Transport,sub_012_02,Tyres,19424.59,412,True,2024-11-13T23:12:25
+prod_00270,MTN MoMo Agent Kit,cat_010,Education & Office,sub_010_04,Art Materials,12835.37,107,True,2024-10-20T12:06:19
+prod_00271,Cement Bag 50kg Cimerwa,cat_016,Baby & Children,sub_016_04,Safety Products,14039.08,363,True,2024-11-01T07:12:11
+prod_00272,Ibirayi Fries,cat_017,Packaging & Logistics,sub_017_02,Wrapping,17610.81,413,True,2024-11-11T00:13:53
+prod_00273,Bed Sheet Cotton,cat_001,Fresh Produce,sub_001_01,Fruits,5706.08,82,True,2024-12-16T06:25:21
+prod_00274,Agaseke Woven Basket,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,16373.51,315,True,2024-10-10T22:47:44
+prod_00275,Nziza Body Lotion,cat_001,Fresh Produce,sub_001_03,Mushrooms,8057.32,499,True,2024-12-16T12:25:58
+prod_00276,Mutzig Beer,cat_018,Hospitality & Catering,sub_018_04,Decor,14899.78,397,True,2024-10-20T01:48:22
+prod_00277,Decoder StarTimes,cat_005,Textiles & Crafts,sub_005_01,Agaseke Baskets,14834.05,193,True,2024-10-12T14:06:52
+prod_00278,School Uniform Set,cat_000,Food & Beverages,sub_000_02,Beverages,9593.46,79,True,2024-12-31T00:31:13
+prod_00279,Bed Sheet Cotton,cat_015,Sports & Recreation,sub_015_04,Cycling,11228.12,401,True,2024-10-08T01:49:28
+prod_00280,Mattress Foam Single,cat_017,Packaging & Logistics,sub_017_03,Labels,2292.94,452,True,2024-10-22T11:25:43
+prod_00281,Smart TV 32inch,cat_015,Sports & Recreation,sub_015_04,Cycling,16561.92,4,True,2024-12-03T00:58:44
+prod_00282,Gas Cylinder 15kg,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,7936.77,483,True,2024-12-17T07:17:44
+prod_00283,Inzoga ya Primus,cat_014,Livestock & Poultry,sub_014_03,Goat Products,1355.11,333,True,2024-12-27T05:08:52
+prod_00284,Sweet Potato Bag,cat_006,Beauty & Personal Care,sub_006_01,Hair Care,17366.54,427,True,2024-11-11T04:28:46
+prod_00285,Mutzig Beer,cat_000,Food & Beverages,sub_000_03,Cooking Oil,14478.93,44,True,2024-10-04T16:16:53
+prod_00286,Pillow Fiber,cat_018,Hospitality & Catering,sub_018_01,Uniforms,18264.24,198,True,2024-11-09T13:51:11
+prod_00287,Rukundo Tea Leaves,cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,1733.13,299,True,2024-12-12T10:11:30
+prod_00288,Pillow Fiber,cat_009,Agriculture & Farming,sub_009_02,Tools & Equipment,12328.03,391,True,2024-10-28T07:58:59
+prod_00289,Inyange Juice,cat_007,Construction & Hardware,sub_007_01,Iron & Steel,15061.7,408,True,2024-12-17T08:36:34
+prod_00290,Coconut Hair Oil Rwanda,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,3256.79,2,True,2024-10-05T01:20:18
+prod_00291,Decoder StarTimes,cat_006,Beauty & Personal Care,sub_006_03,Perfumes,18159.75,262,True,2024-12-22T16:02:34
+prod_00292,Feature Phone Tecno,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,4036.48,290,True,2024-12-17T15:20:34
+prod_00293,Inzoga ya Primus,cat_018,Hospitality & Catering,sub_018_03,Disposables,19055.03,65,True,2024-11-04T16:11:33
+prod_00294,Sorghum Flour 1kg,cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,9974.29,315,True,2024-11-01T21:06:06
+prod_00295,Akagera Print T-Shirt,cat_000,Food & Beverages,sub_000_02,Beverages,5300.42,364,True,2024-10-22T12:11:32
+prod_00296,Fanta Citron,cat_015,Sports & Recreation,sub_015_03,Games,9184.48,156,True,2024-12-15T05:20:16
+prod_00297,Printer Paper A4 Ream,cat_008,Home & Kitchen,sub_008_01,Storage,17880.29,134,True,2024-10-20T01:43:10
+prod_00298,Sweet Potato Bag,cat_018,Hospitality & Catering,sub_018_03,Disposables,15499.4,464,True,2024-10-21T15:46:05
+prod_00299,Savon Ivoirien Soap,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,4854.48,301,True,2024-12-14T23:13:40
+prod_00300,Calculator Casio,cat_016,Baby & Children,sub_016_00,Baby Food,13422.23,493,True,2024-12-22T07:56:27
+prod_00301,Phone Charger USB-C,cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,18813.92,112,True,2024-10-04T22:11:06
+prod_00302,Mosquito Net Treated,cat_001,Fresh Produce,sub_001_01,Fruits,10598.76,184,True,2024-12-16T20:14:11
+prod_00303,Toothpaste Colgate,cat_008,Home & Kitchen,sub_008_02,Bedding,11783.31,89,True,2024-11-25T08:34:10
+prod_00304,Phone Charger USB-C,cat_007,Construction & Hardware,sub_007_04,Electrical,8413.92,444,True,2024-12-19T08:17:58
+prod_00305,Cement Bag 50kg Cimerwa,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,13047.8,76,True,2024-10-21T12:52:14
+prod_00306,Inyange Milk,cat_010,Education & Office,sub_010_00,Stationery,9889.57,245,True,2024-11-16T11:43:08
+prod_00307,Mosquito Net Treated,cat_007,Construction & Hardware,sub_007_00,Cement & Building,2993.76,82,True,2024-11-27T12:16:12
+prod_00308,Sorghum Flour 1kg,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,19400.25,9,True,2024-12-01T21:46:06
+prod_00309,Amavuta Shea Butter,cat_007,Construction & Hardware,sub_007_03,Plumbing,12216.35,298,True,2024-12-17T03:35:22
+prod_00310,Charcoal Stove Jiko,cat_014,Livestock & Poultry,sub_014_04,Beekeeping,12016.62,193,True,2024-10-23T07:30:17
+prod_00311,Passion Fruit Tray,cat_013,Energy & Solar,sub_013_01,Batteries,12307.46,243,True,2024-10-18T05:25:25
+prod_00312,Sufuria Cooking Pot 5L,cat_019,Digital Services,sub_019_04,Software,16636.67,480,True,2024-12-27T02:05:20
+prod_00313,Fanta Citron,cat_012,Automotive & Transport,sub_012_02,Tyres,11986.44,464,True,2024-12-11T23:34:23
+prod_00314,Leather Shoes Kigali,cat_009,Agriculture & Farming,sub_009_04,Pesticides,17596.94,131,True,2024-11-09T16:12:57
+prod_00315,Dettol Antiseptic,cat_013,Energy & Solar,sub_013_02,Inverters,2578.37,333,True,2024-11-11T08:49:07
+prod_00316,Pineapple Crate Nyungwe,cat_006,Beauty & Personal Care,sub_006_03,Perfumes,11266.05,247,True,2024-11-24T03:12:54
+prod_00317,Amavuta Shea Butter,cat_003,Electronics & Tech,sub_003_01,Solar Products,9208.6,486,True,2024-12-07T21:30:49
+prod_00318,Inzoga ya Primus,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,14092.62,26,True,2024-12-08T14:56:23
+prod_00319,Umutsima Porridge,cat_008,Home & Kitchen,sub_008_01,Storage,7731.28,19,True,2024-11-29T03:08:24
+prod_00320,Ikivuguto Yoghurt,cat_005,Textiles & Crafts,sub_005_03,Woven Mats,9059.95,435,True,2024-10-20T14:00:42
+prod_00321,Mosquito Net Treated,cat_011,Health & Pharmacy,sub_011_01,Vitamins,13272.87,44,True,2024-10-16T06:52:22
+prod_00322,Nivea Roll-On,cat_000,Food & Beverages,sub_000_00,Dairy Products,18423.96,145,True,2024-11-23T08:38:37
+prod_00323,Cavendish Banana Bundle,cat_018,Hospitality & Catering,sub_018_00,Restaurant Equipment,5591.6,259,True,2024-11-09T12:41:32
+prod_00324,Door Lock Yale,cat_016,Baby & Children,sub_016_02,Baby Clothing,17584.2,406,True,2024-12-18T22:46:14
+prod_00325,Phone Charger USB-C,cat_014,Livestock & Poultry,sub_014_04,Beekeeping,17309.45,59,True,2024-11-16T19:04:18
+prod_00326,Amavuta Shea Butter,cat_010,Education & Office,sub_010_03,Office Supplies,19131.19,274,True,2024-11-20T03:32:31
+prod_00327,Feature Phone Tecno,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,18662.23,160,True,2024-11-16T06:27:16
+prod_00328,Rukundo Tea Leaves,cat_007,Construction & Hardware,sub_007_01,Iron & Steel,17518.48,117,True,2024-10-21T01:49:44
+prod_00329,School Bag Primary,cat_003,Electronics & Tech,sub_003_00,Mobile Phones,13678.34,252,True,2024-12-04T09:53:24
+prod_00330,Paint Bucket 20L,cat_008,Home & Kitchen,sub_008_03,Cleaning,4066.0,468,True,2024-12-14T04:51:37
+prod_00331,Mosquito Net Treated,cat_015,Sports & Recreation,sub_015_04,Cycling,1134.97,201,True,2024-11-03T17:14:30
+prod_00332,Earphones Oraimo,cat_014,Livestock & Poultry,sub_014_02,Fish & Seafood,13939.61,345,True,2024-10-02T03:32:33
+prod_00333,Nivea Roll-On,cat_008,Home & Kitchen,sub_008_03,Cleaning,19191.27,187,True,2024-11-03T07:28:21
+prod_00334,Earphones Oraimo,cat_008,Home & Kitchen,sub_008_03,Cleaning,4007.84,294,True,2024-10-13T17:34:35
+prod_00335,Mosquito Net Treated,cat_017,Packaging & Logistics,sub_017_03,Labels,17198.02,74,True,2024-10-20T00:51:37
+prod_00336,Roofing Nails 4inch,cat_017,Packaging & Logistics,sub_017_02,Wrapping,15813.99,128,True,2024-10-30T03:07:49
+prod_00337,Pillow Fiber,cat_003,Electronics & Tech,sub_003_03,Accessories,15019.57,184,True,2024-10-26T05:18:21
+prod_00338,Irish Potato 5kg,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,7424.63,261,True,2024-12-05T08:39:10
+prod_00339,Phone Charger USB-C,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,8725.42,292,True,2024-11-29T10:47:09
+prod_00340,Mosquito Net Treated,cat_010,Education & Office,sub_010_02,School Bags,13233.76,136,True,2024-12-08T23:25:48
+prod_00341,Fanta Citron,cat_014,Livestock & Poultry,sub_014_03,Goat Products,3762.7,11,True,2024-12-22T22:27:28
+prod_00342,Fanta Citron,cat_006,Beauty & Personal Care,sub_006_01,Hair Care,8242.39,32,True,2024-10-10T06:39:22
+prod_00343,Passion Fruit Tray,cat_003,Electronics & Tech,sub_003_02,Home Electronics,12552.99,335,True,2024-10-09T04:27:34
+prod_00344,Exercise Book 96pages,cat_004,Clothing & Fashion,sub_004_04,Accessories,16851.1,17,True,2024-10-03T18:34:33
+prod_00345,Coconut Hair Oil Rwanda,cat_014,Livestock & Poultry,sub_014_01,Poultry,19406.07,276,True,2024-12-07T17:34:44
+prod_00346,Pineapple Crate Nyungwe,cat_015,Sports & Recreation,sub_015_04,Cycling,4929.0,226,True,2024-10-09T16:40:33
+prod_00347,Phone Charger USB-C,cat_011,Health & Pharmacy,sub_011_02,First Aid,9649.36,352,True,2024-10-01T19:22:48
+prod_00348,Toothpaste Colgate,cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,7786.06,451,True,2024-11-09T23:24:50
+prod_00349,Inzoga ya Primus,cat_007,Construction & Hardware,sub_007_02,Paint & Coating,2044.59,122,True,2024-11-30T17:06:29
+prod_00350,Pillow Fiber,cat_005,Textiles & Crafts,sub_005_01,Agaseke Baskets,6147.11,233,True,2024-12-01T20:04:03
+prod_00351,Plastic Jerry Can 20L,cat_000,Food & Beverages,sub_000_01,Grains & Flour,19460.49,137,True,2024-10-28T09:22:28
+prod_00352,Irish Potato 5kg,cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,8694.74,409,True,2024-12-16T06:52:21
+prod_00353,Toothpaste Colgate,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,15625.23,278,True,2024-10-07T22:20:18
+prod_00354,Rwanda Arabica Coffee,cat_000,Food & Beverages,sub_000_00,Dairy Products,19504.67,127,True,2024-12-09T09:19:51
+prod_00355,Exercise Book 96pages,cat_016,Baby & Children,sub_016_01,Toys,9720.1,492,True,2024-12-06T03:52:32
+prod_00356,Earphones Oraimo,cat_016,Baby & Children,sub_016_00,Baby Food,5439.6,152,True,2024-12-01T23:51:34
+prod_00357,Roofing Nails 4inch,cat_013,Energy & Solar,sub_013_02,Inverters,793.82,141,True,2024-12-17T03:03:49
+prod_00358,Umutsima Porridge,cat_019,Digital Services,sub_019_01,Mobile Money,7742.27,127,True,2024-10-09T16:30:11
+prod_00359,Biro Pen Box,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,13069.21,274,True,2024-12-08T02:12:46
+prod_00360,Bed Sheet Cotton,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,14797.18,352,True,2024-10-03T01:45:20
+prod_00361,Exercise Book 96pages,cat_015,Sports & Recreation,sub_015_01,Fitness,11550.68,178,True,2024-11-22T18:43:39
+prod_00362,Savon Ivoirien Soap,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,10857.18,151,True,2024-11-13T15:08:27
+prod_00363,Sweet Potato Bag,cat_019,Digital Services,sub_019_01,Mobile Money,6753.53,337,True,2024-10-07T03:35:49
+prod_00364,Inkorora Storage Basket,cat_019,Digital Services,sub_019_02,Printing,6790.7,164,True,2024-12-02T05:24:51
+prod_00365,Savon Ivoirien Soap,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,1120.43,428,True,2024-12-02T07:23:23
+prod_00366,Cement Bag 50kg Cimerwa,cat_007,Construction & Hardware,sub_007_04,Electrical,14497.98,476,True,2024-10-02T06:29:34
+prod_00367,WiFi Router ZTE,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,16561.04,270,True,2024-10-26T19:23:43
+prod_00368,Calculator Casio,cat_016,Baby & Children,sub_016_00,Baby Food,2473.89,272,True,2024-10-23T10:18:39
+prod_00369,Sorghum Flour 1kg,cat_005,Textiles & Crafts,sub_005_04,Jewelry,15109.29,382,True,2024-11-10T07:27:00
+prod_00370,Iron Sheet 3m,cat_005,Textiles & Crafts,sub_005_04,Jewelry,8330.36,336,True,2024-11-02T18:27:43
+prod_00371,Ikivuguto Yoghurt,cat_013,Energy & Solar,sub_013_02,Inverters,12364.06,279,True,2024-11-24T16:13:20
+prod_00372,Kitenge Fabric 2m,cat_009,Agriculture & Farming,sub_009_04,Pesticides,817.9,455,True,2024-10-14T02:46:21
+prod_00373,Pineapple Crate Nyungwe,cat_017,Packaging & Logistics,sub_017_04,Cold Storage,11348.3,292,True,2024-12-29T21:33:20
+prod_00374,Mutzig Beer,cat_008,Home & Kitchen,sub_008_02,Bedding,17847.69,119,True,2024-10-25T06:12:31
+prod_00375,Umutsima Porridge,cat_010,Education & Office,sub_010_03,Office Supplies,3871.6,460,True,2024-12-20T04:01:57
+prod_00376,Inyange Juice,cat_010,Education & Office,sub_010_02,School Bags,17655.95,213,True,2024-11-12T04:00:09
+prod_00377,Power Bank 10000mAh,cat_012,Automotive & Transport,sub_012_00,Spare Parts,6443.28,163,True,2024-10-04T23:57:41
+prod_00378,Passion Fruit Tray,cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,13635.89,497,True,2024-11-08T03:28:58
+prod_00379,Passion Fruit Tray,cat_010,Education & Office,sub_010_00,Stationery,9779.17,25,True,2024-12-12T08:42:35
+prod_00380,Mattress Foam Single,cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,11406.28,202,True,2024-11-17T08:47:55
+prod_00381,Coconut Hair Oil Rwanda,cat_007,Construction & Hardware,sub_007_01,Iron & Steel,1897.06,220,True,2024-12-15T10:00:34
+prod_00382,Phone Charger USB-C,cat_019,Digital Services,sub_019_00,Airtime & Data,15508.79,179,True,2024-10-17T10:23:36
+prod_00383,Cavendish Banana Bundle,cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,3541.83,436,True,2024-12-10T17:29:49
+prod_00384,Radio FM Portable,cat_009,Agriculture & Farming,sub_009_03,Animal Feed,9688.21,107,True,2024-11-02T05:19:43
+prod_00385,Mattress Foam Single,cat_017,Packaging & Logistics,sub_017_03,Labels,12649.32,355,True,2024-10-14T17:21:48
+prod_00386,Savon Ivoirien Soap,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,3821.23,102,True,2024-10-28T13:47:58
+prod_00387,Inkorora Storage Basket,cat_003,Electronics & Tech,sub_003_00,Mobile Phones,6203.66,332,True,2024-12-25T18:28:35
+prod_00388,Dettol Antiseptic,cat_019,Digital Services,sub_019_04,Software,2216.4,256,True,2024-10-20T07:24:46
+prod_00389,Umutsima Porridge,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,7262.21,181,True,2024-11-04T04:01:00
+prod_00390,Impala Club Soda,cat_008,Home & Kitchen,sub_008_03,Cleaning,17862.84,15,True,2024-12-19T02:45:29
+prod_00391,Sweet Potato Bag,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,19231.81,446,True,2024-11-29T11:06:29
+prod_00392,Bed Sheet Cotton,cat_013,Energy & Solar,sub_013_02,Inverters,18239.84,229,True,2024-11-01T23:17:20
+prod_00393,Irish Potato 5kg,cat_006,Beauty & Personal Care,sub_006_01,Hair Care,6525.47,460,True,2024-12-08T11:05:12
+prod_00394,Irish Potato 5kg,cat_018,Hospitality & Catering,sub_018_01,Uniforms,6691.18,272,True,2024-11-24T02:41:49
+prod_00395,Smartphone Android 4G,cat_000,Food & Beverages,sub_000_02,Beverages,17662.57,492,True,2024-11-10T04:47:00
+prod_00396,Sufuria Cooking Pot 5L,cat_003,Electronics & Tech,sub_003_01,Solar Products,4102.56,313,True,2024-12-14T00:37:53
+prod_00397,Pineapple Crate Nyungwe,cat_004,Clothing & Fashion,sub_004_04,Accessories,16999.7,364,True,2024-11-15T12:17:53
+prod_00398,Inzoga ya Primus,cat_005,Textiles & Crafts,sub_005_01,Agaseke Baskets,4912.32,391,True,2024-11-09T16:04:54
+prod_00399,Toothpaste Colgate,cat_005,Textiles & Crafts,sub_005_03,Woven Mats,17409.02,352,True,2024-11-17T13:38:58
+prod_00400,Smart TV 32inch,cat_010,Education & Office,sub_010_03,Office Supplies,12424.35,292,True,2024-12-12T02:04:31
+prod_00401,Agaseke Woven Basket,cat_016,Baby & Children,sub_016_04,Safety Products,8214.42,20,True,2024-12-11T09:04:13
+prod_00402,Printer Paper A4 Ream,cat_014,Livestock & Poultry,sub_014_01,Poultry,8738.01,470,True,2024-11-29T12:42:23
+prod_00403,Impala Club Soda,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,8164.8,230,True,2024-11-01T09:43:06
+prod_00404,Mattress Foam Single,cat_008,Home & Kitchen,sub_008_02,Bedding,13988.49,364,True,2024-12-28T01:50:30
+prod_00405,Akagera Print T-Shirt,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,12435.41,193,True,2024-10-16T12:35:35
+prod_00406,Electric Wire 2.5mm,cat_018,Hospitality & Catering,sub_018_01,Uniforms,3661.42,91,True,2024-10-15T00:57:34
+prod_00407,Akabanga Chilli Oil,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,2792.3,491,True,2024-10-13T18:34:57
+prod_00408,Exercise Book 96pages,cat_019,Digital Services,sub_019_03,Photography,5138.63,337,True,2024-11-27T04:08:55
+prod_00409,Coconut Hair Oil Rwanda,cat_008,Home & Kitchen,sub_008_04,Furniture,12758.39,422,True,2024-12-19T15:01:16
+prod_00410,MTN MoMo Agent Kit,cat_001,Fresh Produce,sub_001_01,Fruits,17149.67,295,True,2024-12-04T18:12:52
+prod_00411,School Uniform Set,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,12416.25,358,True,2024-12-07T03:20:36
+prod_00412,Iron Sheet 3m,cat_010,Education & Office,sub_010_02,School Bags,18001.83,34,True,2024-12-19T15:21:19
+prod_00413,Leather Shoes Kigali,cat_016,Baby & Children,sub_016_01,Toys,14068.68,29,True,2024-11-29T10:11:18
+prod_00414,Phone Charger USB-C,cat_008,Home & Kitchen,sub_008_04,Furniture,11715.28,181,True,2024-11-30T12:15:50
+prod_00415,Cement Bag 50kg Cimerwa,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,530.83,238,True,2024-10-03T07:53:35
+prod_00416,Agaseke Woven Basket,cat_013,Energy & Solar,sub_013_00,Solar Panels,7008.95,412,True,2024-11-24T09:51:45
+prod_00417,Amavuta Shea Butter,cat_008,Home & Kitchen,sub_008_00,Cookware,6501.56,281,True,2024-11-19T04:40:20
+prod_00418,Ikivuguto Yoghurt,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,12511.87,426,True,2024-10-03T19:50:54
+prod_00419,Umutsima Porridge,cat_004,Clothing & Fashion,sub_004_03,Shoes & Sandals,3530.03,456,True,2024-11-14T17:19:03
+prod_00420,Akagera Print T-Shirt,cat_016,Baby & Children,sub_016_02,Baby Clothing,11516.38,161,True,2024-12-05T20:18:54
+prod_00421,Vaseline Petroleum Jelly,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,19407.46,430,True,2024-10-28T05:31:09
+prod_00422,Earphones Oraimo,cat_005,Textiles & Crafts,sub_005_04,Jewelry,2778.47,384,True,2024-12-15T22:59:36
+prod_00423,Ikivuguto Yoghurt,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,16674.42,110,True,2024-10-30T09:10:33
+prod_00424,Sandals Handmade,cat_006,Beauty & Personal Care,sub_006_00,Skin Care,9153.59,409,True,2024-10-03T10:06:08
+prod_00425,Door Lock Yale,cat_004,Clothing & Fashion,sub_004_00,Traditional Wear,16531.7,264,True,2024-12-31T01:45:14
+prod_00426,Gahunda Work Shirt,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,2758.8,477,True,2024-10-31T04:38:20
+prod_00427,Cavendish Banana Bundle,cat_006,Beauty & Personal Care,sub_006_02,Soap & Hygiene,4410.83,141,True,2024-10-28T19:45:01
+prod_00428,Amavuta Shea Butter,cat_000,Food & Beverages,sub_000_04,Snacks & Confectionery,11412.7,105,True,2024-10-10T22:33:06
+prod_00429,Impala Club Soda,cat_017,Packaging & Logistics,sub_017_03,Labels,1489.16,241,True,2024-10-03T19:33:28
+prod_00430,Pillow Fiber,cat_013,Energy & Solar,sub_013_03,Gas & LPG,3990.17,456,True,2024-11-27T21:03:48
+prod_00431,Power Bank 10000mAh,cat_002,Coffee & Tea,sub_002_03,Instant Coffee,11571.89,416,True,2024-10-10T00:30:37
+prod_00432,Cavendish Banana Bundle,cat_004,Clothing & Fashion,sub_004_04,Accessories,5532.03,200,True,2024-11-05T06:53:54
+prod_00433,Sandals Handmade,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,9494.21,144,True,2024-10-17T13:59:47
+prod_00434,Sufuria Cooking Pot 5L,cat_017,Packaging & Logistics,sub_017_00,Boxes & Cartons,15952.4,236,True,2024-11-21T17:23:13
+prod_00435,Mutzig Beer,cat_012,Automotive & Transport,sub_012_00,Spare Parts,7143.93,355,True,2024-12-19T00:33:39
+prod_00436,Nivea Roll-On,cat_018,Hospitality & Catering,sub_018_03,Disposables,2729.3,237,True,2024-11-27T20:57:23
+prod_00437,WiFi Router ZTE,cat_002,Coffee & Tea,sub_002_04,Coffee Accessories,2620.52,305,True,2024-12-19T00:54:46
+prod_00438,Umushanana Set,cat_004,Clothing & Fashion,sub_004_04,Accessories,18113.49,414,True,2024-12-01T18:17:48
+prod_00439,Steel Rod 12mm,cat_012,Automotive & Transport,sub_012_04,Bicycle Parts,11769.66,105,True,2024-10-19T23:56:10
+prod_00440,Exercise Book 96pages,cat_011,Health & Pharmacy,sub_011_00,Medicines OTC,11863.18,261,True,2024-11-29T08:52:36
+prod_00441,Leather Shoes Kigali,cat_001,Fresh Produce,sub_001_00,Vegetables,14215.41,183,True,2024-12-19T16:29:37
+prod_00442,Savon Ivoirien Soap,cat_012,Automotive & Transport,sub_012_03,Car Accessories,7940.52,108,True,2024-11-22T22:13:07
+prod_00443,Irish Potato 5kg,cat_013,Energy & Solar,sub_013_01,Batteries,6125.18,343,True,2024-12-24T17:37:17
+prod_00444,Door Lock Yale,cat_015,Sports & Recreation,sub_015_03,Games,19512.01,43,True,2024-10-14T04:22:49
+prod_00445,School Bag Primary,cat_016,Baby & Children,sub_016_03,School Items,11264.98,196,True,2024-11-13T16:40:57
+prod_00446,Printer Paper A4 Ream,cat_015,Sports & Recreation,sub_015_01,Fitness,14386.53,210,True,2024-10-27T03:23:56
+prod_00447,Impala Club Soda,cat_015,Sports & Recreation,sub_015_00,Football Equipment,3270.71,269,True,2024-12-11T00:02:11
+prod_00448,Inyange Juice,cat_007,Construction & Hardware,sub_007_03,Plumbing,12797.93,491,True,2024-12-04T10:37:08
+prod_00449,Ikivuguto Yoghurt,cat_015,Sports & Recreation,sub_015_03,Games,10496.93,293,True,2024-11-15T13:23:26
+prod_00450,Umushanana Set,cat_019,Digital Services,sub_019_02,Printing,14675.95,133,True,2024-11-24T17:31:50
+prod_00451,Decoder StarTimes,cat_019,Digital Services,sub_019_00,Airtime & Data,6092.91,64,True,2024-10-09T00:15:45
+prod_00452,Mattress Foam Single,cat_000,Food & Beverages,sub_000_00,Dairy Products,12274.52,302,True,2024-12-28T08:45:36
+prod_00453,Iron Sheet 3m,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,19689.4,304,True,2024-10-15T02:02:17
+prod_00454,Window Glass Panel,cat_012,Automotive & Transport,sub_012_01,Lubricants,13383.01,326,True,2024-12-10T11:42:01
+prod_00455,Steel Rod 12mm,cat_012,Automotive & Transport,sub_012_03,Car Accessories,6376.66,485,True,2024-12-12T10:39:24
+prod_00456,Steel Rod 12mm,cat_000,Food & Beverages,sub_000_02,Beverages,18580.84,195,True,2024-11-13T13:49:40
+prod_00457,Stapler Heavy Duty,cat_019,Digital Services,sub_019_02,Printing,7031.86,410,True,2024-10-26T22:21:34
+prod_00458,Inyange Juice,cat_006,Beauty & Personal Care,sub_006_04,Baby Care,7079.43,92,True,2024-12-07T00:27:54
+prod_00459,WiFi Router ZTE,cat_013,Energy & Solar,sub_013_00,Solar Panels,10742.65,228,True,2024-12-06T13:19:47
+prod_00460,Calculator Casio,cat_019,Digital Services,sub_019_00,Airtime & Data,14307.46,44,True,2024-10-12T15:34:00
+prod_00461,Kitenge Fabric 2m,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,14065.25,150,True,2024-10-25T14:18:54
+prod_00462,Umutsima Porridge,cat_013,Energy & Solar,sub_013_02,Inverters,5518.06,37,True,2024-12-15T19:14:08
+prod_00463,Inkorora Storage Basket,cat_008,Home & Kitchen,sub_008_02,Bedding,3969.62,251,True,2024-10-07T17:42:36
+prod_00464,Rukundo Tea Leaves,cat_003,Electronics & Tech,sub_003_01,Solar Products,11042.33,111,True,2024-11-11T20:53:37
+prod_00465,Akabanga Chilli Oil,cat_001,Fresh Produce,sub_001_00,Vegetables,1873.04,128,True,2024-12-10T15:18:11
+prod_00466,Inzoga ya Primus,cat_001,Fresh Produce,sub_001_03,Mushrooms,5695.51,168,True,2024-12-07T23:14:48
+prod_00467,Ubwiza Face Cream,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,564.49,418,True,2024-12-06T22:05:42
+prod_00468,Door Lock Yale,cat_010,Education & Office,sub_010_02,School Bags,8311.99,490,True,2024-12-01T09:18:06
+prod_00469,Rukundo Tea Leaves,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,3944.06,495,True,2024-10-04T19:38:53
+prod_00470,Stapler Heavy Duty,cat_011,Health & Pharmacy,sub_011_03,Medical Devices,2154.82,224,True,2024-12-01T10:30:37
+prod_00471,Inyange Milk,cat_007,Construction & Hardware,sub_007_03,Plumbing,8080.97,276,True,2024-12-16T23:12:58
+prod_00472,Mosquito Net Treated,cat_001,Fresh Produce,sub_001_02,Herbs & Spices,1593.06,369,True,2024-12-16T11:39:25
+prod_00473,Inyange Milk,cat_014,Livestock & Poultry,sub_014_04,Beekeeping,3404.6,119,True,2024-11-26T05:58:24
+prod_00474,Rwanda Arabica Coffee,cat_015,Sports & Recreation,sub_015_04,Cycling,1393.13,332,True,2024-12-08T02:08:24
+prod_00475,Power Bank 10000mAh,cat_014,Livestock & Poultry,sub_014_04,Beekeeping,3828.44,32,True,2024-11-27T09:13:43
+prod_00476,WiFi Router ZTE,cat_002,Coffee & Tea,sub_002_01,Green Tea,8811.12,427,True,2024-12-18T18:58:51
+prod_00477,Smart TV 32inch,cat_001,Fresh Produce,sub_001_04,Flowers,3882.23,61,True,2024-10-07T03:19:03
+prod_00478,Akabanga Chilli Oil,cat_018,Hospitality & Catering,sub_018_00,Restaurant Equipment,3100.73,433,True,2024-12-16T19:17:07
+prod_00479,Iron Sheet 3m,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,14281.45,454,True,2024-11-27T15:29:32
+prod_00480,Akabanga Chilli Oil,cat_007,Construction & Hardware,sub_007_01,Iron & Steel,12405.49,305,True,2024-10-04T15:39:49
+prod_00481,Solar Lantern LifeLight,cat_017,Packaging & Logistics,sub_017_01,Bags & Sacks,4242.11,500,True,2024-11-21T11:27:11
+prod_00482,Savon Ivoirien Soap,cat_008,Home & Kitchen,sub_008_00,Cookware,4277.52,76,True,2024-12-17T08:14:33
+prod_00483,MTN MoMo Agent Kit,cat_009,Agriculture & Farming,sub_009_01,Fertilizers,8976.1,315,True,2024-11-02T10:57:46
+prod_00484,Cavendish Banana Bundle,cat_005,Textiles & Crafts,sub_005_00,Kitenge Fabric,9958.7,36,True,2024-10-12T06:27:04
+prod_00485,Steel Rod 12mm,cat_010,Education & Office,sub_010_01,Books,2412.25,211,True,2024-12-11T15:04:37
+prod_00486,Ubwiza Face Cream,cat_004,Clothing & Fashion,sub_004_01,Casual Wear,18593.8,91,True,2024-11-14T04:12:20
+prod_00487,Sorghum Flour 1kg,cat_008,Home & Kitchen,sub_008_01,Storage,7049.88,354,True,2024-10-04T02:47:08
+prod_00488,Mosquito Net Treated,cat_010,Education & Office,sub_010_01,Books,17784.97,80,True,2024-11-28T14:34:25
+prod_00489,Stapler Heavy Duty,cat_015,Sports & Recreation,sub_015_01,Fitness,12035.83,236,True,2024-12-21T06:19:32
+prod_00490,Rwanda Arabica Coffee,cat_004,Clothing & Fashion,sub_004_04,Accessories,18015.91,22,True,2024-11-10T13:28:44
+prod_00491,Impala Club Soda,cat_014,Livestock & Poultry,sub_014_03,Goat Products,5189.97,385,True,2024-11-24T05:22:08
+prod_00492,Nivea Roll-On,cat_000,Food & Beverages,sub_000_03,Cooking Oil,13546.19,360,True,2024-10-16T17:01:40
+prod_00493,Imishanana Traditional Dress,cat_005,Textiles & Crafts,sub_005_02,Imigongo Art,12722.81,324,True,2024-12-08T08:12:38
+prod_00494,Ibirayi Fries,cat_019,Digital Services,sub_019_04,Software,11716.97,403,True,2024-10-21T02:41:10
+prod_00495,Biro Pen Box,cat_003,Electronics & Tech,sub_003_03,Accessories,7629.02,20,True,2024-11-30T02:41:07
+prod_00496,Solar Lantern LifeLight,cat_006,Beauty & Personal Care,sub_006_01,Hair Care,19634.41,276,True,2024-10-24T04:03:16
+prod_00497,Charcoal Stove Jiko,cat_007,Construction & Hardware,sub_007_02,Paint & Coating,7377.88,257,True,2024-10-26T22:59:20
+prod_00498,Inzoga ya Primus,cat_016,Baby & Children,sub_016_00,Baby Food,9668.2,347,True,2024-11-21T15:25:38
+prod_00499,Cavendish Banana Bundle,cat_006,Beauty & Personal Care,sub_006_03,Perfumes,2202.52,459,True,2024-11-07T22:21:22

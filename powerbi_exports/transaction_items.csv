@@ -1,0 +1,1200 @@
+transaction_id,user_id,timestamp,date,month,month_name,status,payment_method,product_id,product_name,quantity,unit_price_rwf,item_subtotal_rwf
+txn_9273055802d4,user_000297,2025-01-30T05:45:40,2025-01-30,1,January,completed,bank_transfer,prod_00239,Calculator Casio,1,8555.59,8555.59
+txn_9273055802d4,user_000297,2025-01-30T05:45:40,2025-01-30,1,January,completed,bank_transfer,prod_00206,Mutzig Beer,4,1131.46,4525.84
+txn_9273055802d4,user_000297,2025-01-30T05:45:40,2025-01-30,1,January,completed,bank_transfer,prod_00093,Nivea Roll-On,4,13246.83,52987.32
+txn_bed45b06d3c2,user_000070,2025-03-09T09:49:31,2025-03-09,3,March,processing,visa_card,prod_00019,Mattress Foam Single,1,9970.4,9970.4
+txn_311d17c78827,user_000200,2025-03-30T20:32:34,2025-03-30,3,March,completed,mtn_momo,prod_00478,Akabanga Chilli Oil,3,3100.73,9302.19
+txn_044437883d56,user_000123,2025-03-07T12:01:09,2025-03-07,3,March,shipped,visa_card,prod_00082,Agaseke Woven Basket,3,11682.8,35048.4
+txn_044437883d56,user_000123,2025-03-07T12:01:09,2025-03-07,3,March,shipped,visa_card,prod_00352,Irish Potato 5kg,2,8694.74,17389.48
+txn_044437883d56,user_000123,2025-03-07T12:01:09,2025-03-07,3,March,shipped,visa_card,prod_00307,Mosquito Net Treated,3,2993.76,8981.28
+txn_201b2f314e88,user_000323,2025-03-17T12:20:21,2025-03-17,3,March,completed,mtn_momo,prod_00152,PVC Pipe 2inch,1,2727.03,2727.03
+txn_5bd6c6b3e9c0,user_000180,2025-02-19T02:24:24,2025-02-19,2,February,refunded,airtel_money,prod_00472,Mosquito Net Treated,4,1593.06,6372.24
+txn_dd0d2ab60f4f,user_000349,2025-03-21T06:50:13,2025-03-21,3,March,refunded,bank_transfer,prod_00376,Inyange Juice,1,17655.95,17655.95
+txn_06e18c151fd7,user_000131,2025-03-26T08:33:09,2025-03-26,3,March,refunded,bank_transfer,prod_00327,Feature Phone Tecno,1,18662.23,18662.23
+txn_95a5c1d50592,user_000309,2025-01-07T22:58:57,2025-01-07,1,January,refunded,cash,prod_00092,School Bag Primary,4,18748.6,74994.4
+txn_95a5c1d50592,user_000309,2025-01-07T22:58:57,2025-01-07,1,January,refunded,cash,prod_00172,Agaseke Woven Basket,1,1816.89,1816.89
+txn_95a5c1d50592,user_000309,2025-01-07T22:58:57,2025-01-07,1,January,refunded,cash,prod_00058,Plastic Jerry Can 20L,4,15977.08,63908.32
+txn_c2300a8ebe56,user_000081,2025-03-17T02:18:08,2025-03-17,3,March,shipped,cash,prod_00424,Sandals Handmade,3,9153.59,27460.77
+txn_c2300a8ebe56,user_000081,2025-03-17T02:18:08,2025-03-17,3,March,shipped,cash,prod_00336,Roofing Nails 4inch,1,15813.99,15813.99
+txn_a8fcd1f9668f,user_000326,2025-03-03T12:05:47,2025-03-03,3,March,completed,mtn_momo,prod_00456,Steel Rod 12mm,3,18580.84,55742.52
+txn_a8fcd1f9668f,user_000326,2025-03-03T12:05:47,2025-03-03,3,March,completed,mtn_momo,prod_00175,Coconut Hair Oil Rwanda,3,2761.74,8285.22
+txn_b4b80b528428,user_000311,2025-01-12T04:32:51,2025-01-12,1,January,refunded,airtel_money,prod_00374,Mutzig Beer,1,17847.69,17847.69
+txn_70a306fdc525,user_000016,2025-02-17T15:45:07,2025-02-17,2,February,refunded,cash,prod_00022,Nivea Roll-On,4,9465.21,37860.84
+txn_70a306fdc525,user_000016,2025-02-17T15:45:07,2025-02-17,2,February,refunded,cash,prod_00153,Ikivuguto Yoghurt,3,19800.63,59401.89
+txn_70a306fdc525,user_000016,2025-02-17T15:45:07,2025-02-17,2,February,refunded,cash,prod_00025,Earphones Oraimo,3,10846.79,32540.37
+txn_d84b0733f7be,user_000413,2025-03-09T17:46:30,2025-03-09,3,March,shipped,bank_transfer,prod_00149,Biro Pen Box,3,4148.42,12445.26
+txn_d84b0733f7be,user_000413,2025-03-09T17:46:30,2025-03-09,3,March,shipped,bank_transfer,prod_00090,Umushanana Set,3,3668.64,11005.92
+txn_f6eb19a22ca5,user_000193,2025-03-15T17:01:36,2025-03-15,3,March,completed,bank_transfer,prod_00111,Agaseke Woven Basket,3,14064.71,42194.13
+txn_9e201f6785dd,user_000024,2025-01-30T13:08:57,2025-01-30,1,January,processing,airtel_money,prod_00194,Sweet Potato Bag,3,10174.46,30523.38
+txn_13e89b31b3cd,user_000036,2025-03-04T03:50:15,2025-03-04,3,March,processing,mtn_momo,prod_00214,Gahunda Work Shirt,1,1001.85,1001.85
+txn_85064de8730f,user_000341,2025-03-16T11:24:41,2025-03-16,3,March,processing,bank_transfer,prod_00351,Plastic Jerry Can 20L,1,19460.49,19460.49
+txn_85064de8730f,user_000341,2025-03-16T11:24:41,2025-03-16,3,March,processing,bank_transfer,prod_00023,Stapler Heavy Duty,3,3851.53,11554.59
+txn_ac3e2698c020,user_000178,2025-03-29T02:52:16,2025-03-29,3,March,refunded,bank_transfer,prod_00495,Biro Pen Box,4,7629.02,30516.08
+txn_9200925888d5,user_000495,2025-02-24T21:26:24,2025-02-24,2,February,completed,airtel_money,prod_00449,Ikivuguto Yoghurt,4,10496.93,41987.72
+txn_6e587c036cab,user_000431,2025-01-14T18:11:25,2025-01-14,1,January,completed,visa_card,prod_00185,Charcoal Stove Jiko,2,17997.11,35994.22
+txn_6e587c036cab,user_000431,2025-01-14T18:11:25,2025-01-14,1,January,completed,visa_card,prod_00401,Agaseke Woven Basket,4,8214.42,32857.68
+txn_6e587c036cab,user_000431,2025-01-14T18:11:25,2025-01-14,1,January,completed,visa_card,prod_00160,Passion Fruit Tray,4,4747.68,18990.72
+txn_5dece6437ee4,user_000295,2025-01-17T07:09:35,2025-01-17,1,January,refunded,bank_transfer,prod_00047,Window Glass Panel,1,7223.65,7223.65
+txn_7d850d89478f,user_000426,2025-02-27T20:19:48,2025-02-27,2,February,processing,visa_card,prod_00050,Plastic Jerry Can 20L,3,2927.26,8781.78
+txn_48b7b35d3dd2,user_000294,2025-01-26T20:31:41,2025-01-26,1,January,shipped,visa_card,prod_00317,Amavuta Shea Butter,1,9208.6,9208.6
+txn_48b7b35d3dd2,user_000294,2025-01-26T20:31:41,2025-01-26,1,January,shipped,visa_card,prod_00451,Decoder StarTimes,1,6092.91,6092.91
+txn_8378c7df23b0,user_000094,2025-01-15T16:26:40,2025-01-15,1,January,completed,cash,prod_00122,Dettol Antiseptic,4,13333.13,53332.52
+txn_8378c7df23b0,user_000094,2025-01-15T16:26:40,2025-01-15,1,January,completed,cash,prod_00295,Akagera Print T-Shirt,1,5300.42,5300.42
+txn_da1f85f20591,user_000221,2025-01-15T23:26:27,2025-01-15,1,January,refunded,mtn_momo,prod_00157,Irish Potato 5kg,1,18415.99,18415.99
+txn_da1f85f20591,user_000221,2025-01-15T23:26:27,2025-01-15,1,January,refunded,mtn_momo,prod_00120,Akagera Print T-Shirt,1,9782.1,9782.1
+txn_da1f85f20591,user_000221,2025-01-15T23:26:27,2025-01-15,1,January,refunded,mtn_momo,prod_00060,Passion Fruit Tray,1,15498.71,15498.71
+txn_b5e1bdbbfdff,user_000158,2025-02-23T09:35:51,2025-02-23,2,February,shipped,airtel_money,prod_00419,Umutsima Porridge,1,3530.03,3530.03
+txn_6cc553d26ed6,user_000152,2025-02-05T14:30:17,2025-02-05,2,February,processing,visa_card,prod_00442,Savon Ivoirien Soap,3,7940.52,23821.56
+txn_6cc553d26ed6,user_000152,2025-02-05T14:30:17,2025-02-05,2,February,processing,visa_card,prod_00070,Rukundo Tea Leaves,2,11875.21,23750.42
+txn_bf89e1efbba8,user_000371,2025-01-03T14:09:37,2025-01-03,1,January,refunded,cash,prod_00228,Radio FM Portable,3,10031.34,30094.02
+txn_bf89e1efbba8,user_000371,2025-01-03T14:09:37,2025-01-03,1,January,refunded,cash,prod_00451,Decoder StarTimes,1,6092.91,6092.91
+txn_7e0af71efce6,user_000342,2025-01-01T07:08:56,2025-01-01,1,January,processing,mtn_momo,prod_00325,Phone Charger USB-C,3,17309.45,51928.35
+txn_a2364d234eef,user_000384,2025-03-27T22:53:59,2025-03-27,3,March,shipped,visa_card,prod_00322,Nivea Roll-On,2,18423.96,36847.92
+txn_a2364d234eef,user_000384,2025-03-27T22:53:59,2025-03-27,3,March,shipped,visa_card,prod_00300,Calculator Casio,1,13422.23,13422.23
+txn_192a325f5aae,user_000073,2025-01-29T14:28:54,2025-01-29,1,January,processing,cash,prod_00400,Smart TV 32inch,4,12424.35,49697.4
+txn_bb04eab259c5,user_000083,2025-01-30T20:39:10,2025-01-30,1,January,processing,visa_card,prod_00278,School Uniform Set,4,9593.46,38373.84
+txn_7b9d11aa8b9a,user_000383,2025-02-27T22:57:32,2025-02-27,2,February,completed,airtel_money,prod_00494,Ibirayi Fries,1,11716.97,11716.97
+txn_1d32695b46a2,user_000339,2025-01-16T02:23:42,2025-01-16,1,January,shipped,bank_transfer,prod_00335,Mosquito Net Treated,2,17198.02,34396.04
+txn_71dac4b9e6d2,user_000219,2025-03-27T04:02:09,2025-03-27,3,March,shipped,cash,prod_00214,Gahunda Work Shirt,3,1001.85,3005.55
+txn_6bc0e2dab2bb,user_000124,2025-01-30T08:43:22,2025-01-30,1,January,refunded,mtn_momo,prod_00334,Earphones Oraimo,2,4007.84,8015.68
+txn_60657259129f,user_000423,2025-03-11T10:35:54,2025-03-11,3,March,processing,mtn_momo,prod_00438,Umushanana Set,3,18113.49,54340.47
+txn_c072c033423d,user_000038,2025-01-14T10:03:15,2025-01-14,1,January,completed,cash,prod_00408,Exercise Book 96pages,2,5138.63,10277.26
+txn_511103332fbf,user_000286,2025-01-05T02:43:58,2025-01-05,1,January,processing,bank_transfer,prod_00422,Earphones Oraimo,3,2778.47,8335.41
+txn_91f80382f303,user_000185,2025-03-24T11:20:50,2025-03-24,3,March,shipped,airtel_money,prod_00263,Power Bank 10000mAh,3,16423.48,49270.44
+txn_209f5ea877ff,user_000057,2025-03-30T10:18:32,2025-03-30,3,March,processing,airtel_money,prod_00336,Roofing Nails 4inch,2,15813.99,31627.98
+txn_209f5ea877ff,user_000057,2025-03-30T10:18:32,2025-03-30,3,March,processing,airtel_money,prod_00024,Mutzig Beer,2,2033.62,4067.24
+txn_209f5ea877ff,user_000057,2025-03-30T10:18:32,2025-03-30,3,March,processing,airtel_money,prod_00485,Steel Rod 12mm,1,2412.25,2412.25
+txn_53a8d23ac34b,user_000179,2025-02-20T21:52:27,2025-02-20,2,February,completed,bank_transfer,prod_00167,PVC Pipe 2inch,2,11484.18,22968.36
+txn_53a8d23ac34b,user_000179,2025-02-20T21:52:27,2025-02-20,2,February,completed,bank_transfer,prod_00198,Earphones Oraimo,2,10823.93,21647.86
+txn_c0df04777aa8,user_000375,2025-02-28T16:25:41,2025-02-28,2,February,processing,bank_transfer,prod_00325,Phone Charger USB-C,4,17309.45,69237.8
+txn_c0df04777aa8,user_000375,2025-02-28T16:25:41,2025-02-28,2,February,processing,bank_transfer,prod_00450,Umushanana Set,3,14675.95,44027.85
+txn_c0df04777aa8,user_000375,2025-02-28T16:25:41,2025-02-28,2,February,processing,bank_transfer,prod_00445,School Bag Primary,3,11264.98,33794.94
+txn_d81740d23f02,user_000257,2025-02-25T18:07:46,2025-02-25,2,February,shipped,mtn_momo,prod_00272,Ibirayi Fries,1,17610.81,17610.81
+txn_d81740d23f02,user_000257,2025-02-25T18:07:46,2025-02-25,2,February,shipped,mtn_momo,prod_00116,Sufuria Cooking Pot 5L,2,8541.65,17083.3
+txn_c43aadf48b55,user_000433,2025-02-15T19:35:31,2025-02-15,2,February,refunded,bank_transfer,prod_00302,Mosquito Net Treated,4,10598.76,42395.04
+txn_0f09b227a1b0,user_000011,2025-02-08T21:09:37,2025-02-08,2,February,refunded,visa_card,prod_00236,Biro Pen Box,2,6353.8,12707.6
+txn_16b27777e3e4,user_000356,2025-02-16T20:31:06,2025-02-16,2,February,refunded,bank_transfer,prod_00004,Exercise Book 96pages,2,13013.24,26026.48
+txn_16b27777e3e4,user_000356,2025-02-16T20:31:06,2025-02-16,2,February,refunded,bank_transfer,prod_00333,Nivea Roll-On,4,19191.27,76765.08
+txn_62bdc049f01f,user_000107,2025-03-01T02:11:08,2025-03-01,3,March,refunded,mtn_momo,prod_00335,Mosquito Net Treated,2,17198.02,34396.04
+txn_62bdc049f01f,user_000107,2025-03-01T02:11:08,2025-03-01,3,March,refunded,mtn_momo,prod_00136,Cement Bag 50kg Cimerwa,1,15887.0,15887.0
+txn_f178edddf1e7,user_000423,2025-02-18T13:43:20,2025-02-18,2,February,completed,cash,prod_00333,Nivea Roll-On,3,19191.27,57573.81
+txn_f178edddf1e7,user_000423,2025-02-18T13:43:20,2025-02-18,2,February,completed,cash,prod_00386,Savon Ivoirien Soap,3,3821.23,11463.69
+txn_ee0a89da0ea0,user_000462,2025-01-02T18:09:40,2025-01-02,1,January,refunded,visa_card,prod_00085,Akabanga Chilli Oil,2,1523.58,3047.16
+txn_cfc10e4ed17c,user_000306,2025-02-23T04:38:49,2025-02-23,2,February,completed,mtn_momo,prod_00056,Electric Wire 2.5mm,2,5604.65,11209.3
+txn_cfc10e4ed17c,user_000306,2025-02-23T04:38:49,2025-02-23,2,February,completed,mtn_momo,prod_00108,Solar Lantern LifeLight,3,16212.64,48637.92
+txn_78b6afa8f634,user_000494,2025-03-28T11:42:47,2025-03-28,3,March,shipped,cash,prod_00269,Exercise Book 96pages,3,19424.59,58273.77
+txn_eb618fa0171f,user_000261,2025-02-14T22:08:39,2025-02-14,2,February,shipped,cash,prod_00256,Passion Fruit Tray,3,8612.54,25837.62
+txn_eb618fa0171f,user_000261,2025-02-14T22:08:39,2025-02-14,2,February,shipped,cash,prod_00429,Impala Club Soda,4,1489.16,5956.64
+txn_5b16c3af626f,user_000296,2025-01-19T00:27:09,2025-01-19,1,January,shipped,cash,prod_00102,Cavendish Banana Bundle,1,7895.89,7895.89
+txn_5b16c3af626f,user_000296,2025-01-19T00:27:09,2025-01-19,1,January,shipped,cash,prod_00045,Inzoga ya Primus,2,5191.0,10382.0
+txn_0d0137811f64,user_000028,2025-02-28T10:03:33,2025-02-28,2,February,shipped,mtn_momo,prod_00007,Cement Bag 50kg Cimerwa,4,15904.7,63618.8
+txn_4c1b13769193,user_000316,2025-03-09T13:03:09,2025-03-09,3,March,refunded,bank_transfer,prod_00339,Phone Charger USB-C,2,8725.42,17450.84
+txn_eccf0e5c4b83,user_000345,2025-01-18T04:00:05,2025-01-18,1,January,processing,cash,prod_00018,Imishanana Traditional Dress,2,6576.93,13153.86
+txn_8bbb953a9b9a,user_000232,2025-01-26T19:47:25,2025-01-26,1,January,refunded,bank_transfer,prod_00061,Sweet Potato Bag,4,4048.28,16193.12
+txn_8bbb953a9b9a,user_000232,2025-01-26T19:47:25,2025-01-26,1,January,refunded,bank_transfer,prod_00403,Impala Club Soda,1,8164.8,8164.8
+txn_ce992a9b3237,user_000489,2025-01-21T15:51:29,2025-01-21,1,January,refunded,cash,prod_00308,Sorghum Flour 1kg,1,19400.25,19400.25
+txn_ce992a9b3237,user_000489,2025-01-21T15:51:29,2025-01-21,1,January,refunded,cash,prod_00277,Decoder StarTimes,3,14834.05,44502.15
+txn_ce992a9b3237,user_000489,2025-01-21T15:51:29,2025-01-21,1,January,refunded,cash,prod_00339,Phone Charger USB-C,3,8725.42,26176.26
+txn_facf13aeda14,user_000330,2025-02-14T10:53:17,2025-02-14,2,February,refunded,airtel_money,prod_00424,Sandals Handmade,2,9153.59,18307.18
+txn_facf13aeda14,user_000330,2025-02-14T10:53:17,2025-02-14,2,February,refunded,airtel_money,prod_00047,Window Glass Panel,1,7223.65,7223.65
+txn_a83db84d353f,user_000368,2025-01-18T01:57:00,2025-01-18,1,January,shipped,mtn_momo,prod_00229,Power Bank 10000mAh,2,1035.28,2070.56
+txn_a83db84d353f,user_000368,2025-01-18T01:57:00,2025-01-18,1,January,shipped,mtn_momo,prod_00026,Electric Wire 2.5mm,1,5491.38,5491.38
+txn_a83db84d353f,user_000368,2025-01-18T01:57:00,2025-01-18,1,January,shipped,mtn_momo,prod_00172,Agaseke Woven Basket,2,1816.89,3633.78
+txn_9e5efa77f575,user_000269,2025-01-26T12:35:22,2025-01-26,1,January,completed,mtn_momo,prod_00440,Exercise Book 96pages,4,11863.18,47452.72
+txn_9e5efa77f575,user_000269,2025-01-26T12:35:22,2025-01-26,1,January,completed,mtn_momo,prod_00345,Coconut Hair Oil Rwanda,4,19406.07,77624.28
+txn_ed4126772470,user_000168,2025-01-10T01:41:14,2025-01-10,1,January,processing,airtel_money,prod_00324,Door Lock Yale,4,17584.2,70336.8
+txn_ed4126772470,user_000168,2025-01-10T01:41:14,2025-01-10,1,January,processing,airtel_money,prod_00389,Umutsima Porridge,4,7262.21,29048.84
+txn_2c7fd57d90c3,user_000354,2025-01-06T13:03:35,2025-01-06,1,January,completed,cash,prod_00036,Savon Ivoirien Soap,4,4026.5,16106.0
+txn_ef1bc1e3c0f0,user_000333,2025-01-21T18:39:36,2025-01-21,1,January,refunded,bank_transfer,prod_00297,Printer Paper A4 Ream,2,17880.29,35760.58
+txn_b2456dd61f86,user_000017,2025-02-12T16:18:18,2025-02-12,2,February,processing,visa_card,prod_00189,Sandals Handmade,3,9535.26,28605.78
+txn_898492197d53,user_000078,2025-03-28T16:07:50,2025-03-28,3,March,processing,mtn_momo,prod_00422,Earphones Oraimo,4,2778.47,11113.88
+txn_898492197d53,user_000078,2025-03-28T16:07:50,2025-03-28,3,March,processing,mtn_momo,prod_00476,WiFi Router ZTE,4,8811.12,35244.48
+txn_898492197d53,user_000078,2025-03-28T16:07:50,2025-03-28,3,March,processing,mtn_momo,prod_00382,Phone Charger USB-C,2,15508.79,31017.58
+txn_31daea900461,user_000222,2025-01-10T00:45:35,2025-01-10,1,January,shipped,visa_card,prod_00145,Inkorora Storage Basket,4,2484.16,9936.64
+txn_31daea900461,user_000222,2025-01-10T00:45:35,2025-01-10,1,January,shipped,visa_card,prod_00159,Inzoga ya Primus,4,19029.95,76119.8
+txn_b80a327e90c7,user_000202,2025-01-12T07:54:42,2025-01-12,1,January,refunded,cash,prod_00494,Ibirayi Fries,4,11716.97,46867.88
+txn_b80a327e90c7,user_000202,2025-01-12T07:54:42,2025-01-12,1,January,refunded,cash,prod_00444,Door Lock Yale,4,19512.01,78048.04
+txn_8c004eb3e8f8,user_000129,2025-02-08T10:41:29,2025-02-08,2,February,completed,visa_card,prod_00118,Nivea Roll-On,2,18401.95,36803.9
+txn_cba5654da778,user_000423,2025-02-22T02:00:27,2025-02-22,2,February,refunded,airtel_money,prod_00221,Agaseke Woven Basket,1,2694.12,2694.12
+txn_c4381d007d98,user_000241,2025-02-04T08:17:46,2025-02-04,2,February,completed,cash,prod_00269,Exercise Book 96pages,4,19424.59,77698.36
+txn_146ffc372484,user_000311,2025-03-02T22:43:05,2025-03-02,3,March,shipped,airtel_money,prod_00483,MTN MoMo Agent Kit,4,8976.1,35904.4
+txn_e58d191c09f8,user_000058,2025-03-02T14:12:34,2025-03-02,3,March,completed,visa_card,prod_00040,Coconut Hair Oil Rwanda,1,5819.43,5819.43
+txn_9bca291ed983,user_000266,2025-01-11T04:06:12,2025-01-11,1,January,shipped,airtel_money,prod_00097,Calculator Casio,4,14479.9,57919.6
+txn_9bca291ed983,user_000266,2025-01-11T04:06:12,2025-01-11,1,January,shipped,airtel_money,prod_00447,Impala Club Soda,1,3270.71,3270.71
+txn_9bca291ed983,user_000266,2025-01-11T04:06:12,2025-01-11,1,January,shipped,airtel_money,prod_00340,Mosquito Net Treated,3,13233.76,39701.28
+txn_d0fc853799c7,user_000115,2025-02-11T06:08:36,2025-02-11,2,February,shipped,airtel_money,prod_00194,Sweet Potato Bag,1,10174.46,10174.46
+txn_d0fc853799c7,user_000115,2025-02-11T06:08:36,2025-02-11,2,February,shipped,airtel_money,prod_00305,Cement Bag 50kg Cimerwa,2,13047.8,26095.6
+txn_d0fc853799c7,user_000115,2025-02-11T06:08:36,2025-02-11,2,February,shipped,airtel_money,prod_00358,Umutsima Porridge,3,7742.27,23226.81
+txn_6f2a03be89bb,user_000409,2025-01-31T15:17:13,2025-01-31,1,January,processing,cash,prod_00397,Pineapple Crate Nyungwe,3,16999.7,50999.1
+txn_748f9ee2ff7e,user_000380,2025-03-26T03:18:12,2025-03-26,3,March,completed,mtn_momo,prod_00001,Cement Bag 50kg Cimerwa,1,19920.58,19920.58
+txn_7d755efe81ec,user_000100,2025-01-04T02:54:48,2025-01-04,1,January,refunded,bank_transfer,prod_00130,Smart TV 32inch,1,3345.73,3345.73
+txn_54f446067375,user_000015,2025-01-11T07:57:32,2025-01-11,1,January,refunded,visa_card,prod_00495,Biro Pen Box,4,7629.02,30516.08
+txn_68b64c48ce5d,user_000008,2025-03-27T22:20:17,2025-03-27,3,March,processing,visa_card,prod_00128,Sandals Handmade,1,11361.21,11361.21
+txn_8329b82266bc,user_000326,2025-02-01T08:49:02,2025-02-01,2,February,refunded,cash,prod_00424,Sandals Handmade,2,9153.59,18307.18
+txn_8329b82266bc,user_000326,2025-02-01T08:49:02,2025-02-01,2,February,refunded,cash,prod_00071,Agaseke Woven Basket,1,17707.89,17707.89
+txn_7c3376bcc76e,user_000417,2025-03-13T22:22:39,2025-03-13,3,March,refunded,mtn_momo,prod_00027,School Uniform Set,3,6802.56,20407.68
+txn_7c3376bcc76e,user_000417,2025-03-13T22:22:39,2025-03-13,3,March,refunded,mtn_momo,prod_00003,Door Lock Yale,4,2437.42,9749.68
+txn_22aa0deaf7eb,user_000287,2025-02-08T14:06:47,2025-02-08,2,February,shipped,visa_card,prod_00220,Stapler Heavy Duty,3,6859.47,20578.41
+txn_22aa0deaf7eb,user_000287,2025-02-08T14:06:47,2025-02-08,2,February,shipped,visa_card,prod_00012,Nziza Body Lotion,2,6594.21,13188.42
+txn_22aa0deaf7eb,user_000287,2025-02-08T14:06:47,2025-02-08,2,February,shipped,visa_card,prod_00017,Amavuta Shea Butter,1,14948.9,14948.9
+txn_90a4b93bf502,user_000221,2025-03-26T21:36:54,2025-03-26,3,March,refunded,visa_card,prod_00070,Rukundo Tea Leaves,2,11875.21,23750.42
+txn_5ee32489de58,user_000356,2025-03-22T15:16:39,2025-03-22,3,March,refunded,cash,prod_00302,Mosquito Net Treated,1,10598.76,10598.76
+txn_5ee32489de58,user_000356,2025-03-22T15:16:39,2025-03-22,3,March,refunded,cash,prod_00242,Nziza Body Lotion,4,8957.37,35829.48
+txn_4a712b3b12ce,user_000238,2025-03-12T01:33:02,2025-03-12,3,March,completed,mtn_momo,prod_00123,Pineapple Crate Nyungwe,1,3667.78,3667.78
+txn_4a712b3b12ce,user_000238,2025-03-12T01:33:02,2025-03-12,3,March,completed,mtn_momo,prod_00303,Toothpaste Colgate,4,11783.31,47133.24
+txn_0f08da5acb5a,user_000095,2025-02-28T17:58:28,2025-02-28,2,February,completed,visa_card,prod_00005,Akabanga Chilli Oil,4,4711.05,18844.2
+txn_0f08da5acb5a,user_000095,2025-02-28T17:58:28,2025-02-28,2,February,completed,visa_card,prod_00317,Amavuta Shea Butter,4,9208.6,36834.4
+txn_e7d252df9279,user_000372,2025-02-01T02:51:25,2025-02-01,2,February,shipped,visa_card,prod_00042,Akabanga Chilli Oil,2,15931.92,31863.84
+txn_92a881ea09fb,user_000195,2025-02-12T01:08:08,2025-02-12,2,February,processing,bank_transfer,prod_00396,Sufuria Cooking Pot 5L,2,4102.56,8205.12
+txn_1e3c40887a9d,user_000376,2025-02-02T14:42:58,2025-02-02,2,February,shipped,mtn_momo,prod_00129,School Uniform Set,1,6191.02,6191.02
+txn_1e3c40887a9d,user_000376,2025-02-02T14:42:58,2025-02-02,2,February,shipped,mtn_momo,prod_00249,Agaseke Woven Basket,2,13402.46,26804.92
+txn_1e3c40887a9d,user_000376,2025-02-02T14:42:58,2025-02-02,2,February,shipped,mtn_momo,prod_00131,Toothpaste Colgate,4,12525.04,50100.16
+txn_546ff6c9a782,user_000083,2025-03-22T14:12:11,2025-03-22,3,March,refunded,visa_card,prod_00255,Umutsima Porridge,3,13953.1,41859.3
+txn_546ff6c9a782,user_000083,2025-03-22T14:12:11,2025-03-22,3,March,refunded,visa_card,prod_00370,Iron Sheet 3m,3,8330.36,24991.08
+txn_ce70a15c3222,user_000057,2025-03-25T09:41:48,2025-03-25,3,March,processing,bank_transfer,prod_00203,Dettol Antiseptic,3,15600.15,46800.45
+txn_d5faf617d87d,user_000067,2025-01-06T19:01:00,2025-01-06,1,January,processing,visa_card,prod_00220,Stapler Heavy Duty,3,6859.47,20578.41
+txn_d5faf617d87d,user_000067,2025-01-06T19:01:00,2025-01-06,1,January,processing,visa_card,prod_00484,Cavendish Banana Bundle,1,9958.7,9958.7
+txn_d5faf617d87d,user_000067,2025-01-06T19:01:00,2025-01-06,1,January,processing,visa_card,prod_00330,Paint Bucket 20L,4,4066.0,16264.0
+txn_039e34ae02ab,user_000251,2025-03-01T08:03:47,2025-03-01,3,March,processing,visa_card,prod_00426,Gahunda Work Shirt,4,2758.8,11035.2
+txn_039e34ae02ab,user_000251,2025-03-01T08:03:47,2025-03-01,3,March,processing,visa_card,prod_00115,Mutzig Beer,1,3780.56,3780.56
+txn_ff10273f850a,user_000277,2025-01-09T03:14:51,2025-01-09,1,January,processing,visa_card,prod_00474,Rwanda Arabica Coffee,3,1393.13,4179.39
+txn_ff10273f850a,user_000277,2025-01-09T03:14:51,2025-01-09,1,January,processing,visa_card,prod_00188,Solar Lantern LifeLight,3,2560.33,7680.99
+txn_b9281fa40575,user_000087,2025-01-06T04:17:00,2025-01-06,1,January,shipped,visa_card,prod_00245,Nivea Roll-On,3,14692.72,44078.16
+txn_b9281fa40575,user_000087,2025-01-06T04:17:00,2025-01-06,1,January,shipped,visa_card,prod_00258,Biro Pen Box,1,19568.96,19568.96
+txn_68bce8d7e234,user_000406,2025-01-23T23:45:07,2025-01-23,1,January,refunded,cash,prod_00320,Ikivuguto Yoghurt,1,9059.95,9059.95
+txn_6a46914102a2,user_000243,2025-03-20T04:59:59,2025-03-20,3,March,refunded,cash,prod_00363,Sweet Potato Bag,2,6753.53,13507.06
+txn_6a46914102a2,user_000243,2025-03-20T04:59:59,2025-03-20,3,March,refunded,cash,prod_00317,Amavuta Shea Butter,4,9208.6,36834.4
+txn_bfecba3be13c,user_000195,2025-01-12T03:02:45,2025-01-12,1,January,refunded,visa_card,prod_00420,Akagera Print T-Shirt,3,11516.38,34549.14
+txn_3eef6186ab4f,user_000326,2025-03-05T02:02:03,2025-03-05,3,March,completed,visa_card,prod_00278,School Uniform Set,1,9593.46,9593.46
+txn_3eef6186ab4f,user_000326,2025-03-05T02:02:03,2025-03-05,3,March,completed,visa_card,prod_00276,Mutzig Beer,3,14899.78,44699.34
+txn_3eef6186ab4f,user_000326,2025-03-05T02:02:03,2025-03-05,3,March,completed,visa_card,prod_00124,Dettol Antiseptic,2,15036.4,30072.8
+txn_cbd31fc7d512,user_000096,2025-01-17T19:47:57,2025-01-17,1,January,shipped,bank_transfer,prod_00250,Solar Lantern LifeLight,1,10205.91,10205.91
+txn_cbd31fc7d512,user_000096,2025-01-17T19:47:57,2025-01-17,1,January,shipped,bank_transfer,prod_00415,Cement Bag 50kg Cimerwa,4,530.83,2123.32
+txn_d757dd7c233b,user_000115,2025-03-02T16:13:14,2025-03-02,3,March,processing,airtel_money,prod_00034,Sweet Potato Bag,4,855.5,3422.0
+txn_d757dd7c233b,user_000115,2025-03-02T16:13:14,2025-03-02,3,March,processing,airtel_money,prod_00290,Coconut Hair Oil Rwanda,2,3256.79,6513.58
+txn_56b9d0c96423,user_000086,2025-03-11T02:30:58,2025-03-11,3,March,shipped,airtel_money,prod_00472,Mosquito Net Treated,3,1593.06,4779.18
+txn_56b9d0c96423,user_000086,2025-03-11T02:30:58,2025-03-11,3,March,shipped,airtel_money,prod_00013,Paint Bucket 20L,4,1669.63,6678.52
+txn_bf06bb86f40f,user_000025,2025-03-14T21:29:01,2025-03-14,3,March,shipped,airtel_money,prod_00391,Sweet Potato Bag,2,19231.81,38463.62
+txn_dfe751587bb7,user_000342,2025-01-22T02:36:11,2025-01-22,1,January,completed,bank_transfer,prod_00447,Impala Club Soda,4,3270.71,13082.84
+txn_dfe751587bb7,user_000342,2025-01-22T02:36:11,2025-01-22,1,January,completed,bank_transfer,prod_00365,Savon Ivoirien Soap,4,1120.43,4481.72
+txn_e1f8607d1e0f,user_000267,2025-01-15T21:22:33,2025-01-15,1,January,processing,visa_card,prod_00248,Inyange Juice,4,2910.1,11640.4
+txn_e1f8607d1e0f,user_000267,2025-01-15T21:22:33,2025-01-15,1,January,processing,visa_card,prod_00150,Power Bank 10000mAh,4,8478.12,33912.48
+txn_e1f8607d1e0f,user_000267,2025-01-15T21:22:33,2025-01-15,1,January,processing,visa_card,prod_00014,Power Bank 10000mAh,3,12208.0,36624.0
+txn_d3e1e9a44994,user_000340,2025-01-11T07:56:11,2025-01-11,1,January,completed,visa_card,prod_00410,MTN MoMo Agent Kit,3,17149.67,51449.01
+txn_e3e061c06d43,user_000161,2025-03-08T03:58:17,2025-03-08,3,March,completed,airtel_money,prod_00006,Passion Fruit Tray,2,19756.78,39513.56
+txn_fd03ed3e6027,user_000499,2025-01-14T08:58:04,2025-01-14,1,January,refunded,airtel_money,prod_00033,Paint Bucket 20L,2,14322.26,28644.52
+txn_fd03ed3e6027,user_000499,2025-01-14T08:58:04,2025-01-14,1,January,refunded,airtel_money,prod_00148,Inkorora Storage Basket,4,3188.41,12753.64
+txn_fd03ed3e6027,user_000499,2025-01-14T08:58:04,2025-01-14,1,January,refunded,airtel_money,prod_00453,Iron Sheet 3m,2,19689.4,39378.8
+txn_dd211eba2ae4,user_000418,2025-01-24T06:43:44,2025-01-24,1,January,shipped,mtn_momo,prod_00182,Feature Phone Tecno,3,11285.28,33855.84
+txn_dd211eba2ae4,user_000418,2025-01-24T06:43:44,2025-01-24,1,January,shipped,mtn_momo,prod_00029,Charcoal Stove Jiko,1,10387.82,10387.82
+txn_dd211eba2ae4,user_000418,2025-01-24T06:43:44,2025-01-24,1,January,shipped,mtn_momo,prod_00169,Dettol Antiseptic,3,12219.48,36658.44
+txn_401fa8a4c484,user_000454,2025-01-16T04:31:22,2025-01-16,1,January,refunded,visa_card,prod_00203,Dettol Antiseptic,4,15600.15,62400.6
+txn_401fa8a4c484,user_000454,2025-01-16T04:31:22,2025-01-16,1,January,refunded,visa_card,prod_00336,Roofing Nails 4inch,3,15813.99,47441.97
+txn_401fa8a4c484,user_000454,2025-01-16T04:31:22,2025-01-16,1,January,refunded,visa_card,prod_00278,School Uniform Set,3,9593.46,28780.38
+txn_b4cc56d3b36d,user_000298,2025-01-13T16:53:26,2025-01-13,1,January,processing,bank_transfer,prod_00308,Sorghum Flour 1kg,4,19400.25,77601.0
+txn_b236247b9616,user_000347,2025-01-03T09:04:29,2025-01-03,1,January,refunded,airtel_money,prod_00305,Cement Bag 50kg Cimerwa,2,13047.8,26095.6
+txn_b236247b9616,user_000347,2025-01-03T09:04:29,2025-01-03,1,January,refunded,airtel_money,prod_00047,Window Glass Panel,1,7223.65,7223.65
+txn_b236247b9616,user_000347,2025-01-03T09:04:29,2025-01-03,1,January,refunded,airtel_money,prod_00040,Coconut Hair Oil Rwanda,2,5819.43,11638.86
+txn_7452f9d7e082,user_000171,2025-01-09T10:09:53,2025-01-09,1,January,shipped,bank_transfer,prod_00381,Coconut Hair Oil Rwanda,3,1897.06,5691.18
+txn_f9c73a52a972,user_000349,2025-01-30T22:31:42,2025-01-30,1,January,refunded,visa_card,prod_00045,Inzoga ya Primus,3,5191.0,15573.0
+txn_f5da41ba84ce,user_000467,2025-03-05T05:10:45,2025-03-05,3,March,refunded,mtn_momo,prod_00352,Irish Potato 5kg,3,8694.74,26084.22
+txn_f5da41ba84ce,user_000467,2025-03-05T05:10:45,2025-03-05,3,March,refunded,mtn_momo,prod_00296,Fanta Citron,1,9184.48,9184.48
+txn_433d6d2d500b,user_000264,2025-01-08T19:20:51,2025-01-08,1,January,shipped,bank_transfer,prod_00226,Smartphone Android 4G,2,10547.76,21095.52
+txn_44c86c87fe76,user_000346,2025-03-26T02:07:14,2025-03-26,3,March,shipped,mtn_momo,prod_00056,Electric Wire 2.5mm,3,5604.65,16813.95
+txn_44c86c87fe76,user_000346,2025-03-26T02:07:14,2025-03-26,3,March,shipped,mtn_momo,prod_00402,Printer Paper A4 Ream,4,8738.01,34952.04
+txn_322cf6f7fb2e,user_000469,2025-03-02T02:34:57,2025-03-02,3,March,refunded,bank_transfer,prod_00440,Exercise Book 96pages,4,11863.18,47452.72
+txn_322cf6f7fb2e,user_000469,2025-03-02T02:34:57,2025-03-02,3,March,refunded,bank_transfer,prod_00107,Power Bank 10000mAh,1,6715.32,6715.32
+txn_3d96f746c1cf,user_000112,2025-02-18T13:29:05,2025-02-18,2,February,refunded,cash,prod_00074,Charcoal Stove Jiko,2,3404.34,6808.68
+txn_3d96f746c1cf,user_000112,2025-02-18T13:29:05,2025-02-18,2,February,refunded,cash,prod_00340,Mosquito Net Treated,1,13233.76,13233.76
+txn_a08df5da7f61,user_000389,2025-03-18T06:23:56,2025-03-18,3,March,shipped,visa_card,prod_00443,Irish Potato 5kg,3,6125.18,18375.54
+txn_722069087e64,user_000191,2025-01-10T06:43:00,2025-01-10,1,January,refunded,mtn_momo,prod_00196,Calculator Casio,4,13031.72,52126.88
+txn_722069087e64,user_000191,2025-01-10T06:43:00,2025-01-10,1,January,refunded,mtn_momo,prod_00156,Rwanda Arabica Coffee,2,10879.48,21758.96
+txn_722069087e64,user_000191,2025-01-10T06:43:00,2025-01-10,1,January,refunded,mtn_momo,prod_00014,Power Bank 10000mAh,2,12208.0,24416.0
+txn_f807206b1ed7,user_000359,2025-01-17T04:56:33,2025-01-17,1,January,processing,bank_transfer,prod_00238,Toothpaste Colgate,4,17098.67,68394.68
+txn_02d8eb8864ba,user_000070,2025-03-14T19:41:38,2025-03-14,3,March,refunded,cash,prod_00289,Inyange Juice,2,15061.7,30123.4
+txn_02d8eb8864ba,user_000070,2025-03-14T19:41:38,2025-03-14,3,March,refunded,cash,prod_00148,Inkorora Storage Basket,4,3188.41,12753.64
+txn_02d8eb8864ba,user_000070,2025-03-14T19:41:38,2025-03-14,3,March,refunded,cash,prod_00074,Charcoal Stove Jiko,1,3404.34,3404.34
+txn_fdbd4675aa1c,user_000422,2025-02-18T21:18:05,2025-02-18,2,February,shipped,mtn_momo,prod_00326,Amavuta Shea Butter,2,19131.19,38262.38
+txn_fdbd4675aa1c,user_000422,2025-02-18T21:18:05,2025-02-18,2,February,shipped,mtn_momo,prod_00475,Power Bank 10000mAh,4,3828.44,15313.76
+txn_fdbd4675aa1c,user_000422,2025-02-18T21:18:05,2025-02-18,2,February,shipped,mtn_momo,prod_00182,Feature Phone Tecno,1,11285.28,11285.28
+txn_0f3190b0f596,user_000097,2025-01-28T15:55:36,2025-01-28,1,January,refunded,mtn_momo,prod_00461,Kitenge Fabric 2m,4,14065.25,56261.0
+txn_0f3190b0f596,user_000097,2025-01-28T15:55:36,2025-01-28,1,January,refunded,mtn_momo,prod_00169,Dettol Antiseptic,1,12219.48,12219.48
+txn_0f3190b0f596,user_000097,2025-01-28T15:55:36,2025-01-28,1,January,refunded,mtn_momo,prod_00016,Nivea Roll-On,4,5828.77,23315.08
+txn_cd6688616b10,user_000118,2025-01-09T23:02:24,2025-01-09,1,January,processing,visa_card,prod_00274,Agaseke Woven Basket,4,16373.51,65494.04
+txn_cd6688616b10,user_000118,2025-01-09T23:02:24,2025-01-09,1,January,processing,visa_card,prod_00454,Window Glass Panel,3,13383.01,40149.03
+txn_a97162e14be1,user_000081,2025-03-19T13:27:09,2025-03-19,3,March,refunded,bank_transfer,prod_00384,Radio FM Portable,3,9688.21,29064.63
+txn_a97162e14be1,user_000081,2025-03-19T13:27:09,2025-03-19,3,March,refunded,bank_transfer,prod_00350,Pillow Fiber,4,6147.11,24588.44
+txn_27a3927dc567,user_000477,2025-02-06T07:57:01,2025-02-06,2,February,shipped,bank_transfer,prod_00200,Calculator Casio,4,3933.96,15735.84
+txn_5f06578f7571,user_000106,2025-03-22T22:58:34,2025-03-22,3,March,shipped,visa_card,prod_00304,Phone Charger USB-C,1,8413.92,8413.92
+txn_383f3b4b7788,user_000360,2025-01-14T11:28:22,2025-01-14,1,January,processing,cash,prod_00367,WiFi Router ZTE,4,16561.04,66244.16
+txn_5f322c4b8392,user_000107,2025-01-06T09:56:02,2025-01-06,1,January,completed,cash,prod_00369,Sorghum Flour 1kg,1,15109.29,15109.29
+txn_373aad7c0b55,user_000068,2025-03-08T11:04:34,2025-03-08,3,March,completed,cash,prod_00114,Inkorora Storage Basket,2,6256.25,12512.5
+txn_373aad7c0b55,user_000068,2025-03-08T11:04:34,2025-03-08,3,March,completed,cash,prod_00356,Earphones Oraimo,1,5439.6,5439.6
+txn_f6881c67a657,user_000358,2025-02-23T18:22:06,2025-02-23,2,February,processing,visa_card,prod_00004,Exercise Book 96pages,3,13013.24,39039.72
+txn_f6881c67a657,user_000358,2025-02-23T18:22:06,2025-02-23,2,February,processing,visa_card,prod_00143,Dettol Antiseptic,4,6954.3,27817.2
+txn_c728c3efacb8,user_000369,2025-03-28T17:20:30,2025-03-28,3,March,completed,cash,prod_00490,Rwanda Arabica Coffee,4,18015.91,72063.64
+txn_d77e9533b089,user_000318,2025-02-18T14:17:27,2025-02-18,2,February,completed,cash,prod_00185,Charcoal Stove Jiko,4,17997.11,71988.44
+txn_c18c1ac4dee3,user_000462,2025-01-29T20:18:37,2025-01-29,1,January,processing,cash,prod_00439,Steel Rod 12mm,3,11769.66,35308.98
+txn_c18c1ac4dee3,user_000462,2025-01-29T20:18:37,2025-01-29,1,January,processing,cash,prod_00271,Cement Bag 50kg Cimerwa,4,14039.08,56156.32
+txn_77feda6fda8b,user_000329,2025-01-16T03:54:13,2025-01-16,1,January,completed,visa_card,prod_00443,Irish Potato 5kg,1,6125.18,6125.18
+txn_eaea18ef81d6,user_000387,2025-03-23T22:09:52,2025-03-23,3,March,completed,visa_card,prod_00231,Mosquito Net Treated,2,17961.92,35923.84
+txn_eaea18ef81d6,user_000387,2025-03-23T22:09:52,2025-03-23,3,March,completed,visa_card,prod_00178,Roofing Nails 4inch,1,3567.54,3567.54
+txn_eaea18ef81d6,user_000387,2025-03-23T22:09:52,2025-03-23,3,March,completed,visa_card,prod_00191,Power Bank 10000mAh,3,2347.14,7041.42
+txn_06bfb7f6fa14,user_000380,2025-03-12T14:15:56,2025-03-12,3,March,shipped,cash,prod_00183,Toothpaste Colgate,1,3436.04,3436.04
+txn_1a293dbddc33,user_000181,2025-01-04T18:23:05,2025-01-04,1,January,processing,visa_card,prod_00094,Door Lock Yale,2,13960.66,27921.32
+txn_1a293dbddc33,user_000181,2025-01-04T18:23:05,2025-01-04,1,January,processing,visa_card,prod_00336,Roofing Nails 4inch,1,15813.99,15813.99
+txn_3e7605fb09db,user_000406,2025-03-23T18:18:12,2025-03-23,3,March,processing,mtn_momo,prod_00132,MTN MoMo Agent Kit,3,7027.36,21082.08
+txn_3e7605fb09db,user_000406,2025-03-23T18:18:12,2025-03-23,3,March,processing,mtn_momo,prod_00273,Bed Sheet Cotton,3,5706.08,17118.24
+txn_3e7605fb09db,user_000406,2025-03-23T18:18:12,2025-03-23,3,March,processing,mtn_momo,prod_00440,Exercise Book 96pages,2,11863.18,23726.36
+txn_d8c56d54c22e,user_000229,2025-01-22T03:26:58,2025-01-22,1,January,refunded,bank_transfer,prod_00228,Radio FM Portable,4,10031.34,40125.36
+txn_d8c56d54c22e,user_000229,2025-01-22T03:26:58,2025-01-22,1,January,refunded,bank_transfer,prod_00453,Iron Sheet 3m,3,19689.4,59068.2
+txn_d8c56d54c22e,user_000229,2025-01-22T03:26:58,2025-01-22,1,January,refunded,bank_transfer,prod_00307,Mosquito Net Treated,2,2993.76,5987.52
+txn_6ca96b63397d,user_000134,2025-03-16T05:44:33,2025-03-16,3,March,completed,airtel_money,prod_00216,Stapler Heavy Duty,2,4911.72,9823.44
+txn_d51982c021d6,user_000136,2025-02-24T06:38:01,2025-02-24,2,February,processing,mtn_momo,prod_00412,Iron Sheet 3m,1,18001.83,18001.83
+txn_2aba7c1a1f74,user_000137,2025-03-02T22:30:31,2025-03-02,3,March,processing,mtn_momo,prod_00293,Inzoga ya Primus,4,19055.03,76220.12
+txn_2aba7c1a1f74,user_000137,2025-03-02T22:30:31,2025-03-02,3,March,processing,mtn_momo,prod_00391,Sweet Potato Bag,4,19231.81,76927.24
+txn_2aba7c1a1f74,user_000137,2025-03-02T22:30:31,2025-03-02,3,March,processing,mtn_momo,prod_00155,Umutsima Porridge,2,12839.03,25678.06
+txn_693d33b8ae42,user_000499,2025-02-07T03:14:42,2025-02-07,2,February,processing,cash,prod_00461,Kitenge Fabric 2m,4,14065.25,56261.0
+txn_344509d342da,user_000070,2025-01-11T07:24:50,2025-01-11,1,January,completed,mtn_momo,prod_00336,Roofing Nails 4inch,3,15813.99,47441.97
+txn_7cbb0b31557b,user_000284,2025-01-22T00:10:32,2025-01-22,1,January,refunded,mtn_momo,prod_00407,Akabanga Chilli Oil,4,2792.3,11169.2
+txn_170c3a6525a1,user_000489,2025-01-31T15:14:09,2025-01-31,1,January,processing,mtn_momo,prod_00096,PVC Pipe 2inch,4,2023.0,8092.0
+txn_170c3a6525a1,user_000489,2025-01-31T15:14:09,2025-01-31,1,January,processing,mtn_momo,prod_00035,Toothpaste Colgate,4,16966.35,67865.4
+txn_170c3a6525a1,user_000489,2025-01-31T15:14:09,2025-01-31,1,January,processing,mtn_momo,prod_00114,Inkorora Storage Basket,4,6256.25,25025.0
+txn_c30bd7090142,user_000181,2025-02-25T03:46:53,2025-02-25,2,February,completed,airtel_money,prod_00470,Stapler Heavy Duty,4,2154.82,8619.28
+txn_c30bd7090142,user_000181,2025-02-25T03:46:53,2025-02-25,2,February,completed,airtel_money,prod_00132,MTN MoMo Agent Kit,2,7027.36,14054.72
+txn_ce616394b23d,user_000173,2025-02-15T05:43:21,2025-02-15,2,February,processing,cash,prod_00378,Passion Fruit Tray,1,13635.89,13635.89
+txn_ce616394b23d,user_000173,2025-02-15T05:43:21,2025-02-15,2,February,processing,cash,prod_00039,Agaseke Woven Basket,3,17523.54,52570.62
+txn_a5dad0addc48,user_000204,2025-01-09T23:32:52,2025-01-09,1,January,shipped,visa_card,prod_00449,Ikivuguto Yoghurt,3,10496.93,31490.79
+txn_a5dad0addc48,user_000204,2025-01-09T23:32:52,2025-01-09,1,January,shipped,visa_card,prod_00274,Agaseke Woven Basket,3,16373.51,49120.53
+txn_618fc5df838a,user_000077,2025-03-27T02:41:06,2025-03-27,3,March,shipped,cash,prod_00445,School Bag Primary,4,11264.98,45059.92
+txn_618fc5df838a,user_000077,2025-03-27T02:41:06,2025-03-27,3,March,shipped,cash,prod_00166,Irish Potato 5kg,1,7667.45,7667.45
+txn_062028d7f945,user_000202,2025-03-20T16:55:06,2025-03-20,3,March,processing,mtn_momo,prod_00469,Rukundo Tea Leaves,3,3944.06,11832.18
+txn_062028d7f945,user_000202,2025-03-20T16:55:06,2025-03-20,3,March,processing,mtn_momo,prod_00000,Isombe Cassava Leaves,3,18347.49,55042.47
+txn_062028d7f945,user_000202,2025-03-20T16:55:06,2025-03-20,3,March,processing,mtn_momo,prod_00268,Kitenge Fabric 2m,1,13321.68,13321.68
+txn_6f79d88fdadc,user_000267,2025-01-19T10:11:41,2025-01-19,1,January,shipped,mtn_momo,prod_00061,Sweet Potato Bag,3,4048.28,12144.84
+txn_ceee0cdb1595,user_000125,2025-03-17T09:44:09,2025-03-17,3,March,processing,mtn_momo,prod_00146,School Uniform Set,3,12140.93,36422.79
+txn_dd759f573c86,user_000226,2025-02-28T03:43:31,2025-02-28,2,February,shipped,airtel_money,prod_00071,Agaseke Woven Basket,2,17707.89,35415.78
+txn_2af3ca2a4901,user_000283,2025-01-11T05:00:26,2025-01-11,1,January,shipped,visa_card,prod_00091,Pineapple Crate Nyungwe,3,3922.15,11766.45
+txn_2af3ca2a4901,user_000283,2025-01-11T05:00:26,2025-01-11,1,January,shipped,visa_card,prod_00203,Dettol Antiseptic,1,15600.15,15600.15
+txn_7243ac05f7a9,user_000252,2025-02-08T10:04:40,2025-02-08,2,February,shipped,cash,prod_00049,Ibirayi Fries,3,10549.98,31649.94
+txn_3f6917dc7e27,user_000369,2025-02-27T08:14:01,2025-02-27,2,February,processing,airtel_money,prod_00464,Rukundo Tea Leaves,2,11042.33,22084.66
+txn_3f6917dc7e27,user_000369,2025-02-27T08:14:01,2025-02-27,2,February,processing,airtel_money,prod_00186,Leather Shoes Kigali,3,1959.19,5877.57
+txn_3f6917dc7e27,user_000369,2025-02-27T08:14:01,2025-02-27,2,February,processing,airtel_money,prod_00341,Fanta Citron,2,3762.7,7525.4
+txn_2bc6f0138f7e,user_000277,2025-02-11T19:16:46,2025-02-11,2,February,refunded,visa_card,prod_00424,Sandals Handmade,2,9153.59,18307.18
+txn_5e44052474a9,user_000267,2025-02-23T01:20:30,2025-02-23,2,February,shipped,mtn_momo,prod_00061,Sweet Potato Bag,2,4048.28,8096.56
+txn_5e44052474a9,user_000267,2025-02-23T01:20:30,2025-02-23,2,February,shipped,mtn_momo,prod_00110,Fresh Avocado Pack,4,4731.82,18927.28
+txn_6e3da2e2ce60,user_000420,2025-01-13T03:35:15,2025-01-13,1,January,refunded,visa_card,prod_00450,Umushanana Set,2,14675.95,29351.9
+txn_9b73da7784f4,user_000095,2025-02-24T19:54:37,2025-02-24,2,February,completed,visa_card,prod_00184,Impala Club Soda,4,4501.29,18005.16
+txn_13b9083b3cf3,user_000204,2025-03-12T08:50:44,2025-03-12,3,March,refunded,mtn_momo,prod_00386,Savon Ivoirien Soap,4,3821.23,15284.92
+txn_6584a2943bd4,user_000044,2025-01-27T00:47:46,2025-01-27,1,January,processing,visa_card,prod_00317,Amavuta Shea Butter,3,9208.6,27625.8
+txn_e02aba327de3,user_000245,2025-03-17T22:55:57,2025-03-17,3,March,processing,airtel_money,prod_00062,Kitenge Fabric 2m,4,3658.36,14633.44
+txn_e02aba327de3,user_000245,2025-03-17T22:55:57,2025-03-17,3,March,processing,airtel_money,prod_00429,Impala Club Soda,1,1489.16,1489.16
+txn_e02aba327de3,user_000245,2025-03-17T22:55:57,2025-03-17,3,March,processing,airtel_money,prod_00452,Mattress Foam Single,4,12274.52,49098.08
+txn_8bbee54bc3d4,user_000321,2025-02-17T13:27:01,2025-02-17,2,February,refunded,airtel_money,prod_00071,Agaseke Woven Basket,3,17707.89,53123.67
+txn_3ff6f0b5c1fa,user_000259,2025-02-04T23:05:28,2025-02-04,2,February,refunded,bank_transfer,prod_00003,Door Lock Yale,2,2437.42,4874.84
+txn_9e581059903e,user_000236,2025-01-07T15:06:52,2025-01-07,1,January,shipped,visa_card,prod_00071,Agaseke Woven Basket,2,17707.89,35415.78
+txn_c861a91428ab,user_000074,2025-02-03T05:21:08,2025-02-03,2,February,refunded,mtn_momo,prod_00436,Nivea Roll-On,2,2729.3,5458.6
+txn_c9badbe75f14,user_000417,2025-01-02T01:12:24,2025-01-02,1,January,shipped,airtel_money,prod_00497,Charcoal Stove Jiko,4,7377.88,29511.52
+txn_c9badbe75f14,user_000417,2025-01-02T01:12:24,2025-01-02,1,January,shipped,airtel_money,prod_00131,Toothpaste Colgate,2,12525.04,25050.08
+txn_c9badbe75f14,user_000417,2025-01-02T01:12:24,2025-01-02,1,January,shipped,airtel_money,prod_00090,Umushanana Set,4,3668.64,14674.56
+txn_b921e65af988,user_000330,2025-02-07T11:54:37,2025-02-07,2,February,shipped,cash,prod_00313,Fanta Citron,4,11986.44,47945.76
+txn_b921e65af988,user_000330,2025-02-07T11:54:37,2025-02-07,2,February,shipped,cash,prod_00176,Fresh Avocado Pack,4,15768.25,63073.0
+txn_41666272b502,user_000331,2025-02-23T17:47:03,2025-02-23,2,February,shipped,visa_card,prod_00080,Power Bank 10000mAh,2,7408.6,14817.2
+txn_e9973345a371,user_000374,2025-02-22T12:34:14,2025-02-22,2,February,shipped,airtel_money,prod_00057,School Uniform Set,1,19946.62,19946.62
+txn_5a673666016d,user_000019,2025-01-27T14:22:44,2025-01-27,1,January,processing,cash,prod_00102,Cavendish Banana Bundle,1,7895.89,7895.89
+txn_5a673666016d,user_000019,2025-01-27T14:22:44,2025-01-27,1,January,processing,cash,prod_00046,Inyange Milk,1,10392.89,10392.89
+txn_cb0b2be3fffd,user_000469,2025-01-25T06:44:45,2025-01-25,1,January,refunded,airtel_money,prod_00320,Ikivuguto Yoghurt,2,9059.95,18119.9
+txn_16db771359da,user_000098,2025-02-19T19:31:10,2025-02-19,2,February,processing,bank_transfer,prod_00279,Bed Sheet Cotton,3,11228.12,33684.36
+txn_6551a5bc95a2,user_000059,2025-03-16T23:00:41,2025-03-16,3,March,refunded,bank_transfer,prod_00253,Pineapple Crate Nyungwe,2,17545.74,35091.48
+txn_55112a135897,user_000229,2025-01-08T05:59:30,2025-01-08,1,January,shipped,airtel_money,prod_00025,Earphones Oraimo,2,10846.79,21693.58
+txn_1e99eb8ffc83,user_000334,2025-01-03T04:32:16,2025-01-03,1,January,refunded,airtel_money,prod_00233,Mosquito Net Treated,3,7057.53,21172.59
+txn_06108cc92285,user_000377,2025-02-12T17:31:39,2025-02-12,2,February,completed,visa_card,prod_00279,Bed Sheet Cotton,3,11228.12,33684.36
+txn_06108cc92285,user_000377,2025-02-12T17:31:39,2025-02-12,2,February,completed,visa_card,prod_00435,Mutzig Beer,4,7143.93,28575.72
+txn_b2788a2f63fe,user_000178,2025-03-19T11:35:29,2025-03-19,3,March,shipped,mtn_momo,prod_00223,Gahunda Work Shirt,2,17846.7,35693.4
+txn_b2788a2f63fe,user_000178,2025-03-19T11:35:29,2025-03-19,3,March,shipped,mtn_momo,prod_00166,Irish Potato 5kg,4,7667.45,30669.8
+txn_b2788a2f63fe,user_000178,2025-03-19T11:35:29,2025-03-19,3,March,shipped,mtn_momo,prod_00482,Savon Ivoirien Soap,2,4277.52,8555.04
+txn_660c595a654b,user_000316,2025-02-13T18:40:16,2025-02-13,2,February,completed,bank_transfer,prod_00021,Isombe Cassava Leaves,4,10199.01,40796.04
+txn_660c595a654b,user_000316,2025-02-13T18:40:16,2025-02-13,2,February,completed,bank_transfer,prod_00116,Sufuria Cooking Pot 5L,3,8541.65,25624.95
+txn_137af04563d0,user_000091,2025-03-09T01:29:14,2025-03-09,3,March,completed,cash,prod_00380,Mattress Foam Single,4,11406.28,45625.12
+txn_fa7fc48ecd16,user_000311,2025-02-23T04:18:52,2025-02-23,2,February,refunded,visa_card,prod_00340,Mosquito Net Treated,4,13233.76,52935.04
+txn_57c6532e455b,user_000054,2025-03-14T20:55:23,2025-03-14,3,March,refunded,cash,prod_00421,Vaseline Petroleum Jelly,4,19407.46,77629.84
+txn_57c6532e455b,user_000054,2025-03-14T20:55:23,2025-03-14,3,March,refunded,cash,prod_00284,Sweet Potato Bag,3,17366.54,52099.62
+txn_57c6532e455b,user_000054,2025-03-14T20:55:23,2025-03-14,3,March,refunded,cash,prod_00333,Nivea Roll-On,2,19191.27,38382.54
+txn_0dbc93f3c75f,user_000284,2025-03-24T21:57:26,2025-03-24,3,March,refunded,airtel_money,prod_00365,Savon Ivoirien Soap,4,1120.43,4481.72
+txn_0dbc93f3c75f,user_000284,2025-03-24T21:57:26,2025-03-24,3,March,refunded,airtel_money,prod_00183,Toothpaste Colgate,3,3436.04,10308.12
+txn_c22926e5e6a4,user_000288,2025-03-13T01:15:52,2025-03-13,3,March,processing,mtn_momo,prod_00481,Solar Lantern LifeLight,1,4242.11,4242.11
+txn_c22926e5e6a4,user_000288,2025-03-13T01:15:52,2025-03-13,3,March,processing,mtn_momo,prod_00002,PVC Pipe 2inch,1,17765.57,17765.57
+txn_d60391dd2f37,user_000262,2025-03-22T07:04:19,2025-03-22,3,March,processing,bank_transfer,prod_00213,Sufuria Cooking Pot 5L,2,6299.31,12598.62
+txn_d60391dd2f37,user_000262,2025-03-22T07:04:19,2025-03-22,3,March,processing,bank_transfer,prod_00452,Mattress Foam Single,2,12274.52,24549.04
+txn_4e2bf6729747,user_000391,2025-02-01T05:06:55,2025-02-01,2,February,processing,visa_card,prod_00229,Power Bank 10000mAh,4,1035.28,4141.12
+txn_4e2bf6729747,user_000391,2025-02-01T05:06:55,2025-02-01,2,February,processing,visa_card,prod_00157,Irish Potato 5kg,3,18415.99,55247.97
+txn_45fb8449b9b5,user_000088,2025-02-16T00:05:04,2025-02-16,2,February,refunded,airtel_money,prod_00457,Stapler Heavy Duty,3,7031.86,21095.58
+txn_45fb8449b9b5,user_000088,2025-02-16T00:05:04,2025-02-16,2,February,refunded,airtel_money,prod_00014,Power Bank 10000mAh,2,12208.0,24416.0
+txn_45fb8449b9b5,user_000088,2025-02-16T00:05:04,2025-02-16,2,February,refunded,airtel_money,prod_00313,Fanta Citron,3,11986.44,35959.32
+txn_f7d76c190778,user_000039,2025-01-08T06:50:58,2025-01-08,1,January,processing,cash,prod_00060,Passion Fruit Tray,2,15498.71,30997.42
+txn_f7d76c190778,user_000039,2025-01-08T06:50:58,2025-01-08,1,January,processing,cash,prod_00225,Mosquito Net Treated,4,14711.59,58846.36
+txn_2bb381c0b259,user_000467,2025-02-07T23:10:52,2025-02-07,2,February,processing,bank_transfer,prod_00044,Akabanga Chilli Oil,4,1724.74,6898.96
+txn_2bb381c0b259,user_000467,2025-02-07T23:10:52,2025-02-07,2,February,processing,bank_transfer,prod_00304,Phone Charger USB-C,2,8413.92,16827.84
+txn_2bb381c0b259,user_000467,2025-02-07T23:10:52,2025-02-07,2,February,processing,bank_transfer,prod_00392,Bed Sheet Cotton,4,18239.84,72959.36
+txn_b0a8b7770cb5,user_000444,2025-02-27T00:13:17,2025-02-27,2,February,completed,cash,prod_00193,School Bag Primary,2,16281.32,32562.64
+txn_b0a8b7770cb5,user_000444,2025-02-27T00:13:17,2025-02-27,2,February,completed,cash,prod_00335,Mosquito Net Treated,3,17198.02,51594.06
+txn_b0a8b7770cb5,user_000444,2025-02-27T00:13:17,2025-02-27,2,February,completed,cash,prod_00071,Agaseke Woven Basket,2,17707.89,35415.78
+txn_e89ee80c7d8b,user_000103,2025-03-28T12:11:06,2025-03-28,3,March,processing,visa_card,prod_00403,Impala Club Soda,4,8164.8,32659.2
+txn_e89ee80c7d8b,user_000103,2025-03-28T12:11:06,2025-03-28,3,March,processing,visa_card,prod_00461,Kitenge Fabric 2m,1,14065.25,14065.25
+txn_e89ee80c7d8b,user_000103,2025-03-28T12:11:06,2025-03-28,3,March,processing,visa_card,prod_00218,Smartphone Android 4G,3,10290.98,30872.94
+txn_c1d116495fc1,user_000164,2025-01-26T01:37:58,2025-01-26,1,January,shipped,bank_transfer,prod_00022,Nivea Roll-On,4,9465.21,37860.84
+txn_f99fd9fac382,user_000077,2025-01-21T23:59:47,2025-01-21,1,January,completed,airtel_money,prod_00351,Plastic Jerry Can 20L,2,19460.49,38920.98
+txn_f99fd9fac382,user_000077,2025-01-21T23:59:47,2025-01-21,1,January,completed,airtel_money,prod_00111,Agaseke Woven Basket,1,14064.71,14064.71
+txn_f99fd9fac382,user_000077,2025-01-21T23:59:47,2025-01-21,1,January,completed,airtel_money,prod_00326,Amavuta Shea Butter,4,19131.19,76524.76
+txn_83a37ff8bfaf,user_000115,2025-02-25T19:59:01,2025-02-25,2,February,processing,airtel_money,prod_00346,Pineapple Crate Nyungwe,1,4929.0,4929.0
+txn_a5ca3306c827,user_000199,2025-03-02T20:23:42,2025-03-02,3,March,processing,visa_card,prod_00447,Impala Club Soda,1,3270.71,3270.71
+txn_a5ca3306c827,user_000199,2025-03-02T20:23:42,2025-03-02,3,March,processing,visa_card,prod_00434,Sufuria Cooking Pot 5L,4,15952.4,63809.6
+txn_5df32121d3a9,user_000386,2025-02-09T08:39:11,2025-02-09,2,February,shipped,mtn_momo,prod_00212,Bed Sheet Cotton,4,3563.52,14254.08
+txn_5df32121d3a9,user_000386,2025-02-09T08:39:11,2025-02-09,2,February,shipped,mtn_momo,prod_00049,Ibirayi Fries,2,10549.98,21099.96
+txn_8ac569222296,user_000494,2025-02-05T02:38:34,2025-02-05,2,February,processing,mtn_momo,prod_00329,School Bag Primary,2,13678.34,27356.68
+txn_8ac569222296,user_000494,2025-02-05T02:38:34,2025-02-05,2,February,processing,mtn_momo,prod_00465,Akabanga Chilli Oil,3,1873.04,5619.12
+txn_b016bba2d694,user_000218,2025-01-05T08:24:26,2025-01-05,1,January,refunded,visa_card,prod_00364,Inkorora Storage Basket,4,6790.7,27162.8
+txn_b016bba2d694,user_000218,2025-01-05T08:24:26,2025-01-05,1,January,refunded,visa_card,prod_00184,Impala Club Soda,3,4501.29,13503.87
+txn_b016bba2d694,user_000218,2025-01-05T08:24:26,2025-01-05,1,January,refunded,visa_card,prod_00218,Smartphone Android 4G,2,10290.98,20581.96
+txn_76a77842b4c4,user_000457,2025-03-20T12:41:51,2025-03-20,3,March,completed,bank_transfer,prod_00054,Nziza Body Lotion,2,1811.05,3622.1
+txn_76a77842b4c4,user_000457,2025-03-20T12:41:51,2025-03-20,3,March,completed,bank_transfer,prod_00193,School Bag Primary,2,16281.32,32562.64
+txn_76a77842b4c4,user_000457,2025-03-20T12:41:51,2025-03-20,3,March,completed,bank_transfer,prod_00398,Inzoga ya Primus,3,4912.32,14736.96
+txn_cbf458fcb36e,user_000217,2025-02-02T19:07:38,2025-02-02,2,February,processing,cash,prod_00091,Pineapple Crate Nyungwe,1,3922.15,3922.15
+txn_2fa6d059eac6,user_000365,2025-03-26T22:15:07,2025-03-26,3,March,refunded,cash,prod_00160,Passion Fruit Tray,4,4747.68,18990.72
+txn_0e2606268161,user_000035,2025-02-04T08:22:23,2025-02-04,2,February,refunded,airtel_money,prod_00236,Biro Pen Box,3,6353.8,19061.4
+txn_790b86c2f1d0,user_000445,2025-03-24T13:20:09,2025-03-24,3,March,refunded,cash,prod_00442,Savon Ivoirien Soap,1,7940.52,7940.52
+txn_790b86c2f1d0,user_000445,2025-03-24T13:20:09,2025-03-24,3,March,refunded,cash,prod_00053,PVC Pipe 2inch,4,5853.83,23415.32
+txn_790b86c2f1d0,user_000445,2025-03-24T13:20:09,2025-03-24,3,March,refunded,cash,prod_00326,Amavuta Shea Butter,4,19131.19,76524.76
+txn_e2ba81b1d7e5,user_000416,2025-02-01T02:10:44,2025-02-01,2,February,refunded,bank_transfer,prod_00255,Umutsima Porridge,1,13953.1,13953.1
+txn_e2ba81b1d7e5,user_000416,2025-02-01T02:10:44,2025-02-01,2,February,refunded,bank_transfer,prod_00023,Stapler Heavy Duty,4,3851.53,15406.12
+txn_e2ba81b1d7e5,user_000416,2025-02-01T02:10:44,2025-02-01,2,February,refunded,bank_transfer,prod_00215,PVC Pipe 2inch,1,10037.39,10037.39
+txn_e4e89b0609d3,user_000204,2025-03-05T07:34:51,2025-03-05,3,March,shipped,visa_card,prod_00257,School Bag Primary,4,2702.28,10809.12
+txn_e4e89b0609d3,user_000204,2025-03-05T07:34:51,2025-03-05,3,March,shipped,visa_card,prod_00197,Kitenge Fabric 2m,1,8073.43,8073.43
+txn_d9f41394ad75,user_000100,2025-02-18T16:19:45,2025-02-18,2,February,processing,bank_transfer,prod_00084,Mattress Foam Single,1,3176.82,3176.82
+txn_d9f41394ad75,user_000100,2025-02-18T16:19:45,2025-02-18,2,February,processing,bank_transfer,prod_00005,Akabanga Chilli Oil,1,4711.05,4711.05
+txn_d9f41394ad75,user_000100,2025-02-18T16:19:45,2025-02-18,2,February,processing,bank_transfer,prod_00389,Umutsima Porridge,1,7262.21,7262.21
+txn_8888098df5a1,user_000313,2025-03-12T19:50:16,2025-03-12,3,March,processing,visa_card,prod_00244,School Uniform Set,2,3014.15,6028.3
+txn_8888098df5a1,user_000313,2025-03-12T19:50:16,2025-03-12,3,March,processing,visa_card,prod_00297,Printer Paper A4 Ream,3,17880.29,53640.87
+txn_89baedd1cc7d,user_000382,2025-03-24T03:40:45,2025-03-24,3,March,completed,bank_transfer,prod_00186,Leather Shoes Kigali,3,1959.19,5877.57
+txn_89baedd1cc7d,user_000382,2025-03-24T03:40:45,2025-03-24,3,March,completed,bank_transfer,prod_00340,Mosquito Net Treated,2,13233.76,26467.52
+txn_12a8f1d05bfc,user_000316,2025-03-15T11:16:00,2025-03-15,3,March,completed,bank_transfer,prod_00371,Ikivuguto Yoghurt,4,12364.06,49456.24
+txn_7171d43e0dd2,user_000294,2025-01-02T18:56:20,2025-01-02,1,January,completed,bank_transfer,prod_00112,Nziza Body Lotion,4,10906.18,43624.72
+txn_6062c4310135,user_000364,2025-02-13T03:25:30,2025-02-13,2,February,shipped,mtn_momo,prod_00194,Sweet Potato Bag,3,10174.46,30523.38
+txn_6062c4310135,user_000364,2025-02-13T03:25:30,2025-02-13,2,February,shipped,mtn_momo,prod_00391,Sweet Potato Bag,3,19231.81,57695.43
+txn_40cc47248d00,user_000317,2025-01-06T23:52:09,2025-01-06,1,January,shipped,cash,prod_00011,Rwanda Arabica Coffee,4,8888.89,35555.56
+txn_40cc47248d00,user_000317,2025-01-06T23:52:09,2025-01-06,1,January,shipped,cash,prod_00302,Mosquito Net Treated,3,10598.76,31796.28
+txn_40cc47248d00,user_000317,2025-01-06T23:52:09,2025-01-06,1,January,shipped,cash,prod_00211,Sorghum Flour 1kg,4,12083.6,48334.4
+txn_a7810c30146e,user_000013,2025-03-28T11:24:11,2025-03-28,3,March,refunded,mtn_momo,prod_00013,Paint Bucket 20L,1,1669.63,1669.63
+txn_24ee881135da,user_000258,2025-03-20T23:26:45,2025-03-20,3,March,completed,mtn_momo,prod_00319,Umutsima Porridge,3,7731.28,23193.84
+txn_283b99f54b15,user_000137,2025-01-09T22:32:24,2025-01-09,1,January,completed,visa_card,prod_00044,Akabanga Chilli Oil,2,1724.74,3449.48
+txn_283b99f54b15,user_000137,2025-01-09T22:32:24,2025-01-09,1,January,completed,visa_card,prod_00153,Ikivuguto Yoghurt,4,19800.63,79202.52
+txn_283b99f54b15,user_000137,2025-01-09T22:32:24,2025-01-09,1,January,completed,visa_card,prod_00444,Door Lock Yale,4,19512.01,78048.04
+txn_771aa00c6fb9,user_000275,2025-01-12T01:53:38,2025-01-12,1,January,processing,mtn_momo,prod_00116,Sufuria Cooking Pot 5L,2,8541.65,17083.3
+txn_771aa00c6fb9,user_000275,2025-01-12T01:53:38,2025-01-12,1,January,processing,mtn_momo,prod_00041,Leather Shoes Kigali,3,1538.51,4615.53
+txn_771aa00c6fb9,user_000275,2025-01-12T01:53:38,2025-01-12,1,January,processing,mtn_momo,prod_00204,Biro Pen Box,4,7062.94,28251.76
+txn_ecd67ff40208,user_000152,2025-01-13T06:50:07,2025-01-13,1,January,refunded,mtn_momo,prod_00153,Ikivuguto Yoghurt,3,19800.63,59401.89
+txn_ecd67ff40208,user_000152,2025-01-13T06:50:07,2025-01-13,1,January,refunded,mtn_momo,prod_00490,Rwanda Arabica Coffee,1,18015.91,18015.91
+txn_ed9a07bf4cd9,user_000419,2025-02-02T21:33:04,2025-02-02,2,February,completed,bank_transfer,prod_00120,Akagera Print T-Shirt,4,9782.1,39128.4
+txn_ed9a07bf4cd9,user_000419,2025-02-02T21:33:04,2025-02-02,2,February,completed,bank_transfer,prod_00261,Ikivuguto Yoghurt,2,9217.83,18435.66
+txn_ed9a07bf4cd9,user_000419,2025-02-02T21:33:04,2025-02-02,2,February,completed,bank_transfer,prod_00484,Cavendish Banana Bundle,1,9958.7,9958.7
+txn_4e052909cdf6,user_000392,2025-02-08T12:12:59,2025-02-08,2,February,processing,visa_card,prod_00489,Stapler Heavy Duty,4,12035.83,48143.32
+txn_4e052909cdf6,user_000392,2025-02-08T12:12:59,2025-02-08,2,February,processing,visa_card,prod_00166,Irish Potato 5kg,3,7667.45,23002.35
+txn_cf0b505a274c,user_000285,2025-01-22T10:27:14,2025-01-22,1,January,processing,cash,prod_00072,Savon Ivoirien Soap,3,10332.98,30998.94
+txn_5d5c23cf558c,user_000056,2025-02-25T07:11:23,2025-02-25,2,February,completed,mtn_momo,prod_00232,Rukundo Tea Leaves,3,11897.5,35692.5
+txn_a2dbfb6564dc,user_000463,2025-02-10T04:41:48,2025-02-10,2,February,processing,bank_transfer,prod_00390,Impala Club Soda,3,17862.84,53588.52
+txn_2248680aef5a,user_000328,2025-02-07T23:39:25,2025-02-07,2,February,refunded,mtn_momo,prod_00329,School Bag Primary,2,13678.34,27356.68
+txn_2248680aef5a,user_000328,2025-02-07T23:39:25,2025-02-07,2,February,refunded,mtn_momo,prod_00346,Pineapple Crate Nyungwe,2,4929.0,9858.0
+txn_8eae69feff63,user_000290,2025-01-19T17:21:31,2025-01-19,1,January,shipped,visa_card,prod_00084,Mattress Foam Single,1,3176.82,3176.82
+txn_6bec5c60e7e9,user_000031,2025-02-24T01:59:14,2025-02-24,2,February,refunded,airtel_money,prod_00363,Sweet Potato Bag,1,6753.53,6753.53
+txn_6bec5c60e7e9,user_000031,2025-02-24T01:59:14,2025-02-24,2,February,refunded,airtel_money,prod_00498,Inzoga ya Primus,4,9668.2,38672.8
+txn_bada68b758bf,user_000168,2025-02-28T02:26:02,2025-02-28,2,February,completed,cash,prod_00025,Earphones Oraimo,1,10846.79,10846.79
+txn_b91cefafb8ef,user_000110,2025-03-22T00:36:17,2025-03-22,3,March,refunded,mtn_momo,prod_00405,Akagera Print T-Shirt,2,12435.41,24870.82
+txn_d1601404f88c,user_000367,2025-02-14T10:44:20,2025-02-14,2,February,refunded,airtel_money,prod_00356,Earphones Oraimo,2,5439.6,10879.2
+txn_d1601404f88c,user_000367,2025-02-14T10:44:20,2025-02-14,2,February,refunded,airtel_money,prod_00324,Door Lock Yale,4,17584.2,70336.8
+txn_d1601404f88c,user_000367,2025-02-14T10:44:20,2025-02-14,2,February,refunded,airtel_money,prod_00415,Cement Bag 50kg Cimerwa,2,530.83,1061.66
+txn_c54f559e5e48,user_000242,2025-02-19T01:26:32,2025-02-19,2,February,completed,cash,prod_00142,MTN MoMo Agent Kit,2,940.41,1880.82
+txn_c54f559e5e48,user_000242,2025-02-19T01:26:32,2025-02-19,2,February,completed,cash,prod_00176,Fresh Avocado Pack,4,15768.25,63073.0
+txn_c54f559e5e48,user_000242,2025-02-19T01:26:32,2025-02-19,2,February,completed,cash,prod_00130,Smart TV 32inch,3,3345.73,10037.19
+txn_1d83eface5a8,user_000329,2025-03-19T21:50:48,2025-03-19,3,March,refunded,visa_card,prod_00172,Agaseke Woven Basket,3,1816.89,5450.67
+txn_073212fdda18,user_000044,2025-03-14T12:40:28,2025-03-14,3,March,completed,airtel_money,prod_00208,PVC Pipe 2inch,3,5671.64,17014.92
+txn_7e0a3bf8e511,user_000039,2025-02-15T07:04:43,2025-02-15,2,February,processing,bank_transfer,prod_00014,Power Bank 10000mAh,4,12208.0,48832.0
+txn_7e0a3bf8e511,user_000039,2025-02-15T07:04:43,2025-02-15,2,February,processing,bank_transfer,prod_00333,Nivea Roll-On,3,19191.27,57573.81
+txn_fe44a31f1957,user_000305,2025-02-14T18:38:15,2025-02-14,2,February,refunded,visa_card,prod_00381,Coconut Hair Oil Rwanda,1,1897.06,1897.06
+txn_47ddd9555522,user_000011,2025-02-06T14:53:17,2025-02-06,2,February,refunded,mtn_momo,prod_00003,Door Lock Yale,1,2437.42,2437.42
+txn_6576a7a21958,user_000370,2025-03-18T12:34:11,2025-03-18,3,March,processing,visa_card,prod_00292,Feature Phone Tecno,1,4036.48,4036.48
+txn_6576a7a21958,user_000370,2025-03-18T12:34:11,2025-03-18,3,March,processing,visa_card,prod_00247,Cement Bag 50kg Cimerwa,4,1447.45,5789.8
+txn_6576a7a21958,user_000370,2025-03-18T12:34:11,2025-03-18,3,March,processing,visa_card,prod_00471,Inyange Milk,1,8080.97,8080.97
+txn_30048b943819,user_000453,2025-01-16T13:52:00,2025-01-16,1,January,completed,mtn_momo,prod_00364,Inkorora Storage Basket,2,6790.7,13581.4
+txn_88c7e707f8d4,user_000048,2025-02-05T10:32:16,2025-02-05,2,February,shipped,visa_card,prod_00311,Passion Fruit Tray,2,12307.46,24614.92
+txn_bec1f2c0b1be,user_000207,2025-03-13T18:10:24,2025-03-13,3,March,completed,airtel_money,prod_00449,Ikivuguto Yoghurt,2,10496.93,20993.86
+txn_bec1f2c0b1be,user_000207,2025-03-13T18:10:24,2025-03-13,3,March,completed,airtel_money,prod_00466,Inzoga ya Primus,4,5695.51,22782.04
+txn_8c79a8e936c7,user_000056,2025-02-25T17:36:00,2025-02-25,2,February,shipped,cash,prod_00052,Ubwiza Face Cream,3,6894.44,20683.32
+txn_8c79a8e936c7,user_000056,2025-02-25T17:36:00,2025-02-25,2,February,shipped,cash,prod_00490,Rwanda Arabica Coffee,2,18015.91,36031.82
+txn_8c79a8e936c7,user_000056,2025-02-25T17:36:00,2025-02-25,2,February,shipped,cash,prod_00176,Fresh Avocado Pack,4,15768.25,63073.0
+txn_64c9cd0f99ee,user_000049,2025-01-31T08:04:03,2025-01-31,1,January,shipped,cash,prod_00297,Printer Paper A4 Ream,4,17880.29,71521.16
+txn_3628e2b3a2a0,user_000115,2025-02-03T05:08:02,2025-02-03,2,February,shipped,visa_card,prod_00300,Calculator Casio,1,13422.23,13422.23
+txn_3628e2b3a2a0,user_000115,2025-02-03T05:08:02,2025-02-03,2,February,shipped,visa_card,prod_00425,Door Lock Yale,1,16531.7,16531.7
+txn_3628e2b3a2a0,user_000115,2025-02-03T05:08:02,2025-02-03,2,February,shipped,visa_card,prod_00388,Dettol Antiseptic,4,2216.4,8865.6
+txn_6195db074abe,user_000044,2025-03-21T02:56:51,2025-03-21,3,March,processing,mtn_momo,prod_00402,Printer Paper A4 Ream,2,8738.01,17476.02
+txn_6195db074abe,user_000044,2025-03-21T02:56:51,2025-03-21,3,March,processing,mtn_momo,prod_00165,Rukundo Tea Leaves,3,14064.14,42192.42
+txn_08f9741cb5e2,user_000494,2025-03-23T00:25:20,2025-03-23,3,March,shipped,mtn_momo,prod_00312,Sufuria Cooking Pot 5L,4,16636.67,66546.68
+txn_a3bdf6dd20b2,user_000211,2025-01-21T05:50:10,2025-01-21,1,January,refunded,airtel_money,prod_00305,Cement Bag 50kg Cimerwa,4,13047.8,52191.2
+txn_a3bdf6dd20b2,user_000211,2025-01-21T05:50:10,2025-01-21,1,January,refunded,airtel_money,prod_00050,Plastic Jerry Can 20L,1,2927.26,2927.26
+txn_664b4b64cf96,user_000358,2025-03-27T03:00:26,2025-03-27,3,March,shipped,mtn_momo,prod_00229,Power Bank 10000mAh,1,1035.28,1035.28
+txn_c620d42873cf,user_000383,2025-03-19T07:10:27,2025-03-19,3,March,shipped,visa_card,prod_00286,Pillow Fiber,3,18264.24,54792.72
+txn_c620d42873cf,user_000383,2025-03-19T07:10:27,2025-03-19,3,March,shipped,visa_card,prod_00300,Calculator Casio,4,13422.23,53688.92
+txn_5a953abe2816,user_000259,2025-02-12T07:51:53,2025-02-12,2,February,completed,visa_card,prod_00384,Radio FM Portable,2,9688.21,19376.42
+txn_5a953abe2816,user_000259,2025-02-12T07:51:53,2025-02-12,2,February,completed,visa_card,prod_00356,Earphones Oraimo,2,5439.6,10879.2
+txn_5a953abe2816,user_000259,2025-02-12T07:51:53,2025-02-12,2,February,completed,visa_card,prod_00229,Power Bank 10000mAh,4,1035.28,4141.12
+txn_9851aaa1a3f3,user_000335,2025-01-22T03:58:31,2025-01-22,1,January,shipped,airtel_money,prod_00454,Window Glass Panel,2,13383.01,26766.02
+txn_19e77c0c966b,user_000367,2025-02-24T01:17:12,2025-02-24,2,February,completed,bank_transfer,prod_00032,Dettol Antiseptic,4,2342.87,9371.48
+txn_963cea34ebb3,user_000267,2025-03-16T03:41:54,2025-03-16,3,March,refunded,cash,prod_00355,Exercise Book 96pages,1,9720.1,9720.1
+txn_963cea34ebb3,user_000267,2025-03-16T03:41:54,2025-03-16,3,March,refunded,cash,prod_00417,Amavuta Shea Butter,1,6501.56,6501.56
+txn_bbb5e0eada09,user_000476,2025-01-07T10:54:42,2025-01-07,1,January,processing,airtel_money,prod_00472,Mosquito Net Treated,2,1593.06,3186.12
+txn_0af089c01745,user_000150,2025-03-27T07:39:39,2025-03-27,3,March,refunded,airtel_money,prod_00289,Inyange Juice,4,15061.7,60246.8
+txn_0af089c01745,user_000150,2025-03-27T07:39:39,2025-03-27,3,March,refunded,airtel_money,prod_00281,Smart TV 32inch,4,16561.92,66247.68
+txn_0af089c01745,user_000150,2025-03-27T07:39:39,2025-03-27,3,March,refunded,airtel_money,prod_00068,Maize Flour 2kg,3,5341.27,16023.81
+txn_17fc46817100,user_000152,2025-02-15T18:37:22,2025-02-15,2,February,shipped,mtn_momo,prod_00453,Iron Sheet 3m,3,19689.4,59068.2
+txn_b96360c47e01,user_000342,2025-03-28T17:11:30,2025-03-28,3,March,shipped,airtel_money,prod_00351,Plastic Jerry Can 20L,4,19460.49,77841.96
+txn_b96360c47e01,user_000342,2025-03-28T17:11:30,2025-03-28,3,March,shipped,airtel_money,prod_00063,Urwagwa Traditional Beer,3,12481.35,37444.05
+txn_c01bab5603cd,user_000406,2025-03-22T13:21:17,2025-03-22,3,March,refunded,airtel_money,prod_00306,Inyange Milk,1,9889.57,9889.57
+txn_c01bab5603cd,user_000406,2025-03-22T13:21:17,2025-03-22,3,March,refunded,airtel_money,prod_00487,Sorghum Flour 1kg,2,7049.88,14099.76
+txn_f3e2d844bd0e,user_000109,2025-03-08T09:59:19,2025-03-08,3,March,completed,mtn_momo,prod_00266,Plastic Jerry Can 20L,1,18569.22,18569.22
+txn_5d6397b4c6c8,user_000196,2025-01-29T12:16:54,2025-01-29,1,January,completed,airtel_money,prod_00105,School Uniform Set,4,3232.64,12930.56
+txn_b178f330660f,user_000415,2025-03-04T17:08:20,2025-03-04,3,March,completed,visa_card,prod_00109,Smartphone Android 4G,2,18483.41,36966.82
+txn_b178f330660f,user_000415,2025-03-04T17:08:20,2025-03-04,3,March,completed,visa_card,prod_00284,Sweet Potato Bag,3,17366.54,52099.62
+txn_4693f8270eca,user_000248,2025-03-06T23:15:49,2025-03-06,3,March,shipped,mtn_momo,prod_00334,Earphones Oraimo,4,4007.84,16031.36
+txn_a681185b4258,user_000278,2025-01-01T18:33:40,2025-01-01,1,January,refunded,airtel_money,prod_00137,Ubwiza Face Cream,4,15919.06,63676.24
+txn_a681185b4258,user_000278,2025-01-01T18:33:40,2025-01-01,1,January,refunded,airtel_money,prod_00492,Nivea Roll-On,4,13546.19,54184.76
+txn_092eae43f173,user_000496,2025-01-29T04:20:47,2025-01-29,1,January,completed,airtel_money,prod_00053,PVC Pipe 2inch,1,5853.83,5853.83
+txn_092eae43f173,user_000496,2025-01-29T04:20:47,2025-01-29,1,January,completed,airtel_money,prod_00152,PVC Pipe 2inch,4,2727.03,10908.12
+txn_a41d591a30ca,user_000268,2025-02-05T06:12:34,2025-02-05,2,February,processing,bank_transfer,prod_00403,Impala Club Soda,3,8164.8,24494.4
+txn_a41d591a30ca,user_000268,2025-02-05T06:12:34,2025-02-05,2,February,processing,bank_transfer,prod_00002,PVC Pipe 2inch,1,17765.57,17765.57
+txn_a41d591a30ca,user_000268,2025-02-05T06:12:34,2025-02-05,2,February,processing,bank_transfer,prod_00076,Ibirayi Fries,1,6499.72,6499.72
+txn_547e90fb8125,user_000170,2025-03-24T05:19:02,2025-03-24,3,March,completed,bank_transfer,prod_00237,Printer Paper A4 Ream,3,13261.48,39784.44
+txn_c77b7b883b3d,user_000491,2025-02-18T00:59:34,2025-02-18,2,February,completed,mtn_momo,prod_00188,Solar Lantern LifeLight,4,2560.33,10241.32
+txn_c77b7b883b3d,user_000491,2025-02-18T00:59:34,2025-02-18,2,February,completed,mtn_momo,prod_00499,Cavendish Banana Bundle,2,2202.52,4405.04
+txn_c77b7b883b3d,user_000491,2025-02-18T00:59:34,2025-02-18,2,February,completed,mtn_momo,prod_00189,Sandals Handmade,1,9535.26,9535.26
+txn_6931e7b59a9c,user_000447,2025-02-09T19:42:10,2025-02-09,2,February,completed,cash,prod_00400,Smart TV 32inch,1,12424.35,12424.35
+txn_28ce4e44052c,user_000317,2025-01-18T06:05:33,2025-01-18,1,January,processing,mtn_momo,prod_00303,Toothpaste Colgate,4,11783.31,47133.24
+txn_28ce4e44052c,user_000317,2025-01-18T06:05:33,2025-01-18,1,January,processing,mtn_momo,prod_00047,Window Glass Panel,2,7223.65,14447.3
+txn_28ce4e44052c,user_000317,2025-01-18T06:05:33,2025-01-18,1,January,processing,mtn_momo,prod_00044,Akabanga Chilli Oil,4,1724.74,6898.96
+txn_c1c60cd10604,user_000194,2025-03-08T06:21:13,2025-03-08,3,March,completed,mtn_momo,prod_00490,Rwanda Arabica Coffee,4,18015.91,72063.64
+txn_c2a5fbadc056,user_000363,2025-02-25T16:55:27,2025-02-25,2,February,completed,bank_transfer,prod_00230,Gahunda Work Shirt,3,13205.95,39617.85
+txn_c2a5fbadc056,user_000363,2025-02-25T16:55:27,2025-02-25,2,February,completed,bank_transfer,prod_00341,Fanta Citron,3,3762.7,11288.1
+txn_1768a49181cb,user_000068,2025-02-21T13:07:57,2025-02-21,2,February,completed,bank_transfer,prod_00493,Imishanana Traditional Dress,3,12722.81,38168.43
+txn_1768a49181cb,user_000068,2025-02-21T13:07:57,2025-02-21,2,February,completed,bank_transfer,prod_00196,Calculator Casio,3,13031.72,39095.16
+txn_1768a49181cb,user_000068,2025-02-21T13:07:57,2025-02-21,2,February,completed,bank_transfer,prod_00217,Fanta Citron,1,1689.18,1689.18
+txn_e2e77036c85b,user_000167,2025-02-01T08:33:14,2025-02-01,2,February,completed,bank_transfer,prod_00277,Decoder StarTimes,4,14834.05,59336.2
+txn_e2e77036c85b,user_000167,2025-02-01T08:33:14,2025-02-01,2,February,completed,bank_transfer,prod_00478,Akabanga Chilli Oil,2,3100.73,6201.46
+txn_d5b7e1f89b8d,user_000224,2025-03-14T21:55:07,2025-03-14,3,March,shipped,mtn_momo,prod_00205,School Bag Primary,2,4853.13,9706.26
+txn_a102c8e3afd9,user_000142,2025-01-04T03:03:52,2025-01-04,1,January,processing,cash,prod_00169,Dettol Antiseptic,4,12219.48,48877.92
+txn_a102c8e3afd9,user_000142,2025-01-04T03:03:52,2025-01-04,1,January,processing,cash,prod_00117,Steel Rod 12mm,3,628.94,1886.82
+txn_f90a7da0d6f1,user_000318,2025-01-29T05:55:05,2025-01-29,1,January,refunded,cash,prod_00410,MTN MoMo Agent Kit,1,17149.67,17149.67
+txn_01f1ab61fb22,user_000186,2025-02-28T15:49:41,2025-02-28,2,February,completed,airtel_money,prod_00208,PVC Pipe 2inch,2,5671.64,11343.28
+txn_01f1ab61fb22,user_000186,2025-02-28T15:49:41,2025-02-28,2,February,completed,airtel_money,prod_00369,Sorghum Flour 1kg,3,15109.29,45327.87
+txn_01f1ab61fb22,user_000186,2025-02-28T15:49:41,2025-02-28,2,February,completed,airtel_money,prod_00049,Ibirayi Fries,1,10549.98,10549.98
+txn_ef328682b4fc,user_000284,2025-03-28T16:28:31,2025-03-28,3,March,completed,airtel_money,prod_00292,Feature Phone Tecno,4,4036.48,16145.92
+txn_3478f08c9d95,user_000129,2025-02-21T15:40:27,2025-02-21,2,February,completed,visa_card,prod_00480,Akabanga Chilli Oil,4,12405.49,49621.96
+txn_3478f08c9d95,user_000129,2025-02-21T15:40:27,2025-02-21,2,February,completed,visa_card,prod_00450,Umushanana Set,4,14675.95,58703.8
+txn_3478f08c9d95,user_000129,2025-02-21T15:40:27,2025-02-21,2,February,completed,visa_card,prod_00469,Rukundo Tea Leaves,4,3944.06,15776.24
+txn_f0056a5e9b8e,user_000417,2025-02-10T11:06:05,2025-02-10,2,February,completed,cash,prod_00169,Dettol Antiseptic,1,12219.48,12219.48
+txn_f0056a5e9b8e,user_000417,2025-02-10T11:06:05,2025-02-10,2,February,completed,cash,prod_00257,School Bag Primary,2,2702.28,5404.56
+txn_f0056a5e9b8e,user_000417,2025-02-10T11:06:05,2025-02-10,2,February,completed,cash,prod_00472,Mosquito Net Treated,1,1593.06,1593.06
+txn_2c5bb4ab3463,user_000440,2025-01-22T20:08:48,2025-01-22,1,January,processing,mtn_momo,prod_00335,Mosquito Net Treated,1,17198.02,17198.02
+txn_2c5bb4ab3463,user_000440,2025-01-22T20:08:48,2025-01-22,1,January,processing,mtn_momo,prod_00400,Smart TV 32inch,2,12424.35,24848.7
+txn_00e5a52ae0c4,user_000007,2025-02-17T05:07:10,2025-02-17,2,February,completed,bank_transfer,prod_00049,Ibirayi Fries,2,10549.98,21099.96
+txn_00e5a52ae0c4,user_000007,2025-02-17T05:07:10,2025-02-17,2,February,completed,bank_transfer,prod_00023,Stapler Heavy Duty,2,3851.53,7703.06
+txn_00e5a52ae0c4,user_000007,2025-02-17T05:07:10,2025-02-17,2,February,completed,bank_transfer,prod_00314,Leather Shoes Kigali,1,17596.94,17596.94
+txn_42e1d74cd221,user_000467,2025-03-07T22:37:57,2025-03-07,3,March,completed,visa_card,prod_00247,Cement Bag 50kg Cimerwa,3,1447.45,4342.35
+txn_42e1d74cd221,user_000467,2025-03-07T22:37:57,2025-03-07,3,March,completed,visa_card,prod_00150,Power Bank 10000mAh,3,8478.12,25434.36
+txn_f2e0b08786d9,user_000159,2025-02-04T09:48:17,2025-02-04,2,February,refunded,bank_transfer,prod_00466,Inzoga ya Primus,3,5695.51,17086.53
+txn_f2e0b08786d9,user_000159,2025-02-04T09:48:17,2025-02-04,2,February,refunded,bank_transfer,prod_00367,WiFi Router ZTE,4,16561.04,66244.16
+txn_f2e0b08786d9,user_000159,2025-02-04T09:48:17,2025-02-04,2,February,refunded,bank_transfer,prod_00475,Power Bank 10000mAh,2,3828.44,7656.88
+txn_559280769f52,user_000297,2025-02-27T02:32:13,2025-02-27,2,February,shipped,visa_card,prod_00022,Nivea Roll-On,2,9465.21,18930.42
+txn_559280769f52,user_000297,2025-02-27T02:32:13,2025-02-27,2,February,shipped,visa_card,prod_00392,Bed Sheet Cotton,3,18239.84,54719.52
+txn_15a12d051b3c,user_000077,2025-01-14T12:20:19,2025-01-14,1,January,shipped,bank_transfer,prod_00358,Umutsima Porridge,3,7742.27,23226.81
+txn_15a12d051b3c,user_000077,2025-01-14T12:20:19,2025-01-14,1,January,shipped,bank_transfer,prod_00045,Inzoga ya Primus,3,5191.0,15573.0
+txn_15a12d051b3c,user_000077,2025-01-14T12:20:19,2025-01-14,1,January,shipped,bank_transfer,prod_00387,Inkorora Storage Basket,2,6203.66,12407.32
+txn_3900b10e0656,user_000104,2025-02-25T18:23:57,2025-02-25,2,February,completed,visa_card,prod_00057,School Uniform Set,4,19946.62,79786.48
+txn_3900b10e0656,user_000104,2025-02-25T18:23:57,2025-02-25,2,February,completed,visa_card,prod_00310,Charcoal Stove Jiko,1,12016.62,12016.62
+txn_936ad2b4b714,user_000454,2025-03-06T20:59:56,2025-03-06,3,March,processing,cash,prod_00355,Exercise Book 96pages,2,9720.1,19440.2
+txn_936ad2b4b714,user_000454,2025-03-06T20:59:56,2025-03-06,3,March,processing,cash,prod_00139,Sweet Potato Bag,2,11820.11,23640.22
+txn_d0c34babdfb2,user_000157,2025-01-27T00:46:26,2025-01-27,1,January,shipped,cash,prod_00371,Ikivuguto Yoghurt,3,12364.06,37092.18
+txn_d0c34babdfb2,user_000157,2025-01-27T00:46:26,2025-01-27,1,January,shipped,cash,prod_00418,Ikivuguto Yoghurt,4,12511.87,50047.48
+txn_d0c34babdfb2,user_000157,2025-01-27T00:46:26,2025-01-27,1,January,shipped,cash,prod_00306,Inyange Milk,3,9889.57,29668.71
+txn_089fccaff010,user_000470,2025-01-29T05:48:07,2025-01-29,1,January,completed,cash,prod_00241,Impala Club Soda,4,5833.79,23335.16
+txn_f3a2f2770961,user_000026,2025-02-28T01:56:29,2025-02-28,2,February,shipped,airtel_money,prod_00475,Power Bank 10000mAh,1,3828.44,3828.44
+txn_759ae31b0d9f,user_000262,2025-03-13T14:39:15,2025-03-13,3,March,refunded,bank_transfer,prod_00477,Smart TV 32inch,1,3882.23,3882.23
+txn_58643a319410,user_000436,2025-01-26T05:59:52,2025-01-26,1,January,completed,visa_card,prod_00201,Phone Charger USB-C,1,18993.19,18993.19
+txn_2c71db6f56d7,user_000498,2025-01-27T09:43:02,2025-01-27,1,January,shipped,visa_card,prod_00180,Charcoal Stove Jiko,3,5341.13,16023.39
+txn_7dc87fc4e4a1,user_000133,2025-01-15T11:53:53,2025-01-15,1,January,shipped,cash,prod_00007,Cement Bag 50kg Cimerwa,2,15904.7,31809.4
+txn_9d62e51ee2b3,user_000018,2025-01-10T02:57:18,2025-01-10,1,January,processing,cash,prod_00412,Iron Sheet 3m,1,18001.83,18001.83
+txn_903fc9421038,user_000375,2025-02-28T16:51:16,2025-02-28,2,February,processing,bank_transfer,prod_00106,Coconut Hair Oil Rwanda,2,4810.33,9620.66
+txn_903fc9421038,user_000375,2025-02-28T16:51:16,2025-02-28,2,February,processing,bank_transfer,prod_00351,Plastic Jerry Can 20L,1,19460.49,19460.49
+txn_15faeef620fe,user_000054,2025-01-31T21:14:34,2025-01-31,1,January,completed,mtn_momo,prod_00385,Mattress Foam Single,2,12649.32,25298.64
+txn_e8c09dba483d,user_000005,2025-01-04T05:00:21,2025-01-04,1,January,refunded,bank_transfer,prod_00427,Cavendish Banana Bundle,2,4410.83,8821.66
+txn_e8c09dba483d,user_000005,2025-01-04T05:00:21,2025-01-04,1,January,refunded,bank_transfer,prod_00211,Sorghum Flour 1kg,1,12083.6,12083.6
+txn_ee4f044a0dc6,user_000147,2025-02-14T11:51:23,2025-02-14,2,February,completed,cash,prod_00170,Mattress Foam Single,1,15784.13,15784.13
+txn_ee4f044a0dc6,user_000147,2025-02-14T11:51:23,2025-02-14,2,February,completed,cash,prod_00342,Fanta Citron,3,8242.39,24727.17
+txn_ee4f044a0dc6,user_000147,2025-02-14T11:51:23,2025-02-14,2,February,completed,cash,prod_00108,Solar Lantern LifeLight,4,16212.64,64850.56
+txn_688fa28d159d,user_000061,2025-03-01T23:44:07,2025-03-01,3,March,processing,cash,prod_00175,Coconut Hair Oil Rwanda,3,2761.74,8285.22
+txn_48a1090dca0e,user_000463,2025-02-15T00:12:19,2025-02-15,2,February,shipped,cash,prod_00095,Electric Wire 2.5mm,4,8608.99,34435.96
+txn_2ce84147bf79,user_000387,2025-02-11T01:31:12,2025-02-11,2,February,completed,cash,prod_00047,Window Glass Panel,3,7223.65,21670.95
+txn_2ce84147bf79,user_000387,2025-02-11T01:31:12,2025-02-11,2,February,completed,cash,prod_00322,Nivea Roll-On,1,18423.96,18423.96
+txn_2ce84147bf79,user_000387,2025-02-11T01:31:12,2025-02-11,2,February,completed,cash,prod_00218,Smartphone Android 4G,1,10290.98,10290.98
+txn_dc0bf34e9092,user_000249,2025-02-05T04:24:01,2025-02-05,2,February,completed,cash,prod_00079,Pillow Fiber,2,10614.32,21228.64
+txn_621b8f6216fe,user_000481,2025-03-07T09:12:45,2025-03-07,3,March,shipped,bank_transfer,prod_00409,Coconut Hair Oil Rwanda,3,12758.39,38275.17
+txn_621b8f6216fe,user_000481,2025-03-07T09:12:45,2025-03-07,3,March,shipped,bank_transfer,prod_00082,Agaseke Woven Basket,3,11682.8,35048.4
+txn_621b8f6216fe,user_000481,2025-03-07T09:12:45,2025-03-07,3,March,shipped,bank_transfer,prod_00497,Charcoal Stove Jiko,2,7377.88,14755.76
+txn_06a3f9c58564,user_000028,2025-01-24T11:32:39,2025-01-24,1,January,shipped,mtn_momo,prod_00204,Biro Pen Box,1,7062.94,7062.94
+txn_c999453106c6,user_000096,2025-02-24T04:08:39,2025-02-24,2,February,shipped,bank_transfer,prod_00146,School Uniform Set,2,12140.93,24281.86
+txn_c999453106c6,user_000096,2025-02-24T04:08:39,2025-02-24,2,February,shipped,bank_transfer,prod_00453,Iron Sheet 3m,4,19689.4,78757.6
+txn_4b2afa623fd1,user_000217,2025-03-28T00:08:17,2025-03-28,3,March,shipped,visa_card,prod_00444,Door Lock Yale,1,19512.01,19512.01
+txn_9c55a991244d,user_000012,2025-03-03T19:03:18,2025-03-03,3,March,processing,mtn_momo,prod_00043,Cement Bag 50kg Cimerwa,4,5490.52,21962.08
+txn_32dacc3b2cdb,user_000390,2025-03-27T03:16:49,2025-03-27,3,March,completed,cash,prod_00186,Leather Shoes Kigali,4,1959.19,7836.76
+txn_f18d1ac8c381,user_000058,2025-03-15T01:09:29,2025-03-15,3,March,refunded,visa_card,prod_00132,MTN MoMo Agent Kit,4,7027.36,28109.44
+txn_f18d1ac8c381,user_000058,2025-03-15T01:09:29,2025-03-15,3,March,refunded,visa_card,prod_00033,Paint Bucket 20L,3,14322.26,42966.78
+txn_96e555c3e83c,user_000109,2025-02-17T08:56:10,2025-02-17,2,February,completed,cash,prod_00062,Kitenge Fabric 2m,4,3658.36,14633.44
+txn_4ad9c2fe6994,user_000159,2025-03-01T09:17:49,2025-03-01,3,March,processing,airtel_money,prod_00254,Door Lock Yale,1,7471.78,7471.78
+txn_4ad9c2fe6994,user_000159,2025-03-01T09:17:49,2025-03-01,3,March,processing,airtel_money,prod_00072,Savon Ivoirien Soap,3,10332.98,30998.94
+txn_2bf52f7e3959,user_000451,2025-03-12T13:47:04,2025-03-12,3,March,processing,bank_transfer,prod_00426,Gahunda Work Shirt,2,2758.8,5517.6
+txn_2bf52f7e3959,user_000451,2025-03-12T13:47:04,2025-03-12,3,March,processing,bank_transfer,prod_00041,Leather Shoes Kigali,4,1538.51,6154.04
+txn_02dba048c9f8,user_000154,2025-03-12T17:06:28,2025-03-12,3,March,completed,visa_card,prod_00356,Earphones Oraimo,2,5439.6,10879.2
+txn_02dba048c9f8,user_000154,2025-03-12T17:06:28,2025-03-12,3,March,completed,visa_card,prod_00340,Mosquito Net Treated,3,13233.76,39701.28
+txn_02dba048c9f8,user_000154,2025-03-12T17:06:28,2025-03-12,3,March,completed,visa_card,prod_00250,Solar Lantern LifeLight,2,10205.91,20411.82
+txn_1699b12c991e,user_000457,2025-01-12T21:36:33,2025-01-12,1,January,processing,airtel_money,prod_00236,Biro Pen Box,4,6353.8,25415.2
+txn_517d2415ba06,user_000047,2025-02-03T21:37:51,2025-02-03,2,February,refunded,airtel_money,prod_00043,Cement Bag 50kg Cimerwa,2,5490.52,10981.04
+txn_517d2415ba06,user_000047,2025-02-03T21:37:51,2025-02-03,2,February,refunded,airtel_money,prod_00374,Mutzig Beer,3,17847.69,53543.07
+txn_517d2415ba06,user_000047,2025-02-03T21:37:51,2025-02-03,2,February,refunded,airtel_money,prod_00055,Vaseline Petroleum Jelly,1,11691.47,11691.47
+txn_2aaa23a86f44,user_000496,2025-03-21T11:00:25,2025-03-21,3,March,shipped,cash,prod_00088,Akagera Print T-Shirt,1,15865.23,15865.23
+txn_cfeb9f6e6fc5,user_000138,2025-03-24T05:14:10,2025-03-24,3,March,completed,bank_transfer,prod_00087,MTN MoMo Agent Kit,1,5028.29,5028.29
+txn_cfeb9f6e6fc5,user_000138,2025-03-24T05:14:10,2025-03-24,3,March,completed,bank_transfer,prod_00027,School Uniform Set,3,6802.56,20407.68
+txn_27375b5f58a6,user_000478,2025-03-28T22:05:41,2025-03-28,3,March,completed,visa_card,prod_00409,Coconut Hair Oil Rwanda,1,12758.39,12758.39
+txn_dd6dcd53d433,user_000495,2025-03-04T16:44:56,2025-03-04,3,March,shipped,airtel_money,prod_00447,Impala Club Soda,1,3270.71,3270.71
+txn_fdc40786ea96,user_000141,2025-03-17T06:31:47,2025-03-17,3,March,processing,visa_card,prod_00313,Fanta Citron,3,11986.44,35959.32
+txn_e108089a6a7d,user_000351,2025-01-15T16:38:22,2025-01-15,1,January,processing,bank_transfer,prod_00099,Iron Sheet 3m,4,14157.51,56630.04
+txn_c02787fce76e,user_000497,2025-03-27T15:17:53,2025-03-27,3,March,shipped,visa_card,prod_00451,Decoder StarTimes,3,6092.91,18278.73
+txn_c02787fce76e,user_000497,2025-03-27T15:17:53,2025-03-27,3,March,shipped,visa_card,prod_00268,Kitenge Fabric 2m,2,13321.68,26643.36
+txn_c02787fce76e,user_000497,2025-03-27T15:17:53,2025-03-27,3,March,shipped,visa_card,prod_00391,Sweet Potato Bag,3,19231.81,57695.43
+txn_c15514ed5b38,user_000364,2025-03-09T13:29:52,2025-03-09,3,March,refunded,cash,prod_00012,Nziza Body Lotion,4,6594.21,26376.84
+txn_c15514ed5b38,user_000364,2025-03-09T13:29:52,2025-03-09,3,March,refunded,cash,prod_00411,School Uniform Set,2,12416.25,24832.5
+txn_fa5859568945,user_000485,2025-03-20T05:06:43,2025-03-20,3,March,refunded,visa_card,prod_00278,School Uniform Set,1,9593.46,9593.46
+txn_b66f167ff578,user_000272,2025-01-21T00:24:11,2025-01-21,1,January,completed,mtn_momo,prod_00398,Inzoga ya Primus,3,4912.32,14736.96
+txn_b66f167ff578,user_000272,2025-01-21T00:24:11,2025-01-21,1,January,completed,mtn_momo,prod_00427,Cavendish Banana Bundle,1,4410.83,4410.83
+txn_b1b8f654d26a,user_000166,2025-02-04T16:57:49,2025-02-04,2,February,refunded,airtel_money,prod_00468,Door Lock Yale,2,8311.99,16623.98
+txn_1814b9f27591,user_000062,2025-02-19T20:23:14,2025-02-19,2,February,refunded,mtn_momo,prod_00357,Roofing Nails 4inch,2,793.82,1587.64
+txn_1814b9f27591,user_000062,2025-02-19T20:23:14,2025-02-19,2,February,refunded,mtn_momo,prod_00220,Stapler Heavy Duty,1,6859.47,6859.47
+txn_a2b6e1d79087,user_000046,2025-01-14T05:58:44,2025-01-14,1,January,shipped,cash,prod_00473,Inyange Milk,3,3404.6,10213.8
+txn_a2b6e1d79087,user_000046,2025-01-14T05:58:44,2025-01-14,1,January,shipped,cash,prod_00191,Power Bank 10000mAh,2,2347.14,4694.28
+txn_a520423ae9fc,user_000289,2025-02-07T17:26:55,2025-02-07,2,February,completed,airtel_money,prod_00089,Smartphone Android 4G,2,19787.44,39574.88
+txn_a520423ae9fc,user_000289,2025-02-07T17:26:55,2025-02-07,2,February,completed,airtel_money,prod_00251,Plastic Jerry Can 20L,4,5072.85,20291.4
+txn_7dbe67ae49b4,user_000474,2025-03-12T07:09:15,2025-03-12,3,March,refunded,cash,prod_00177,Calculator Casio,1,16238.6,16238.6
+txn_a5cea88aa1ea,user_000385,2025-02-06T18:23:03,2025-02-06,2,February,completed,bank_transfer,prod_00172,Agaseke Woven Basket,2,1816.89,3633.78
+txn_e65240e444b3,user_000237,2025-03-17T09:34:53,2025-03-17,3,March,completed,mtn_momo,prod_00114,Inkorora Storage Basket,1,6256.25,6256.25
+txn_e65240e444b3,user_000237,2025-03-17T09:34:53,2025-03-17,3,March,completed,mtn_momo,prod_00402,Printer Paper A4 Ream,4,8738.01,34952.04
+txn_e65240e444b3,user_000237,2025-03-17T09:34:53,2025-03-17,3,March,completed,mtn_momo,prod_00386,Savon Ivoirien Soap,4,3821.23,15284.92
+txn_6d32562bb939,user_000105,2025-02-25T15:24:58,2025-02-25,2,February,processing,airtel_money,prod_00131,Toothpaste Colgate,1,12525.04,12525.04
+txn_5cf1fdd5e76b,user_000440,2025-02-09T22:34:27,2025-02-09,2,February,refunded,bank_transfer,prod_00122,Dettol Antiseptic,1,13333.13,13333.13
+txn_8e8b8292eb3e,user_000499,2025-01-11T06:17:16,2025-01-11,1,January,completed,cash,prod_00236,Biro Pen Box,2,6353.8,12707.6
+txn_8e8b8292eb3e,user_000499,2025-01-11T06:17:16,2025-01-11,1,January,completed,cash,prod_00229,Power Bank 10000mAh,3,1035.28,3105.84
+txn_8e8b8292eb3e,user_000499,2025-01-11T06:17:16,2025-01-11,1,January,completed,cash,prod_00443,Irish Potato 5kg,4,6125.18,24500.72
+txn_96359e3a8a23,user_000065,2025-03-30T06:52:57,2025-03-30,3,March,refunded,mtn_momo,prod_00080,Power Bank 10000mAh,2,7408.6,14817.2
+txn_96359e3a8a23,user_000065,2025-03-30T06:52:57,2025-03-30,3,March,refunded,mtn_momo,prod_00391,Sweet Potato Bag,1,19231.81,19231.81
+txn_96359e3a8a23,user_000065,2025-03-30T06:52:57,2025-03-30,3,March,refunded,mtn_momo,prod_00453,Iron Sheet 3m,4,19689.4,78757.6
+txn_cb909d75e4b1,user_000338,2025-02-11T12:46:29,2025-02-11,2,February,shipped,mtn_momo,prod_00153,Ikivuguto Yoghurt,1,19800.63,19800.63
+txn_cb909d75e4b1,user_000338,2025-02-11T12:46:29,2025-02-11,2,February,shipped,mtn_momo,prod_00459,WiFi Router ZTE,1,10742.65,10742.65
+txn_cb909d75e4b1,user_000338,2025-02-11T12:46:29,2025-02-11,2,February,shipped,mtn_momo,prod_00220,Stapler Heavy Duty,1,6859.47,6859.47
+txn_19f29d900569,user_000406,2025-02-20T15:05:14,2025-02-20,2,February,shipped,bank_transfer,prod_00446,Printer Paper A4 Ream,4,14386.53,57546.12
+txn_19f29d900569,user_000406,2025-02-20T15:05:14,2025-02-20,2,February,shipped,bank_transfer,prod_00070,Rukundo Tea Leaves,2,11875.21,23750.42
+txn_80c5e0527185,user_000394,2025-01-03T19:45:01,2025-01-03,1,January,refunded,visa_card,prod_00496,Solar Lantern LifeLight,2,19634.41,39268.82
+txn_97bc19278b15,user_000106,2025-03-26T01:22:36,2025-03-26,3,March,completed,bank_transfer,prod_00262,Amavuta Shea Butter,4,503.31,2013.24
+txn_97bc19278b15,user_000106,2025-03-26T01:22:36,2025-03-26,3,March,completed,bank_transfer,prod_00136,Cement Bag 50kg Cimerwa,3,15887.0,47661.0
+txn_4f9bc7639310,user_000216,2025-02-06T07:39:01,2025-02-06,2,February,processing,mtn_momo,prod_00477,Smart TV 32inch,2,3882.23,7764.46
+txn_fe67a1729729,user_000252,2025-02-05T05:54:27,2025-02-05,2,February,completed,visa_card,prod_00361,Exercise Book 96pages,4,11550.68,46202.72
+txn_fe67a1729729,user_000252,2025-02-05T05:54:27,2025-02-05,2,February,completed,visa_card,prod_00100,Bed Sheet Cotton,1,15433.64,15433.64
+txn_fe67a1729729,user_000252,2025-02-05T05:54:27,2025-02-05,2,February,completed,visa_card,prod_00107,Power Bank 10000mAh,4,6715.32,26861.28
+txn_b531863e7f46,user_000105,2025-01-24T14:45:42,2025-01-24,1,January,refunded,mtn_momo,prod_00015,Imishanana Traditional Dress,3,16984.78,50954.34
+txn_b531863e7f46,user_000105,2025-01-24T14:45:42,2025-01-24,1,January,refunded,mtn_momo,prod_00085,Akabanga Chilli Oil,2,1523.58,3047.16
+txn_5eefc814362e,user_000311,2025-03-19T19:06:22,2025-03-19,3,March,refunded,mtn_momo,prod_00372,Kitenge Fabric 2m,3,817.9,2453.7
+txn_1548c1b25288,user_000294,2025-03-09T10:48:36,2025-03-09,3,March,shipped,airtel_money,prod_00370,Iron Sheet 3m,4,8330.36,33321.44
+txn_1548c1b25288,user_000294,2025-03-09T10:48:36,2025-03-09,3,March,shipped,airtel_money,prod_00129,School Uniform Set,1,6191.02,6191.02
+txn_ea6d036bd9e0,user_000394,2025-03-20T22:32:58,2025-03-20,3,March,refunded,visa_card,prod_00232,Rukundo Tea Leaves,3,11897.5,35692.5
+txn_ea6d036bd9e0,user_000394,2025-03-20T22:32:58,2025-03-20,3,March,refunded,visa_card,prod_00446,Printer Paper A4 Ream,1,14386.53,14386.53
+txn_877a403e4677,user_000273,2025-02-14T15:37:03,2025-02-14,2,February,completed,mtn_momo,prod_00127,Solar Home System 50W,3,7533.65,22600.95
+txn_877a403e4677,user_000273,2025-02-14T15:37:03,2025-02-14,2,February,completed,mtn_momo,prod_00060,Passion Fruit Tray,1,15498.71,15498.71
+txn_877a403e4677,user_000273,2025-02-14T15:37:03,2025-02-14,2,February,completed,mtn_momo,prod_00341,Fanta Citron,4,3762.7,15050.8
+txn_fc45326bd795,user_000174,2025-03-06T11:29:31,2025-03-06,3,March,shipped,airtel_money,prod_00049,Ibirayi Fries,4,10549.98,42199.92
+txn_3bfb2a8e9c73,user_000331,2025-02-10T21:56:57,2025-02-10,2,February,shipped,mtn_momo,prod_00227,Urwagwa Traditional Beer,2,5365.06,10730.12
+txn_56f80c159462,user_000215,2025-03-16T08:52:23,2025-03-16,3,March,refunded,visa_card,prod_00305,Cement Bag 50kg Cimerwa,2,13047.8,26095.6
+txn_26642f6f66bd,user_000062,2025-03-12T07:09:53,2025-03-12,3,March,processing,visa_card,prod_00430,Pillow Fiber,3,3990.17,11970.51
+txn_2a5b81043300,user_000499,2025-01-11T23:25:50,2025-01-11,1,January,completed,bank_transfer,prod_00471,Inyange Milk,1,8080.97,8080.97
+txn_179ce2077e1b,user_000027,2025-01-21T12:51:23,2025-01-21,1,January,processing,cash,prod_00325,Phone Charger USB-C,4,17309.45,69237.8
+txn_789e3d520dc9,user_000473,2025-01-17T18:23:36,2025-01-17,1,January,completed,cash,prod_00135,Decoder StarTimes,4,16710.0,66840.0
+txn_1b65a80b533f,user_000380,2025-02-09T02:02:11,2025-02-09,2,February,processing,cash,prod_00152,PVC Pipe 2inch,3,2727.03,8181.09
+txn_fcbcfcc2f160,user_000347,2025-03-11T11:42:33,2025-03-11,3,March,processing,mtn_momo,prod_00453,Iron Sheet 3m,2,19689.4,39378.8
+txn_fcbcfcc2f160,user_000347,2025-03-11T11:42:33,2025-03-11,3,March,processing,mtn_momo,prod_00354,Rwanda Arabica Coffee,1,19504.67,19504.67
+txn_e61650dda6fe,user_000167,2025-03-26T02:53:04,2025-03-26,3,March,completed,mtn_momo,prod_00000,Isombe Cassava Leaves,2,18347.49,36694.98
+txn_d107f2b63978,user_000468,2025-03-27T21:26:07,2025-03-27,3,March,shipped,visa_card,prod_00302,Mosquito Net Treated,2,10598.76,21197.52
+txn_d00cdacb032f,user_000194,2025-01-14T10:06:25,2025-01-14,1,January,refunded,airtel_money,prod_00037,Roofing Nails 4inch,1,12406.61,12406.61
+txn_e1645d98b90c,user_000390,2025-01-11T09:44:12,2025-01-11,1,January,completed,mtn_momo,prod_00078,Roofing Nails 4inch,1,9100.25,9100.25
+txn_f2d6a7c058a4,user_000309,2025-02-15T11:44:00,2025-02-15,2,February,processing,mtn_momo,prod_00499,Cavendish Banana Bundle,4,2202.52,8810.08
+txn_f2d6a7c058a4,user_000309,2025-02-15T11:44:00,2025-02-15,2,February,processing,mtn_momo,prod_00314,Leather Shoes Kigali,2,17596.94,35193.88
+txn_f2d6a7c058a4,user_000309,2025-02-15T11:44:00,2025-02-15,2,February,processing,mtn_momo,prod_00207,Akagera Print T-Shirt,4,19656.4,78625.6
+txn_b6610c28882d,user_000027,2025-03-06T15:06:59,2025-03-06,3,March,shipped,cash,prod_00274,Agaseke Woven Basket,2,16373.51,32747.02
+txn_b6610c28882d,user_000027,2025-03-06T15:06:59,2025-03-06,3,March,shipped,cash,prod_00198,Earphones Oraimo,4,10823.93,43295.72
+txn_b6610c28882d,user_000027,2025-03-06T15:06:59,2025-03-06,3,March,shipped,cash,prod_00477,Smart TV 32inch,3,3882.23,11646.69
+txn_b64f10ca32c0,user_000479,2025-03-13T12:23:24,2025-03-13,3,March,refunded,cash,prod_00291,Decoder StarTimes,3,18159.75,54479.25
+txn_b64f10ca32c0,user_000479,2025-03-13T12:23:24,2025-03-13,3,March,refunded,cash,prod_00237,Printer Paper A4 Ream,3,13261.48,39784.44
+txn_e2ca7f6afbbe,user_000274,2025-01-28T19:47:30,2025-01-28,1,January,processing,cash,prod_00202,Irish Potato 5kg,4,888.6,3554.4
+txn_32fff8f44b79,user_000064,2025-03-05T15:27:51,2025-03-05,3,March,refunded,mtn_momo,prod_00409,Coconut Hair Oil Rwanda,4,12758.39,51033.56
+txn_32fff8f44b79,user_000064,2025-03-05T15:27:51,2025-03-05,3,March,refunded,mtn_momo,prod_00498,Inzoga ya Primus,4,9668.2,38672.8
+txn_32fff8f44b79,user_000064,2025-03-05T15:27:51,2025-03-05,3,March,refunded,mtn_momo,prod_00351,Plastic Jerry Can 20L,4,19460.49,77841.96
+txn_7d93a18cb7ae,user_000193,2025-01-17T07:28:31,2025-01-17,1,January,shipped,cash,prod_00221,Agaseke Woven Basket,2,2694.12,5388.24
+txn_7d93a18cb7ae,user_000193,2025-01-17T07:28:31,2025-01-17,1,January,shipped,cash,prod_00079,Pillow Fiber,2,10614.32,21228.64
+txn_050bc204b36b,user_000452,2025-03-02T19:50:57,2025-03-02,3,March,refunded,mtn_momo,prod_00038,Feature Phone Tecno,3,13726.98,41180.94
+txn_050bc204b36b,user_000452,2025-03-02T19:50:57,2025-03-02,3,March,refunded,mtn_momo,prod_00083,Imishanana Traditional Dress,1,18518.19,18518.19
+txn_050bc204b36b,user_000452,2025-03-02T19:50:57,2025-03-02,3,March,refunded,mtn_momo,prod_00432,Cavendish Banana Bundle,4,5532.03,22128.12
+txn_821bf6f829bd,user_000122,2025-02-14T11:23:40,2025-02-14,2,February,shipped,cash,prod_00487,Sorghum Flour 1kg,2,7049.88,14099.76
+txn_821bf6f829bd,user_000122,2025-02-14T11:23:40,2025-02-14,2,February,shipped,cash,prod_00219,Biro Pen Box,1,8755.81,8755.81
+txn_08c04aebf090,user_000478,2025-03-08T13:46:04,2025-03-08,3,March,refunded,visa_card,prod_00293,Inzoga ya Primus,1,19055.03,19055.03
+txn_08c04aebf090,user_000478,2025-03-08T13:46:04,2025-03-08,3,March,refunded,visa_card,prod_00485,Steel Rod 12mm,4,2412.25,9649.0
+txn_08c04aebf090,user_000478,2025-03-08T13:46:04,2025-03-08,3,March,refunded,visa_card,prod_00198,Earphones Oraimo,1,10823.93,10823.93
+txn_f21d14e73e8d,user_000048,2025-01-08T06:51:46,2025-01-08,1,January,processing,visa_card,prod_00000,Isombe Cassava Leaves,4,18347.49,73389.96
+txn_6b5e9ae415b7,user_000105,2025-02-05T10:47:17,2025-02-05,2,February,shipped,airtel_money,prod_00426,Gahunda Work Shirt,3,2758.8,8276.4
+txn_6b5e9ae415b7,user_000105,2025-02-05T10:47:17,2025-02-05,2,February,shipped,airtel_money,prod_00323,Cavendish Banana Bundle,2,5591.6,11183.2
+txn_bac077cfe09e,user_000381,2025-01-31T02:20:45,2025-01-31,1,January,completed,mtn_momo,prod_00389,Umutsima Porridge,1,7262.21,7262.21
+txn_bac077cfe09e,user_000381,2025-01-31T02:20:45,2025-01-31,1,January,completed,mtn_momo,prod_00161,Door Lock Yale,1,15871.92,15871.92
+txn_6da79d68ae97,user_000212,2025-01-10T01:31:10,2025-01-10,1,January,completed,visa_card,prod_00153,Ikivuguto Yoghurt,2,19800.63,39601.26
+txn_462a00992750,user_000276,2025-02-28T18:49:01,2025-02-28,2,February,shipped,visa_card,prod_00105,School Uniform Set,3,3232.64,9697.92
+txn_0019ad3d44be,user_000139,2025-02-25T07:21:09,2025-02-25,2,February,completed,cash,prod_00131,Toothpaste Colgate,2,12525.04,25050.08
+txn_0019ad3d44be,user_000139,2025-02-25T07:21:09,2025-02-25,2,February,completed,cash,prod_00440,Exercise Book 96pages,1,11863.18,11863.18
+txn_0019ad3d44be,user_000139,2025-02-25T07:21:09,2025-02-25,2,February,completed,cash,prod_00148,Inkorora Storage Basket,2,3188.41,6376.82
+txn_53469d489101,user_000263,2025-03-20T06:24:09,2025-03-20,3,March,shipped,mtn_momo,prod_00392,Bed Sheet Cotton,3,18239.84,54719.52
+txn_53469d489101,user_000263,2025-03-20T06:24:09,2025-03-20,3,March,shipped,mtn_momo,prod_00331,Mosquito Net Treated,2,1134.97,2269.94
+txn_3da239198343,user_000436,2025-01-18T21:49:01,2025-01-18,1,January,refunded,cash,prod_00199,Vaseline Petroleum Jelly,3,16417.56,49252.68
+txn_120ee4c7e8ae,user_000020,2025-03-07T05:05:41,2025-03-07,3,March,refunded,cash,prod_00014,Power Bank 10000mAh,3,12208.0,36624.0
+txn_0936dde5d9ac,user_000318,2025-01-06T18:28:11,2025-01-06,1,January,completed,visa_card,prod_00123,Pineapple Crate Nyungwe,2,3667.78,7335.56
+txn_4525fcfaba3b,user_000072,2025-01-04T02:58:40,2025-01-04,1,January,shipped,visa_card,prod_00046,Inyange Milk,1,10392.89,10392.89
+txn_4525fcfaba3b,user_000072,2025-01-04T02:58:40,2025-01-04,1,January,shipped,visa_card,prod_00356,Earphones Oraimo,3,5439.6,16318.8
+txn_4525fcfaba3b,user_000072,2025-01-04T02:58:40,2025-01-04,1,January,shipped,visa_card,prod_00044,Akabanga Chilli Oil,2,1724.74,3449.48
+txn_7575d05c3f17,user_000252,2025-03-14T17:36:13,2025-03-14,3,March,completed,cash,prod_00066,Passion Fruit Tray,2,7133.76,14267.52
+txn_57034afe6933,user_000189,2025-01-18T08:08:40,2025-01-18,1,January,completed,cash,prod_00187,Printer Paper A4 Ream,1,6702.13,6702.13
+txn_a2caa6b1944b,user_000257,2025-02-10T13:26:05,2025-02-10,2,February,refunded,mtn_momo,prod_00040,Coconut Hair Oil Rwanda,4,5819.43,23277.72
+txn_a2caa6b1944b,user_000257,2025-02-10T13:26:05,2025-02-10,2,February,refunded,mtn_momo,prod_00242,Nziza Body Lotion,4,8957.37,35829.48
+txn_80a0d664314f,user_000401,2025-03-16T01:46:12,2025-03-16,3,March,shipped,bank_transfer,prod_00192,Inzoga ya Primus,4,16561.63,66246.52
+txn_80a0d664314f,user_000401,2025-03-16T01:46:12,2025-03-16,3,March,shipped,bank_transfer,prod_00247,Cement Bag 50kg Cimerwa,4,1447.45,5789.8
+txn_80a0d664314f,user_000401,2025-03-16T01:46:12,2025-03-16,3,March,shipped,bank_transfer,prod_00337,Pillow Fiber,1,15019.57,15019.57
+txn_74f3307af6c5,user_000177,2025-03-15T08:03:49,2025-03-15,3,March,shipped,cash,prod_00061,Sweet Potato Bag,4,4048.28,16193.12
+txn_74f3307af6c5,user_000177,2025-03-15T08:03:49,2025-03-15,3,March,shipped,cash,prod_00322,Nivea Roll-On,3,18423.96,55271.88
+txn_74f3307af6c5,user_000177,2025-03-15T08:03:49,2025-03-15,3,March,shipped,cash,prod_00281,Smart TV 32inch,2,16561.92,33123.84
+txn_f93a75322e01,user_000231,2025-02-12T08:58:55,2025-02-12,2,February,processing,cash,prod_00072,Savon Ivoirien Soap,2,10332.98,20665.96
+txn_f93a75322e01,user_000231,2025-02-12T08:58:55,2025-02-12,2,February,processing,cash,prod_00113,Printer Paper A4 Ream,4,1391.45,5565.8
+txn_f93a75322e01,user_000231,2025-02-12T08:58:55,2025-02-12,2,February,processing,cash,prod_00430,Pillow Fiber,2,3990.17,7980.34
+txn_b00357086ad9,user_000181,2025-03-23T15:25:01,2025-03-23,3,March,shipped,visa_card,prod_00390,Impala Club Soda,3,17862.84,53588.52
+txn_28fbf448c1f0,user_000048,2025-02-07T05:53:44,2025-02-07,2,February,shipped,bank_transfer,prod_00337,Pillow Fiber,2,15019.57,30039.14
+txn_2f50f0668216,user_000410,2025-02-26T02:36:50,2025-02-26,2,February,processing,visa_card,prod_00011,Rwanda Arabica Coffee,4,8888.89,35555.56
+txn_794e2e8c69a7,user_000496,2025-02-26T07:33:09,2025-02-26,2,February,completed,bank_transfer,prod_00176,Fresh Avocado Pack,3,15768.25,47304.75
+txn_ad79907b3204,user_000444,2025-02-21T16:23:32,2025-02-21,2,February,refunded,mtn_momo,prod_00057,School Uniform Set,3,19946.62,59839.86
+txn_ad79907b3204,user_000444,2025-02-21T16:23:32,2025-02-21,2,February,refunded,mtn_momo,prod_00320,Ikivuguto Yoghurt,4,9059.95,36239.8
+txn_fa85f240a94c,user_000418,2025-03-06T00:43:04,2025-03-06,3,March,refunded,cash,prod_00232,Rukundo Tea Leaves,4,11897.5,47590.0
+txn_fa85f240a94c,user_000418,2025-03-06T00:43:04,2025-03-06,3,March,refunded,cash,prod_00377,Power Bank 10000mAh,1,6443.28,6443.28
+txn_1a4bf499abff,user_000019,2025-01-24T14:33:13,2025-01-24,1,January,processing,airtel_money,prod_00171,Mutzig Beer,4,18711.53,74846.12
+txn_1a4bf499abff,user_000019,2025-01-24T14:33:13,2025-01-24,1,January,processing,airtel_money,prod_00373,Pineapple Crate Nyungwe,4,11348.3,45393.2
+txn_b6dc2866becd,user_000156,2025-02-28T08:33:02,2025-02-28,2,February,shipped,mtn_momo,prod_00345,Coconut Hair Oil Rwanda,4,19406.07,77624.28
+txn_bc1a4b33f6b4,user_000262,2025-01-22T19:12:00,2025-01-22,1,January,completed,visa_card,prod_00466,Inzoga ya Primus,1,5695.51,5695.51
+txn_bc1a4b33f6b4,user_000262,2025-01-22T19:12:00,2025-01-22,1,January,completed,visa_card,prod_00132,MTN MoMo Agent Kit,3,7027.36,21082.08
+txn_93bf24148d64,user_000438,2025-01-31T13:57:09,2025-01-31,1,January,shipped,visa_card,prod_00272,Ibirayi Fries,4,17610.81,70443.24
+txn_19686e56108e,user_000268,2025-02-23T01:45:01,2025-02-23,2,February,refunded,airtel_money,prod_00371,Ikivuguto Yoghurt,4,12364.06,49456.24
+txn_3efba0d3fa61,user_000318,2025-03-19T20:59:06,2025-03-19,3,March,shipped,bank_transfer,prod_00465,Akabanga Chilli Oil,1,1873.04,1873.04
+txn_39110d2a7afb,user_000018,2025-02-04T02:46:21,2025-02-04,2,February,completed,mtn_momo,prod_00058,Plastic Jerry Can 20L,3,15977.08,47931.24
+txn_f48e50c19700,user_000471,2025-03-08T23:22:04,2025-03-08,3,March,shipped,visa_card,prod_00198,Earphones Oraimo,2,10823.93,21647.86
+txn_f48e50c19700,user_000471,2025-03-08T23:22:04,2025-03-08,3,March,shipped,visa_card,prod_00454,Window Glass Panel,3,13383.01,40149.03
+txn_f48e50c19700,user_000471,2025-03-08T23:22:04,2025-03-08,3,March,shipped,visa_card,prod_00008,Mosquito Net Treated,3,15040.47,45121.41
+txn_7e1fc60a8812,user_000475,2025-01-15T20:14:49,2025-01-15,1,January,shipped,cash,prod_00112,Nziza Body Lotion,4,10906.18,43624.72
+txn_7e1fc60a8812,user_000475,2025-01-15T20:14:49,2025-01-15,1,January,shipped,cash,prod_00334,Earphones Oraimo,3,4007.84,12023.52
+txn_118db6ed2f56,user_000421,2025-01-01T19:09:36,2025-01-01,1,January,refunded,cash,prod_00388,Dettol Antiseptic,1,2216.4,2216.4
+txn_118db6ed2f56,user_000421,2025-01-01T19:09:36,2025-01-01,1,January,refunded,cash,prod_00469,Rukundo Tea Leaves,2,3944.06,7888.12
+txn_50462b1dda35,user_000396,2025-02-24T22:36:35,2025-02-24,2,February,processing,airtel_money,prod_00091,Pineapple Crate Nyungwe,4,3922.15,15688.6
+txn_50462b1dda35,user_000396,2025-02-24T22:36:35,2025-02-24,2,February,processing,airtel_money,prod_00032,Dettol Antiseptic,1,2342.87,2342.87
+txn_50462b1dda35,user_000396,2025-02-24T22:36:35,2025-02-24,2,February,processing,airtel_money,prod_00306,Inyange Milk,4,9889.57,39558.28
+txn_5abcc0c27fc8,user_000298,2025-01-20T19:12:16,2025-01-20,1,January,refunded,cash,prod_00090,Umushanana Set,4,3668.64,14674.56
+txn_5abcc0c27fc8,user_000298,2025-01-20T19:12:16,2025-01-20,1,January,refunded,cash,prod_00038,Feature Phone Tecno,1,13726.98,13726.98
+txn_afc625cf07c9,user_000007,2025-01-15T01:29:06,2025-01-15,1,January,completed,cash,prod_00274,Agaseke Woven Basket,2,16373.51,32747.02
+txn_afc625cf07c9,user_000007,2025-01-15T01:29:06,2025-01-15,1,January,completed,cash,prod_00128,Sandals Handmade,1,11361.21,11361.21
+txn_3135b8ee8902,user_000196,2025-01-08T23:23:20,2025-01-08,1,January,refunded,visa_card,prod_00200,Calculator Casio,1,3933.96,3933.96
+txn_b2f0b43418d7,user_000186,2025-03-11T01:28:30,2025-03-11,3,March,completed,mtn_momo,prod_00404,Mattress Foam Single,2,13988.49,27976.98
+txn_b2f0b43418d7,user_000186,2025-03-11T01:28:30,2025-03-11,3,March,completed,mtn_momo,prod_00490,Rwanda Arabica Coffee,4,18015.91,72063.64
+txn_859a384db8b3,user_000128,2025-02-08T22:02:38,2025-02-08,2,February,completed,cash,prod_00252,Ibirayi Fries,3,15700.76,47102.28
+txn_ff7a264638b1,user_000086,2025-01-29T15:44:04,2025-01-29,1,January,refunded,airtel_money,prod_00225,Mosquito Net Treated,4,14711.59,58846.36
+txn_ff7a264638b1,user_000086,2025-01-29T15:44:04,2025-01-29,1,January,refunded,airtel_money,prod_00227,Urwagwa Traditional Beer,1,5365.06,5365.06
+txn_1a3d88b7936f,user_000336,2025-02-10T16:28:19,2025-02-10,2,February,refunded,airtel_money,prod_00443,Irish Potato 5kg,3,6125.18,18375.54
+txn_e02dcfe2197a,user_000146,2025-03-03T05:31:23,2025-03-03,3,March,processing,visa_card,prod_00067,Vaseline Petroleum Jelly,1,11452.2,11452.2
+txn_e02dcfe2197a,user_000146,2025-03-03T05:31:23,2025-03-03,3,March,processing,visa_card,prod_00409,Coconut Hair Oil Rwanda,2,12758.39,25516.78
+txn_e02dcfe2197a,user_000146,2025-03-03T05:31:23,2025-03-03,3,March,processing,visa_card,prod_00439,Steel Rod 12mm,4,11769.66,47078.64
+txn_d310eff21b2d,user_000367,2025-02-09T07:30:00,2025-02-09,2,February,processing,cash,prod_00120,Akagera Print T-Shirt,3,9782.1,29346.3
+txn_d310eff21b2d,user_000367,2025-02-09T07:30:00,2025-02-09,2,February,processing,cash,prod_00063,Urwagwa Traditional Beer,2,12481.35,24962.7
+txn_d310eff21b2d,user_000367,2025-02-09T07:30:00,2025-02-09,2,February,processing,cash,prod_00453,Iron Sheet 3m,1,19689.4,19689.4
+txn_1839db0d63b3,user_000259,2025-02-25T23:12:43,2025-02-25,2,February,processing,bank_transfer,prod_00437,WiFi Router ZTE,4,2620.52,10482.08
+txn_1839db0d63b3,user_000259,2025-02-25T23:12:43,2025-02-25,2,February,processing,bank_transfer,prod_00028,Impala Club Soda,2,1595.36,3190.72
+txn_1839db0d63b3,user_000259,2025-02-25T23:12:43,2025-02-25,2,February,processing,bank_transfer,prod_00468,Door Lock Yale,3,8311.99,24935.97
+txn_77cff1b712d5,user_000393,2025-02-12T03:07:37,2025-02-12,2,February,completed,visa_card,prod_00065,Sufuria Cooking Pot 5L,4,6148.6,24594.4
+txn_77cff1b712d5,user_000393,2025-02-12T03:07:37,2025-02-12,2,February,completed,visa_card,prod_00429,Impala Club Soda,3,1489.16,4467.48
+txn_c48e56f29fc0,user_000450,2025-03-01T18:32:26,2025-03-01,3,March,refunded,airtel_money,prod_00060,Passion Fruit Tray,2,15498.71,30997.42
+txn_c48e56f29fc0,user_000450,2025-03-01T18:32:26,2025-03-01,3,March,refunded,airtel_money,prod_00147,Vaseline Petroleum Jelly,2,2152.66,4305.32
+txn_acf8bf87b6ec,user_000356,2025-03-21T12:53:57,2025-03-21,3,March,refunded,airtel_money,prod_00217,Fanta Citron,1,1689.18,1689.18
+txn_be4106d4774b,user_000243,2025-03-02T11:14:37,2025-03-02,3,March,shipped,mtn_momo,prod_00066,Passion Fruit Tray,2,7133.76,14267.52
+txn_be4106d4774b,user_000243,2025-03-02T11:14:37,2025-03-02,3,March,shipped,mtn_momo,prod_00053,PVC Pipe 2inch,4,5853.83,23415.32
+txn_6466b96dd306,user_000464,2025-03-18T14:56:52,2025-03-18,3,March,processing,airtel_money,prod_00211,Sorghum Flour 1kg,3,12083.6,36250.8
+txn_6466b96dd306,user_000464,2025-03-18T14:56:52,2025-03-18,3,March,processing,airtel_money,prod_00343,Passion Fruit Tray,4,12552.99,50211.96
+txn_6466b96dd306,user_000464,2025-03-18T14:56:52,2025-03-18,3,March,processing,airtel_money,prod_00156,Rwanda Arabica Coffee,3,10879.48,32638.44
+txn_b025aa307b94,user_000061,2025-01-20T05:35:14,2025-01-20,1,January,refunded,cash,prod_00178,Roofing Nails 4inch,1,3567.54,3567.54
+txn_b025aa307b94,user_000061,2025-01-20T05:35:14,2025-01-20,1,January,refunded,cash,prod_00315,Dettol Antiseptic,1,2578.37,2578.37
+txn_b025aa307b94,user_000061,2025-01-20T05:35:14,2025-01-20,1,January,refunded,cash,prod_00335,Mosquito Net Treated,1,17198.02,17198.02
+txn_4c69de1eaf53,user_000236,2025-01-08T10:01:26,2025-01-08,1,January,completed,bank_transfer,prod_00267,Passion Fruit Tray,2,14856.17,29712.34
+txn_9ae9bfecae98,user_000021,2025-01-06T23:32:29,2025-01-06,1,January,shipped,cash,prod_00220,Stapler Heavy Duty,2,6859.47,13718.94
+txn_9ae9bfecae98,user_000021,2025-01-06T23:32:29,2025-01-06,1,January,shipped,cash,prod_00128,Sandals Handmade,2,11361.21,22722.42
+txn_9ae9bfecae98,user_000021,2025-01-06T23:32:29,2025-01-06,1,January,shipped,cash,prod_00366,Cement Bag 50kg Cimerwa,4,14497.98,57991.92
+txn_5e87030e58b6,user_000245,2025-01-29T18:52:04,2025-01-29,1,January,completed,mtn_momo,prod_00189,Sandals Handmade,3,9535.26,28605.78
+txn_072ee8a8c908,user_000390,2025-01-08T15:42:12,2025-01-08,1,January,shipped,visa_card,prod_00326,Amavuta Shea Butter,4,19131.19,76524.76
+txn_a704687eb83f,user_000186,2025-01-24T10:52:38,2025-01-24,1,January,shipped,mtn_momo,prod_00347,Phone Charger USB-C,4,9649.36,38597.44
+txn_a704687eb83f,user_000186,2025-01-24T10:52:38,2025-01-24,1,January,shipped,mtn_momo,prod_00002,PVC Pipe 2inch,4,17765.57,71062.28
+txn_a704687eb83f,user_000186,2025-01-24T10:52:38,2025-01-24,1,January,shipped,mtn_momo,prod_00286,Pillow Fiber,3,18264.24,54792.72
+txn_7ddb3e30e616,user_000382,2025-01-16T16:28:17,2025-01-16,1,January,shipped,visa_card,prod_00001,Cement Bag 50kg Cimerwa,4,19920.58,79682.32
+txn_7ddb3e30e616,user_000382,2025-01-16T16:28:17,2025-01-16,1,January,shipped,visa_card,prod_00049,Ibirayi Fries,2,10549.98,21099.96
+txn_03383794add6,user_000046,2025-02-07T23:30:26,2025-02-07,2,February,refunded,cash,prod_00308,Sorghum Flour 1kg,4,19400.25,77601.0
+txn_03383794add6,user_000046,2025-02-07T23:30:26,2025-02-07,2,February,refunded,cash,prod_00408,Exercise Book 96pages,1,5138.63,5138.63
+txn_8698219913d9,user_000182,2025-03-02T03:27:06,2025-03-02,3,March,completed,airtel_money,prod_00111,Agaseke Woven Basket,1,14064.71,14064.71
+txn_00712aafe589,user_000267,2025-02-10T15:20:29,2025-02-10,2,February,completed,mtn_momo,prod_00394,Irish Potato 5kg,1,6691.18,6691.18
+txn_139a2e02a364,user_000061,2025-03-27T17:22:01,2025-03-27,3,March,shipped,airtel_money,prod_00491,Impala Club Soda,2,5189.97,10379.94
+txn_3dc6bf0ff65c,user_000346,2025-02-10T10:52:32,2025-02-10,2,February,processing,visa_card,prod_00445,School Bag Primary,4,11264.98,45059.92
+txn_fbf89409eeea,user_000420,2025-02-24T10:55:23,2025-02-24,2,February,shipped,bank_transfer,prod_00466,Inzoga ya Primus,1,5695.51,5695.51
+txn_d415d2783629,user_000345,2025-01-12T01:48:51,2025-01-12,1,January,refunded,airtel_money,prod_00226,Smartphone Android 4G,3,10547.76,31643.28
+txn_d415d2783629,user_000345,2025-01-12T01:48:51,2025-01-12,1,January,refunded,airtel_money,prod_00322,Nivea Roll-On,2,18423.96,36847.92
+txn_551d345b5cd1,user_000237,2025-03-21T09:58:58,2025-03-21,3,March,processing,bank_transfer,prod_00049,Ibirayi Fries,1,10549.98,10549.98
+txn_551d345b5cd1,user_000237,2025-03-21T09:58:58,2025-03-21,3,March,processing,bank_transfer,prod_00361,Exercise Book 96pages,4,11550.68,46202.72
+txn_ca30411e1363,user_000014,2025-01-16T02:40:42,2025-01-16,1,January,processing,airtel_money,prod_00435,Mutzig Beer,3,7143.93,21431.79
+txn_831de25e45c5,user_000098,2025-01-10T03:36:53,2025-01-10,1,January,processing,mtn_momo,prod_00313,Fanta Citron,1,11986.44,11986.44
+txn_831de25e45c5,user_000098,2025-01-10T03:36:53,2025-01-10,1,January,processing,mtn_momo,prod_00334,Earphones Oraimo,2,4007.84,8015.68
+txn_831de25e45c5,user_000098,2025-01-10T03:36:53,2025-01-10,1,January,processing,mtn_momo,prod_00286,Pillow Fiber,1,18264.24,18264.24
+txn_b69a9c466f27,user_000460,2025-01-21T23:21:05,2025-01-21,1,January,processing,bank_transfer,prod_00284,Sweet Potato Bag,2,17366.54,34733.08
+txn_b69a9c466f27,user_000460,2025-01-21T23:21:05,2025-01-21,1,January,processing,bank_transfer,prod_00373,Pineapple Crate Nyungwe,1,11348.3,11348.3
+txn_578e6f3cdf2d,user_000353,2025-03-23T12:31:36,2025-03-23,3,March,processing,cash,prod_00496,Solar Lantern LifeLight,1,19634.41,19634.41
+txn_578e6f3cdf2d,user_000353,2025-03-23T12:31:36,2025-03-23,3,March,processing,cash,prod_00429,Impala Club Soda,3,1489.16,4467.48
+txn_11ea93932743,user_000023,2025-02-19T09:17:01,2025-02-19,2,February,refunded,cash,prod_00468,Door Lock Yale,3,8311.99,24935.97
+txn_11ea93932743,user_000023,2025-02-19T09:17:01,2025-02-19,2,February,refunded,cash,prod_00479,Iron Sheet 3m,3,14281.45,42844.35
+txn_7475f69797cc,user_000374,2025-01-29T03:14:40,2025-01-29,1,January,completed,airtel_money,prod_00487,Sorghum Flour 1kg,4,7049.88,28199.52
+txn_99d138631cfa,user_000073,2025-03-27T17:03:33,2025-03-27,3,March,refunded,mtn_momo,prod_00355,Exercise Book 96pages,2,9720.1,19440.2
+txn_99d138631cfa,user_000073,2025-03-27T17:03:33,2025-03-27,3,March,refunded,mtn_momo,prod_00191,Power Bank 10000mAh,4,2347.14,9388.56
+txn_99d138631cfa,user_000073,2025-03-27T17:03:33,2025-03-27,3,March,refunded,mtn_momo,prod_00306,Inyange Milk,3,9889.57,29668.71
+txn_cc1a87f27192,user_000214,2025-01-07T18:32:45,2025-01-07,1,January,processing,visa_card,prod_00146,School Uniform Set,2,12140.93,24281.86
+txn_ed90cb920125,user_000285,2025-03-15T13:10:57,2025-03-15,3,March,shipped,visa_card,prod_00426,Gahunda Work Shirt,4,2758.8,11035.2
+txn_ed90cb920125,user_000285,2025-03-15T13:10:57,2025-03-15,3,March,shipped,visa_card,prod_00170,Mattress Foam Single,3,15784.13,47352.39
+txn_ed90cb920125,user_000285,2025-03-15T13:10:57,2025-03-15,3,March,shipped,visa_card,prod_00190,Biro Pen Box,3,14367.57,43102.71
+txn_aee35c125d1a,user_000033,2025-02-14T14:57:16,2025-02-14,2,February,shipped,airtel_money,prod_00006,Passion Fruit Tray,4,19756.78,79027.12
+txn_aee35c125d1a,user_000033,2025-02-14T14:57:16,2025-02-14,2,February,shipped,airtel_money,prod_00436,Nivea Roll-On,1,2729.3,2729.3
+txn_aee35c125d1a,user_000033,2025-02-14T14:57:16,2025-02-14,2,February,shipped,airtel_money,prod_00254,Door Lock Yale,4,7471.78,29887.12
+txn_016908f5f21f,user_000441,2025-03-06T19:06:50,2025-03-06,3,March,processing,mtn_momo,prod_00108,Solar Lantern LifeLight,4,16212.64,64850.56
+txn_136367217494,user_000017,2025-03-28T19:11:40,2025-03-28,3,March,processing,bank_transfer,prod_00356,Earphones Oraimo,1,5439.6,5439.6
+txn_8a75f5218996,user_000487,2025-03-21T10:59:56,2025-03-21,3,March,refunded,bank_transfer,prod_00390,Impala Club Soda,3,17862.84,53588.52
+txn_0f1717ac39af,user_000367,2025-03-19T16:41:48,2025-03-19,3,March,completed,airtel_money,prod_00038,Feature Phone Tecno,3,13726.98,41180.94
+txn_0f1717ac39af,user_000367,2025-03-19T16:41:48,2025-03-19,3,March,completed,airtel_money,prod_00041,Leather Shoes Kigali,2,1538.51,3077.02
+txn_b2b9d3bde0be,user_000390,2025-03-28T18:26:19,2025-03-28,3,March,refunded,mtn_momo,prod_00180,Charcoal Stove Jiko,3,5341.13,16023.39
+txn_b2b9d3bde0be,user_000390,2025-03-28T18:26:19,2025-03-28,3,March,refunded,mtn_momo,prod_00063,Urwagwa Traditional Beer,4,12481.35,49925.4
+txn_e3805410293f,user_000250,2025-01-24T11:55:14,2025-01-24,1,January,completed,visa_card,prod_00402,Printer Paper A4 Ream,1,8738.01,8738.01
+txn_e3805410293f,user_000250,2025-01-24T11:55:14,2025-01-24,1,January,completed,visa_card,prod_00245,Nivea Roll-On,2,14692.72,29385.44
+txn_e3805410293f,user_000250,2025-01-24T11:55:14,2025-01-24,1,January,completed,visa_card,prod_00357,Roofing Nails 4inch,2,793.82,1587.64
+txn_04905c973435,user_000383,2025-03-19T17:00:43,2025-03-19,3,March,shipped,visa_card,prod_00302,Mosquito Net Treated,2,10598.76,21197.52
+txn_03c1f40dd0cb,user_000277,2025-02-08T08:03:13,2025-02-08,2,February,refunded,visa_card,prod_00094,Door Lock Yale,2,13960.66,27921.32
+txn_3fc778a71d4f,user_000227,2025-01-27T20:35:15,2025-01-27,1,January,refunded,cash,prod_00130,Smart TV 32inch,3,3345.73,10037.19
+txn_97ca8015a3e6,user_000497,2025-02-23T16:58:50,2025-02-23,2,February,shipped,airtel_money,prod_00125,Fanta Citron,2,12865.4,25730.8
+txn_97ca8015a3e6,user_000497,2025-02-23T16:58:50,2025-02-23,2,February,shipped,airtel_money,prod_00413,Leather Shoes Kigali,4,14068.68,56274.72
+txn_97ca8015a3e6,user_000497,2025-02-23T16:58:50,2025-02-23,2,February,shipped,airtel_money,prod_00015,Imishanana Traditional Dress,1,16984.78,16984.78
+txn_e9b4f87c1d71,user_000005,2025-01-12T15:46:13,2025-01-12,1,January,shipped,visa_card,prod_00011,Rwanda Arabica Coffee,2,8888.89,17777.78
+txn_e9b4f87c1d71,user_000005,2025-01-12T15:46:13,2025-01-12,1,January,shipped,visa_card,prod_00300,Calculator Casio,1,13422.23,13422.23
+txn_e9b4f87c1d71,user_000005,2025-01-12T15:46:13,2025-01-12,1,January,shipped,visa_card,prod_00342,Fanta Citron,2,8242.39,16484.78
+txn_d451b1e7a36c,user_000098,2025-03-22T03:22:58,2025-03-22,3,March,refunded,visa_card,prod_00088,Akagera Print T-Shirt,4,15865.23,63460.92
+txn_d451b1e7a36c,user_000098,2025-03-22T03:22:58,2025-03-22,3,March,refunded,visa_card,prod_00042,Akabanga Chilli Oil,1,15931.92,15931.92
+txn_6a660bb88cf5,user_000292,2025-03-26T00:51:42,2025-03-26,3,March,completed,bank_transfer,prod_00459,WiFi Router ZTE,4,10742.65,42970.6
+txn_5f0870053611,user_000332,2025-02-06T21:51:40,2025-02-06,2,February,processing,visa_card,prod_00422,Earphones Oraimo,2,2778.47,5556.94
+txn_5f0870053611,user_000332,2025-02-06T21:51:40,2025-02-06,2,February,processing,visa_card,prod_00140,Irish Potato 5kg,1,9914.04,9914.04
+txn_96ba20225031,user_000405,2025-03-07T07:17:06,2025-03-07,3,March,processing,visa_card,prod_00289,Inyange Juice,3,15061.7,45185.1
+txn_96ba20225031,user_000405,2025-03-07T07:17:06,2025-03-07,3,March,processing,visa_card,prod_00050,Plastic Jerry Can 20L,3,2927.26,8781.78
+txn_96ba20225031,user_000405,2025-03-07T07:17:06,2025-03-07,3,March,processing,visa_card,prod_00104,Bed Sheet Cotton,4,13604.46,54417.84
+txn_365f16fd602e,user_000189,2025-03-08T11:27:25,2025-03-08,3,March,refunded,bank_transfer,prod_00057,School Uniform Set,3,19946.62,59839.86
+txn_59fd1c05c7d1,user_000082,2025-02-05T01:14:58,2025-02-05,2,February,completed,mtn_momo,prod_00112,Nziza Body Lotion,1,10906.18,10906.18
+txn_59fd1c05c7d1,user_000082,2025-02-05T01:14:58,2025-02-05,2,February,completed,mtn_momo,prod_00045,Inzoga ya Primus,1,5191.0,5191.0
+txn_74c565ce5857,user_000037,2025-02-20T19:03:25,2025-02-20,2,February,completed,visa_card,prod_00290,Coconut Hair Oil Rwanda,2,3256.79,6513.58
+txn_74c565ce5857,user_000037,2025-02-20T19:03:25,2025-02-20,2,February,completed,visa_card,prod_00167,PVC Pipe 2inch,2,11484.18,22968.36
+txn_b214620299bb,user_000200,2025-03-30T02:42:45,2025-03-30,3,March,refunded,bank_transfer,prod_00103,Ikivuguto Yoghurt,4,12491.0,49964.0
+txn_b214620299bb,user_000200,2025-03-30T02:42:45,2025-03-30,3,March,refunded,bank_transfer,prod_00038,Feature Phone Tecno,2,13726.98,27453.96
+txn_b214620299bb,user_000200,2025-03-30T02:42:45,2025-03-30,3,March,refunded,bank_transfer,prod_00041,Leather Shoes Kigali,1,1538.51,1538.51
+txn_93fa2797edb8,user_000239,2025-01-09T09:56:31,2025-01-09,1,January,refunded,mtn_momo,prod_00165,Rukundo Tea Leaves,4,14064.14,56256.56
+txn_63c305007299,user_000109,2025-01-18T13:53:07,2025-01-18,1,January,processing,airtel_money,prod_00473,Inyange Milk,1,3404.6,3404.6
+txn_0f66fbf7c569,user_000355,2025-02-26T18:53:37,2025-02-26,2,February,completed,visa_card,prod_00451,Decoder StarTimes,1,6092.91,6092.91
+txn_0f66fbf7c569,user_000355,2025-02-26T18:53:37,2025-02-26,2,February,completed,visa_card,prod_00216,Stapler Heavy Duty,1,4911.72,4911.72
+txn_0f66fbf7c569,user_000355,2025-02-26T18:53:37,2025-02-26,2,February,completed,visa_card,prod_00164,PVC Pipe 2inch,3,14222.11,42666.33
+txn_5957dd8edbbe,user_000420,2025-01-15T08:10:28,2025-01-15,1,January,refunded,airtel_money,prod_00220,Stapler Heavy Duty,2,6859.47,13718.94
+txn_1cfc7a9587f1,user_000302,2025-03-09T04:56:02,2025-03-09,3,March,shipped,cash,prod_00104,Bed Sheet Cotton,1,13604.46,13604.46
+txn_1cfc7a9587f1,user_000302,2025-03-09T04:56:02,2025-03-09,3,March,shipped,cash,prod_00280,Mattress Foam Single,3,2292.94,6878.82
+txn_e670844a0e5e,user_000292,2025-03-15T05:32:18,2025-03-15,3,March,shipped,visa_card,prod_00116,Sufuria Cooking Pot 5L,3,8541.65,25624.95
+txn_e670844a0e5e,user_000292,2025-03-15T05:32:18,2025-03-15,3,March,shipped,visa_card,prod_00082,Agaseke Woven Basket,2,11682.8,23365.6
+txn_a5ee3023a88e,user_000210,2025-02-20T05:49:39,2025-02-20,2,February,processing,airtel_money,prod_00322,Nivea Roll-On,2,18423.96,36847.92
+txn_a5ee3023a88e,user_000210,2025-02-20T05:49:39,2025-02-20,2,February,processing,airtel_money,prod_00321,Mosquito Net Treated,2,13272.87,26545.74
+txn_3c458739fdb1,user_000112,2025-01-21T17:05:52,2025-01-21,1,January,processing,bank_transfer,prod_00110,Fresh Avocado Pack,2,4731.82,9463.64
+txn_3c458739fdb1,user_000112,2025-01-21T17:05:52,2025-01-21,1,January,processing,bank_transfer,prod_00485,Steel Rod 12mm,1,2412.25,2412.25
+txn_3c458739fdb1,user_000112,2025-01-21T17:05:52,2025-01-21,1,January,processing,bank_transfer,prod_00419,Umutsima Porridge,1,3530.03,3530.03
+txn_097f998c5e59,user_000439,2025-03-02T20:58:11,2025-03-02,3,March,completed,visa_card,prod_00347,Phone Charger USB-C,3,9649.36,28948.08
+txn_35734fc82e7d,user_000110,2025-01-24T19:35:09,2025-01-24,1,January,processing,cash,prod_00226,Smartphone Android 4G,4,10547.76,42191.04
+txn_35734fc82e7d,user_000110,2025-01-24T19:35:09,2025-01-24,1,January,processing,cash,prod_00147,Vaseline Petroleum Jelly,2,2152.66,4305.32
+txn_35734fc82e7d,user_000110,2025-01-24T19:35:09,2025-01-24,1,January,processing,cash,prod_00237,Printer Paper A4 Ream,1,13261.48,13261.48
+txn_3cfa0814882b,user_000480,2025-02-26T15:15:40,2025-02-26,2,February,completed,bank_transfer,prod_00489,Stapler Heavy Duty,3,12035.83,36107.49
+txn_3cfa0814882b,user_000480,2025-02-26T15:15:40,2025-02-26,2,February,completed,bank_transfer,prod_00100,Bed Sheet Cotton,4,15433.64,61734.56
+txn_0c858fa2c147,user_000123,2025-02-24T00:35:39,2025-02-24,2,February,completed,mtn_momo,prod_00169,Dettol Antiseptic,3,12219.48,36658.44
+txn_0c858fa2c147,user_000123,2025-02-24T00:35:39,2025-02-24,2,February,completed,mtn_momo,prod_00371,Ikivuguto Yoghurt,1,12364.06,12364.06
+txn_e01fd2a55e1f,user_000103,2025-03-21T05:10:52,2025-03-21,3,March,completed,bank_transfer,prod_00476,WiFi Router ZTE,1,8811.12,8811.12
+txn_9edcd95d93b3,user_000105,2025-01-05T02:28:40,2025-01-05,1,January,refunded,bank_transfer,prod_00128,Sandals Handmade,2,11361.21,22722.42
+txn_964ed314e4d7,user_000408,2025-03-01T12:45:41,2025-03-01,3,March,completed,bank_transfer,prod_00026,Electric Wire 2.5mm,3,5491.38,16474.14
+txn_1988c758a380,user_000020,2025-02-28T04:10:25,2025-02-28,2,February,completed,cash,prod_00065,Sufuria Cooking Pot 5L,2,6148.6,12297.2
+txn_ba7e589d4236,user_000448,2025-02-08T09:15:14,2025-02-08,2,February,shipped,bank_transfer,prod_00019,Mattress Foam Single,4,9970.4,39881.6
+txn_ba7e589d4236,user_000448,2025-02-08T09:15:14,2025-02-08,2,February,shipped,bank_transfer,prod_00342,Fanta Citron,3,8242.39,24727.17
+txn_7018ef9232d6,user_000209,2025-01-29T12:32:47,2025-01-29,1,January,shipped,cash,prod_00058,Plastic Jerry Can 20L,3,15977.08,47931.24
+txn_5ac51ddc527d,user_000149,2025-03-17T09:50:16,2025-03-17,3,March,shipped,airtel_money,prod_00161,Door Lock Yale,4,15871.92,63487.68
+txn_5ac51ddc527d,user_000149,2025-03-17T09:50:16,2025-03-17,3,March,shipped,airtel_money,prod_00005,Akabanga Chilli Oil,3,4711.05,14133.15
+txn_ca9a62caefaa,user_000288,2025-02-15T14:35:35,2025-02-15,2,February,shipped,airtel_money,prod_00174,Smart TV 32inch,2,8119.26,16238.52
+txn_8db7eb733840,user_000444,2025-01-10T01:10:23,2025-01-10,1,January,completed,mtn_momo,prod_00345,Coconut Hair Oil Rwanda,1,19406.07,19406.07
+txn_8db7eb733840,user_000444,2025-01-10T01:10:23,2025-01-10,1,January,completed,mtn_momo,prod_00417,Amavuta Shea Butter,1,6501.56,6501.56
+txn_38446820b0c9,user_000007,2025-03-13T22:24:40,2025-03-13,3,March,processing,cash,prod_00159,Inzoga ya Primus,2,19029.95,38059.9
+txn_282cbb1b5eb4,user_000329,2025-02-01T07:47:54,2025-02-01,2,February,completed,mtn_momo,prod_00235,Roofing Nails 4inch,4,8071.36,32285.44
+txn_0596d0c77b07,user_000172,2025-02-05T12:00:35,2025-02-05,2,February,shipped,bank_transfer,prod_00225,Mosquito Net Treated,1,14711.59,14711.59
+txn_0596d0c77b07,user_000172,2025-02-05T12:00:35,2025-02-05,2,February,shipped,bank_transfer,prod_00003,Door Lock Yale,2,2437.42,4874.84
+txn_0596d0c77b07,user_000172,2025-02-05T12:00:35,2025-02-05,2,February,shipped,bank_transfer,prod_00081,Kitenge Fabric 2m,4,14245.57,56982.28
+txn_0a851bca2bd6,user_000327,2025-02-22T06:09:03,2025-02-22,2,February,shipped,cash,prod_00143,Dettol Antiseptic,2,6954.3,13908.6
+txn_7a29eb3c986a,user_000336,2025-01-29T21:27:48,2025-01-29,1,January,shipped,bank_transfer,prod_00336,Roofing Nails 4inch,1,15813.99,15813.99
+txn_7a29eb3c986a,user_000336,2025-01-29T21:27:48,2025-01-29,1,January,shipped,bank_transfer,prod_00047,Window Glass Panel,1,7223.65,7223.65
+txn_7ee5c847ff86,user_000395,2025-03-29T13:21:30,2025-03-29,3,March,refunded,cash,prod_00223,Gahunda Work Shirt,2,17846.7,35693.4
+txn_7ee5c847ff86,user_000395,2025-03-29T13:21:30,2025-03-29,3,March,refunded,cash,prod_00189,Sandals Handmade,3,9535.26,28605.78
+txn_91b73767c76c,user_000222,2025-01-12T00:44:45,2025-01-12,1,January,processing,airtel_money,prod_00373,Pineapple Crate Nyungwe,2,11348.3,22696.6
+txn_91b73767c76c,user_000222,2025-01-12T00:44:45,2025-01-12,1,January,processing,airtel_money,prod_00020,Sandals Handmade,4,4800.11,19200.44
+txn_6b808ccc424c,user_000233,2025-02-25T06:22:37,2025-02-25,2,February,processing,airtel_money,prod_00460,Calculator Casio,4,14307.46,57229.84
+txn_6b808ccc424c,user_000233,2025-02-25T06:22:37,2025-02-25,2,February,processing,airtel_money,prod_00090,Umushanana Set,2,3668.64,7337.28
+txn_6b808ccc424c,user_000233,2025-02-25T06:22:37,2025-02-25,2,February,processing,airtel_money,prod_00277,Decoder StarTimes,2,14834.05,29668.1
+txn_a3d5f9878b0b,user_000164,2025-01-14T04:12:26,2025-01-14,1,January,shipped,cash,prod_00222,Nivea Roll-On,3,17618.92,52856.76
+txn_a3d5f9878b0b,user_000164,2025-01-14T04:12:26,2025-01-14,1,January,shipped,cash,prod_00193,School Bag Primary,1,16281.32,16281.32
+txn_0225747b290a,user_000061,2025-01-26T00:20:46,2025-01-26,1,January,refunded,airtel_money,prod_00309,Amavuta Shea Butter,1,12216.35,12216.35
+txn_0225747b290a,user_000061,2025-01-26T00:20:46,2025-01-26,1,January,refunded,airtel_money,prod_00364,Inkorora Storage Basket,1,6790.7,6790.7
+txn_a92d65435b9f,user_000488,2025-03-24T03:21:28,2025-03-24,3,March,shipped,visa_card,prod_00168,Fanta Citron,1,17983.56,17983.56
+txn_7d109520a49a,user_000171,2025-02-25T10:37:09,2025-02-25,2,February,processing,airtel_money,prod_00195,Pineapple Crate Nyungwe,1,12573.94,12573.94
+txn_7d109520a49a,user_000171,2025-02-25T10:37:09,2025-02-25,2,February,processing,airtel_money,prod_00442,Savon Ivoirien Soap,1,7940.52,7940.52
+txn_7d109520a49a,user_000171,2025-02-25T10:37:09,2025-02-25,2,February,processing,airtel_money,prod_00254,Door Lock Yale,2,7471.78,14943.56
+txn_ec55dd880117,user_000225,2025-03-16T14:28:32,2025-03-16,3,March,refunded,airtel_money,prod_00337,Pillow Fiber,2,15019.57,30039.14
+txn_ec55dd880117,user_000225,2025-03-16T14:28:32,2025-03-16,3,March,refunded,airtel_money,prod_00015,Imishanana Traditional Dress,1,16984.78,16984.78
+txn_ec55dd880117,user_000225,2025-03-16T14:28:32,2025-03-16,3,March,refunded,airtel_money,prod_00169,Dettol Antiseptic,4,12219.48,48877.92
+txn_256e46a332dd,user_000083,2025-01-09T17:38:45,2025-01-09,1,January,shipped,airtel_money,prod_00278,School Uniform Set,1,9593.46,9593.46
+txn_8a612158ea62,user_000222,2025-01-01T18:47:20,2025-01-01,1,January,refunded,bank_transfer,prod_00138,Gas Cylinder 15kg,3,1363.79,4091.37
+txn_160bc64acf58,user_000188,2025-03-23T18:13:57,2025-03-23,3,March,shipped,bank_transfer,prod_00161,Door Lock Yale,3,15871.92,47615.76
+txn_5259412250af,user_000003,2025-03-09T02:47:37,2025-03-09,3,March,completed,bank_transfer,prod_00249,Agaseke Woven Basket,4,13402.46,53609.84
+txn_5259412250af,user_000003,2025-03-09T02:47:37,2025-03-09,3,March,completed,bank_transfer,prod_00390,Impala Club Soda,4,17862.84,71451.36
+txn_ba5e90e06de2,user_000188,2025-02-25T07:56:39,2025-02-25,2,February,completed,airtel_money,prod_00411,School Uniform Set,2,12416.25,24832.5
+txn_ba5e90e06de2,user_000188,2025-02-25T07:56:39,2025-02-25,2,February,completed,airtel_money,prod_00485,Steel Rod 12mm,3,2412.25,7236.75
+txn_2c7980988126,user_000491,2025-02-28T07:58:45,2025-02-28,2,February,completed,visa_card,prod_00496,Solar Lantern LifeLight,1,19634.41,19634.41
+txn_3c5664fcd9d0,user_000321,2025-03-06T11:03:22,2025-03-06,3,March,completed,visa_card,prod_00277,Decoder StarTimes,2,14834.05,29668.1
+txn_3c5664fcd9d0,user_000321,2025-03-06T11:03:22,2025-03-06,3,March,completed,visa_card,prod_00076,Ibirayi Fries,3,6499.72,19499.16
+txn_6b66a6fe41e9,user_000364,2025-02-06T11:10:37,2025-02-06,2,February,shipped,visa_card,prod_00068,Maize Flour 2kg,4,5341.27,21365.08
+txn_d754a6c4c02e,user_000012,2025-01-10T20:36:16,2025-01-10,1,January,processing,airtel_money,prod_00031,Akagera Print T-Shirt,2,12391.21,24782.42
+txn_d754a6c4c02e,user_000012,2025-01-10T20:36:16,2025-01-10,1,January,processing,airtel_money,prod_00224,PVC Pipe 2inch,3,17235.58,51706.74
+txn_25cd6da2faf8,user_000334,2025-01-09T07:18:57,2025-01-09,1,January,refunded,visa_card,prod_00395,Smartphone Android 4G,4,17662.57,70650.28
+txn_25cd6da2faf8,user_000334,2025-01-09T07:18:57,2025-01-09,1,January,refunded,visa_card,prod_00115,Mutzig Beer,1,3780.56,3780.56
+txn_25cd6da2faf8,user_000334,2025-01-09T07:18:57,2025-01-09,1,January,refunded,visa_card,prod_00438,Umushanana Set,3,18113.49,54340.47
+txn_8ecb65c4f3cf,user_000404,2025-03-03T02:04:38,2025-03-03,3,March,refunded,bank_transfer,prod_00434,Sufuria Cooking Pot 5L,1,15952.4,15952.4
+txn_8ecb65c4f3cf,user_000404,2025-03-03T02:04:38,2025-03-03,3,March,refunded,bank_transfer,prod_00022,Nivea Roll-On,4,9465.21,37860.84
+txn_d2c72b865c6f,user_000121,2025-02-12T16:59:08,2025-02-12,2,February,shipped,airtel_money,prod_00414,Phone Charger USB-C,4,11715.28,46861.12
+txn_f1030ff763ad,user_000287,2025-01-28T01:39:12,2025-01-28,1,January,refunded,airtel_money,prod_00195,Pineapple Crate Nyungwe,2,12573.94,25147.88
+txn_f1030ff763ad,user_000287,2025-01-28T01:39:12,2025-01-28,1,January,refunded,airtel_money,prod_00372,Kitenge Fabric 2m,1,817.9,817.9
+txn_f1030ff763ad,user_000287,2025-01-28T01:39:12,2025-01-28,1,January,refunded,airtel_money,prod_00254,Door Lock Yale,2,7471.78,14943.56
+txn_82b49a451732,user_000189,2025-02-10T11:58:42,2025-02-10,2,February,completed,visa_card,prod_00465,Akabanga Chilli Oil,2,1873.04,3746.08
+txn_82b49a451732,user_000189,2025-02-10T11:58:42,2025-02-10,2,February,completed,visa_card,prod_00446,Printer Paper A4 Ream,4,14386.53,57546.12
+txn_82801724d85b,user_000170,2025-01-26T08:34:03,2025-01-26,1,January,shipped,visa_card,prod_00059,Sufuria Cooking Pot 5L,1,11303.42,11303.42
+txn_0c5355607120,user_000434,2025-02-02T14:08:16,2025-02-02,2,February,refunded,cash,prod_00363,Sweet Potato Bag,3,6753.53,20260.59
+txn_0c5355607120,user_000434,2025-02-02T14:08:16,2025-02-02,2,February,refunded,cash,prod_00284,Sweet Potato Bag,3,17366.54,52099.62
+txn_aba3f68d19b6,user_000245,2025-02-15T02:11:21,2025-02-15,2,February,completed,bank_transfer,prod_00069,Door Lock Yale,2,9602.89,19205.78
+txn_3fb304fa6b53,user_000009,2025-01-12T05:16:50,2025-01-12,1,January,processing,bank_transfer,prod_00046,Inyange Milk,2,10392.89,20785.78
+txn_2d94f3005c9a,user_000375,2025-03-27T09:31:34,2025-03-27,3,March,refunded,airtel_money,prod_00050,Plastic Jerry Can 20L,2,2927.26,5854.52
+txn_dcda4c573240,user_000119,2025-01-01T04:37:55,2025-01-01,1,January,shipped,cash,prod_00058,Plastic Jerry Can 20L,2,15977.08,31954.16
+txn_dcda4c573240,user_000119,2025-01-01T04:37:55,2025-01-01,1,January,shipped,cash,prod_00110,Fresh Avocado Pack,3,4731.82,14195.46
+txn_1f864601d9f9,user_000339,2025-02-20T03:00:48,2025-02-20,2,February,shipped,airtel_money,prod_00087,MTN MoMo Agent Kit,4,5028.29,20113.16
+txn_1f864601d9f9,user_000339,2025-02-20T03:00:48,2025-02-20,2,February,shipped,airtel_money,prod_00226,Smartphone Android 4G,1,10547.76,10547.76
+txn_75fc49840aca,user_000260,2025-02-06T14:24:57,2025-02-06,2,February,processing,airtel_money,prod_00459,WiFi Router ZTE,1,10742.65,10742.65
+txn_b9d9cc73c622,user_000470,2025-03-26T00:48:36,2025-03-26,3,March,refunded,airtel_money,prod_00019,Mattress Foam Single,2,9970.4,19940.8
+txn_b1eea9642469,user_000154,2025-01-09T11:14:04,2025-01-09,1,January,refunded,bank_transfer,prod_00463,Inkorora Storage Basket,3,3969.62,11908.86
+txn_b1eea9642469,user_000154,2025-01-09T11:14:04,2025-01-09,1,January,refunded,bank_transfer,prod_00061,Sweet Potato Bag,1,4048.28,4048.28
+txn_a4219e9c5dab,user_000156,2025-03-23T08:49:51,2025-03-23,3,March,refunded,airtel_money,prod_00114,Inkorora Storage Basket,4,6256.25,25025.0
+txn_a4219e9c5dab,user_000156,2025-03-23T08:49:51,2025-03-23,3,March,refunded,airtel_money,prod_00334,Earphones Oraimo,4,4007.84,16031.36
+txn_a4219e9c5dab,user_000156,2025-03-23T08:49:51,2025-03-23,3,March,refunded,airtel_money,prod_00335,Mosquito Net Treated,3,17198.02,51594.06
+txn_16402a2fcaca,user_000003,2025-01-22T22:44:34,2025-01-22,1,January,shipped,mtn_momo,prod_00112,Nziza Body Lotion,2,10906.18,21812.36
+txn_6fa7cfb2c62e,user_000228,2025-03-16T13:41:48,2025-03-16,3,March,completed,airtel_money,prod_00139,Sweet Potato Bag,3,11820.11,35460.33
+txn_6fa7cfb2c62e,user_000228,2025-03-16T13:41:48,2025-03-16,3,March,completed,airtel_money,prod_00294,Sorghum Flour 1kg,3,9974.29,29922.87
+txn_90beefc622b9,user_000051,2025-02-25T16:15:55,2025-02-25,2,February,processing,cash,prod_00053,PVC Pipe 2inch,2,5853.83,11707.66
+txn_c814d7f847a7,user_000376,2025-02-05T22:01:26,2025-02-05,2,February,processing,cash,prod_00295,Akagera Print T-Shirt,2,5300.42,10600.84
+txn_8af709391f20,user_000433,2025-01-13T21:46:51,2025-01-13,1,January,refunded,cash,prod_00490,Rwanda Arabica Coffee,4,18015.91,72063.64
+txn_d379120437ba,user_000395,2025-03-17T07:54:21,2025-03-17,3,March,refunded,bank_transfer,prod_00414,Phone Charger USB-C,1,11715.28,11715.28
+txn_d379120437ba,user_000395,2025-03-17T07:54:21,2025-03-17,3,March,refunded,bank_transfer,prod_00415,Cement Bag 50kg Cimerwa,2,530.83,1061.66
+txn_cafd01272a2f,user_000321,2025-02-21T16:56:16,2025-02-21,2,February,completed,cash,prod_00442,Savon Ivoirien Soap,1,7940.52,7940.52
+txn_c8538bb88309,user_000259,2025-02-01T02:29:25,2025-02-01,2,February,shipped,mtn_momo,prod_00254,Door Lock Yale,3,7471.78,22415.34
+txn_c8538bb88309,user_000259,2025-02-01T02:29:25,2025-02-01,2,February,shipped,mtn_momo,prod_00158,Kitenge Fabric 2m,1,12742.35,12742.35
+txn_c8538bb88309,user_000259,2025-02-01T02:29:25,2025-02-01,2,February,shipped,mtn_momo,prod_00322,Nivea Roll-On,1,18423.96,18423.96
+txn_dc335a08e106,user_000208,2025-03-22T16:57:41,2025-03-22,3,March,shipped,airtel_money,prod_00301,Phone Charger USB-C,3,18813.92,56441.76
+txn_dc335a08e106,user_000208,2025-03-22T16:57:41,2025-03-22,3,March,shipped,airtel_money,prod_00289,Inyange Juice,1,15061.7,15061.7
+txn_04ed210de229,user_000431,2025-01-17T18:12:36,2025-01-17,1,January,processing,airtel_money,prod_00070,Rukundo Tea Leaves,1,11875.21,11875.21
+txn_39ea9c7cad39,user_000056,2025-02-28T15:33:05,2025-02-28,2,February,shipped,mtn_momo,prod_00037,Roofing Nails 4inch,2,12406.61,24813.22
+txn_39ea9c7cad39,user_000056,2025-02-28T15:33:05,2025-02-28,2,February,shipped,mtn_momo,prod_00306,Inyange Milk,4,9889.57,39558.28
+txn_39ea9c7cad39,user_000056,2025-02-28T15:33:05,2025-02-28,2,February,shipped,mtn_momo,prod_00458,Inyange Juice,4,7079.43,28317.72
+txn_3bce55676054,user_000243,2025-03-08T21:48:37,2025-03-08,3,March,processing,visa_card,prod_00373,Pineapple Crate Nyungwe,2,11348.3,22696.6
+txn_3bce55676054,user_000243,2025-03-08T21:48:37,2025-03-08,3,March,processing,visa_card,prod_00003,Door Lock Yale,2,2437.42,4874.84
+txn_3bce55676054,user_000243,2025-03-08T21:48:37,2025-03-08,3,March,processing,visa_card,prod_00250,Solar Lantern LifeLight,2,10205.91,20411.82
+txn_924eee590a22,user_000161,2025-03-24T06:05:50,2025-03-24,3,March,processing,airtel_money,prod_00209,Mutzig Beer,1,17748.76,17748.76
+txn_c57d0e5693b4,user_000059,2025-01-26T22:56:28,2025-01-26,1,January,shipped,cash,prod_00479,Iron Sheet 3m,1,14281.45,14281.45
+txn_c57d0e5693b4,user_000059,2025-01-26T22:56:28,2025-01-26,1,January,shipped,cash,prod_00036,Savon Ivoirien Soap,1,4026.5,4026.5
+txn_e0766d618ed7,user_000314,2025-03-16T03:27:34,2025-03-16,3,March,completed,airtel_money,prod_00278,School Uniform Set,3,9593.46,28780.38
+txn_e0766d618ed7,user_000314,2025-03-16T03:27:34,2025-03-16,3,March,completed,airtel_money,prod_00203,Dettol Antiseptic,2,15600.15,31200.3
+txn_e0766d618ed7,user_000314,2025-03-16T03:27:34,2025-03-16,3,March,completed,airtel_money,prod_00078,Roofing Nails 4inch,4,9100.25,36401.0
+txn_4f59d56097b0,user_000277,2025-02-17T12:13:44,2025-02-17,2,February,shipped,airtel_money,prod_00484,Cavendish Banana Bundle,1,9958.7,9958.7
+txn_9a36a7efd55f,user_000164,2025-02-13T19:13:02,2025-02-13,2,February,shipped,cash,prod_00030,PVC Pipe 2inch,1,9285.2,9285.2
+txn_9a36a7efd55f,user_000164,2025-02-13T19:13:02,2025-02-13,2,February,shipped,cash,prod_00244,School Uniform Set,2,3014.15,6028.3
+txn_b4347f7901e5,user_000206,2025-03-13T20:46:30,2025-03-13,3,March,shipped,visa_card,prod_00056,Electric Wire 2.5mm,4,5604.65,22418.6
+txn_8b5ad4dfbe00,user_000302,2025-01-21T18:34:23,2025-01-21,1,January,completed,cash,prod_00415,Cement Bag 50kg Cimerwa,4,530.83,2123.32
+txn_57506225016f,user_000220,2025-02-20T17:17:05,2025-02-20,2,February,refunded,cash,prod_00161,Door Lock Yale,2,15871.92,31743.84
+txn_0964e7433387,user_000012,2025-01-15T18:42:47,2025-01-15,1,January,refunded,visa_card,prod_00033,Paint Bucket 20L,4,14322.26,57289.04
+txn_c49813ff1867,user_000095,2025-02-19T05:37:05,2025-02-19,2,February,refunded,mtn_momo,prod_00139,Sweet Potato Bag,4,11820.11,47280.44
+txn_d76ee88a77b7,user_000439,2025-02-18T12:05:50,2025-02-18,2,February,processing,cash,prod_00182,Feature Phone Tecno,1,11285.28,11285.28
+txn_0c73045b9d5f,user_000412,2025-03-03T04:46:20,2025-03-03,3,March,refunded,visa_card,prod_00397,Pineapple Crate Nyungwe,3,16999.7,50999.1
+txn_8d7629eab8a4,user_000345,2025-03-19T10:52:24,2025-03-19,3,March,refunded,visa_card,prod_00447,Impala Club Soda,2,3270.71,6541.42
+txn_b1a06ca78d12,user_000118,2025-01-01T02:52:59,2025-01-01,1,January,completed,cash,prod_00271,Cement Bag 50kg Cimerwa,1,14039.08,14039.08
+txn_19294e0f3daa,user_000063,2025-03-17T15:52:57,2025-03-17,3,March,processing,visa_card,prod_00273,Bed Sheet Cotton,2,5706.08,11412.16
+txn_1818e75ab777,user_000495,2025-02-20T18:19:45,2025-02-20,2,February,completed,mtn_momo,prod_00351,Plastic Jerry Can 20L,1,19460.49,19460.49
+txn_1818e75ab777,user_000495,2025-02-20T18:19:45,2025-02-20,2,February,completed,mtn_momo,prod_00064,Urwagwa Traditional Beer,4,18996.66,75986.64
+txn_1818e75ab777,user_000495,2025-02-20T18:19:45,2025-02-20,2,February,completed,mtn_momo,prod_00353,Toothpaste Colgate,3,15625.23,46875.69
+txn_f9bf919622d7,user_000020,2025-03-28T08:56:34,2025-03-28,3,March,processing,airtel_money,prod_00128,Sandals Handmade,1,11361.21,11361.21
+txn_620619eaaa98,user_000156,2025-01-13T14:22:47,2025-01-13,1,January,shipped,airtel_money,prod_00445,School Bag Primary,1,11264.98,11264.98
+txn_3d6d15e8d8ff,user_000141,2025-03-25T12:22:53,2025-03-25,3,March,shipped,visa_card,prod_00429,Impala Club Soda,3,1489.16,4467.48
+txn_2fe312818a35,user_000182,2025-01-26T17:30:31,2025-01-26,1,January,shipped,airtel_money,prod_00022,Nivea Roll-On,1,9465.21,9465.21
+txn_43f5d44eae0a,user_000038,2025-01-04T06:30:46,2025-01-04,1,January,processing,cash,prod_00052,Ubwiza Face Cream,1,6894.44,6894.44
+txn_b998daf353a3,user_000139,2025-01-27T02:34:41,2025-01-27,1,January,shipped,cash,prod_00197,Kitenge Fabric 2m,3,8073.43,24220.29
+txn_b998daf353a3,user_000139,2025-01-27T02:34:41,2025-01-27,1,January,shipped,cash,prod_00017,Amavuta Shea Butter,3,14948.9,44846.7
+txn_b998daf353a3,user_000139,2025-01-27T02:34:41,2025-01-27,1,January,shipped,cash,prod_00341,Fanta Citron,4,3762.7,15050.8
+txn_7549fdb7c122,user_000142,2025-03-08T23:01:10,2025-03-08,3,March,completed,airtel_money,prod_00432,Cavendish Banana Bundle,4,5532.03,22128.12
+txn_0123ef601bf2,user_000354,2025-02-28T18:19:18,2025-02-28,2,February,shipped,mtn_momo,prod_00249,Agaseke Woven Basket,1,13402.46,13402.46
+txn_0123ef601bf2,user_000354,2025-02-28T18:19:18,2025-02-28,2,February,shipped,mtn_momo,prod_00063,Urwagwa Traditional Beer,2,12481.35,24962.7
+txn_b3e1e4d45148,user_000216,2025-02-18T04:17:19,2025-02-18,2,February,refunded,mtn_momo,prod_00493,Imishanana Traditional Dress,4,12722.81,50891.24
+txn_794ea5d062e4,user_000267,2025-03-14T00:35:05,2025-03-14,3,March,shipped,airtel_money,prod_00274,Agaseke Woven Basket,2,16373.51,32747.02
+txn_60abdd4bb7ac,user_000273,2025-01-21T01:09:37,2025-01-21,1,January,completed,cash,prod_00009,PVC Pipe 2inch,1,13045.14,13045.14
+txn_60abdd4bb7ac,user_000273,2025-01-21T01:09:37,2025-01-21,1,January,completed,cash,prod_00391,Sweet Potato Bag,2,19231.81,38463.62
+txn_47dc8ad8fc6e,user_000203,2025-03-18T02:31:11,2025-03-18,3,March,refunded,visa_card,prod_00328,Rukundo Tea Leaves,3,17518.48,52555.44
+txn_a3728493a76b,user_000430,2025-03-26T13:37:25,2025-03-26,3,March,completed,mtn_momo,prod_00020,Sandals Handmade,3,4800.11,14400.33
+txn_a3728493a76b,user_000430,2025-03-26T13:37:25,2025-03-26,3,March,completed,mtn_momo,prod_00078,Roofing Nails 4inch,2,9100.25,18200.5
+txn_a3728493a76b,user_000430,2025-03-26T13:37:25,2025-03-26,3,March,completed,mtn_momo,prod_00116,Sufuria Cooking Pot 5L,2,8541.65,17083.3
+txn_21fffdb6857e,user_000094,2025-03-25T01:58:02,2025-03-25,3,March,processing,cash,prod_00286,Pillow Fiber,4,18264.24,73056.96
+txn_21fffdb6857e,user_000094,2025-03-25T01:58:02,2025-03-25,3,March,processing,cash,prod_00028,Impala Club Soda,1,1595.36,1595.36
+txn_21fffdb6857e,user_000094,2025-03-25T01:58:02,2025-03-25,3,March,processing,cash,prod_00047,Window Glass Panel,1,7223.65,7223.65
+txn_b770e09075d7,user_000332,2025-01-11T09:50:16,2025-01-11,1,January,refunded,bank_transfer,prod_00353,Toothpaste Colgate,2,15625.23,31250.46
+txn_25405cfda89d,user_000132,2025-01-16T20:08:23,2025-01-16,1,January,shipped,visa_card,prod_00354,Rwanda Arabica Coffee,3,19504.67,58514.01
+txn_25405cfda89d,user_000132,2025-01-16T20:08:23,2025-01-16,1,January,shipped,visa_card,prod_00069,Door Lock Yale,3,9602.89,28808.67
+txn_25405cfda89d,user_000132,2025-01-16T20:08:23,2025-01-16,1,January,shipped,visa_card,prod_00182,Feature Phone Tecno,3,11285.28,33855.84
+txn_efdbfb9a342c,user_000439,2025-03-28T08:08:38,2025-03-28,3,March,refunded,bank_transfer,prod_00001,Cement Bag 50kg Cimerwa,3,19920.58,59761.74
+txn_efdbfb9a342c,user_000439,2025-03-28T08:08:38,2025-03-28,3,March,refunded,bank_transfer,prod_00148,Inkorora Storage Basket,1,3188.41,3188.41
+txn_07bd4a708608,user_000294,2025-02-03T10:08:27,2025-02-03,2,February,completed,cash,prod_00235,Roofing Nails 4inch,2,8071.36,16142.72
+txn_c0c3758de95c,user_000112,2025-03-03T12:21:01,2025-03-03,3,March,refunded,bank_transfer,prod_00394,Irish Potato 5kg,3,6691.18,20073.54
+txn_c0c3758de95c,user_000112,2025-03-03T12:21:01,2025-03-03,3,March,refunded,bank_transfer,prod_00213,Sufuria Cooking Pot 5L,4,6299.31,25197.24
+txn_bc662cdb4e16,user_000479,2025-01-28T15:36:55,2025-01-28,1,January,completed,cash,prod_00229,Power Bank 10000mAh,2,1035.28,2070.56
+txn_6586b5a418f1,user_000327,2025-03-14T17:24:55,2025-03-14,3,March,processing,visa_card,prod_00129,School Uniform Set,3,6191.02,18573.06
+txn_9dde2d12a029,user_000385,2025-03-15T15:57:40,2025-03-15,3,March,completed,airtel_money,prod_00490,Rwanda Arabica Coffee,4,18015.91,72063.64
+txn_66a3dcd6c76a,user_000452,2025-01-04T12:48:39,2025-01-04,1,January,refunded,visa_card,prod_00430,Pillow Fiber,2,3990.17,7980.34
+txn_f2110dfafbf9,user_000083,2025-02-04T03:22:59,2025-02-04,2,February,processing,mtn_momo,prod_00239,Calculator Casio,1,8555.59,8555.59
+txn_b99eb5faeccc,user_000472,2025-03-19T08:22:49,2025-03-19,3,March,shipped,visa_card,prod_00377,Power Bank 10000mAh,4,6443.28,25773.12
+txn_defded4d3760,user_000137,2025-01-07T23:16:30,2025-01-07,1,January,processing,mtn_momo,prod_00284,Sweet Potato Bag,2,17366.54,34733.08
+txn_5f3fe95dd465,user_000239,2025-02-18T14:36:22,2025-02-18,2,February,shipped,bank_transfer,prod_00175,Coconut Hair Oil Rwanda,3,2761.74,8285.22
+txn_7ae493123be0,user_000469,2025-02-06T08:12:43,2025-02-06,2,February,shipped,airtel_money,prod_00403,Impala Club Soda,1,8164.8,8164.8
+txn_2c8ffc2e05b5,user_000260,2025-02-25T12:55:41,2025-02-25,2,February,refunded,mtn_momo,prod_00080,Power Bank 10000mAh,4,7408.6,29634.4
+txn_fd40d8ec2021,user_000439,2025-01-30T16:05:26,2025-01-30,1,January,refunded,visa_card,prod_00308,Sorghum Flour 1kg,4,19400.25,77601.0
+txn_fd40d8ec2021,user_000439,2025-01-30T16:05:26,2025-01-30,1,January,refunded,visa_card,prod_00279,Bed Sheet Cotton,4,11228.12,44912.48
+txn_a187f771b782,user_000337,2025-01-18T19:52:06,2025-01-18,1,January,shipped,visa_card,prod_00232,Rukundo Tea Leaves,1,11897.5,11897.5
+txn_a4edffa86373,user_000340,2025-02-01T17:17:39,2025-02-01,2,February,completed,airtel_money,prod_00008,Mosquito Net Treated,1,15040.47,15040.47
+txn_a4edffa86373,user_000340,2025-02-01T17:17:39,2025-02-01,2,February,completed,airtel_money,prod_00430,Pillow Fiber,1,3990.17,3990.17
+txn_e08308e57db5,user_000466,2025-01-18T22:56:10,2025-01-18,1,January,completed,mtn_momo,prod_00171,Mutzig Beer,3,18711.53,56134.59
+txn_160a396344b8,user_000240,2025-02-09T17:05:16,2025-02-09,2,February,completed,mtn_momo,prod_00012,Nziza Body Lotion,1,6594.21,6594.21
+txn_160a396344b8,user_000240,2025-02-09T17:05:16,2025-02-09,2,February,completed,mtn_momo,prod_00368,Calculator Casio,2,2473.89,4947.78
+txn_160a396344b8,user_000240,2025-02-09T17:05:16,2025-02-09,2,February,completed,mtn_momo,prod_00285,Mutzig Beer,4,14478.93,57915.72
+txn_e5d92c03d80f,user_000060,2025-03-12T11:56:45,2025-03-12,3,March,refunded,mtn_momo,prod_00427,Cavendish Banana Bundle,2,4410.83,8821.66
+txn_2371e26533a0,user_000341,2025-01-30T02:40:07,2025-01-30,1,January,refunded,bank_transfer,prod_00126,Sweet Potato Bag,3,16062.08,48186.24
+txn_1be3c50a86bc,user_000194,2025-01-29T04:27:31,2025-01-29,1,January,shipped,bank_transfer,prod_00337,Pillow Fiber,2,15019.57,30039.14
+txn_0964eaa2f805,user_000077,2025-01-11T18:29:31,2025-01-11,1,January,refunded,visa_card,prod_00487,Sorghum Flour 1kg,2,7049.88,14099.76
+txn_0964eaa2f805,user_000077,2025-01-11T18:29:31,2025-01-11,1,January,refunded,visa_card,prod_00239,Calculator Casio,1,8555.59,8555.59
+txn_4cb443eaa600,user_000062,2025-01-03T04:34:04,2025-01-03,1,January,refunded,cash,prod_00440,Exercise Book 96pages,3,11863.18,35589.54
+txn_bf280f92f2b6,user_000012,2025-03-25T11:44:35,2025-03-25,3,March,shipped,cash,prod_00058,Plastic Jerry Can 20L,2,15977.08,31954.16
+txn_0ced15016965,user_000249,2025-01-30T03:37:25,2025-01-30,1,January,processing,visa_card,prod_00368,Calculator Casio,3,2473.89,7421.67
+txn_a4985b1828b3,user_000420,2025-01-28T01:49:37,2025-01-28,1,January,processing,mtn_momo,prod_00369,Sorghum Flour 1kg,1,15109.29,15109.29
+txn_a4985b1828b3,user_000420,2025-01-28T01:49:37,2025-01-28,1,January,processing,mtn_momo,prod_00465,Akabanga Chilli Oil,2,1873.04,3746.08
+txn_9bcc0fcf7145,user_000450,2025-02-12T22:15:09,2025-02-12,2,February,processing,cash,prod_00319,Umutsima Porridge,2,7731.28,15462.56
+txn_9bcc0fcf7145,user_000450,2025-02-12T22:15:09,2025-02-12,2,February,processing,cash,prod_00150,Power Bank 10000mAh,2,8478.12,16956.24
+txn_9bcc0fcf7145,user_000450,2025-02-12T22:15:09,2025-02-12,2,February,processing,cash,prod_00404,Mattress Foam Single,2,13988.49,27976.98
+txn_97a13bad516f,user_000433,2025-01-21T04:54:36,2025-01-21,1,January,shipped,airtel_money,prod_00485,Steel Rod 12mm,3,2412.25,7236.75
+txn_97a13bad516f,user_000433,2025-01-21T04:54:36,2025-01-21,1,January,shipped,airtel_money,prod_00076,Ibirayi Fries,1,6499.72,6499.72
+txn_128334845dc4,user_000457,2025-03-01T01:38:30,2025-03-01,3,March,refunded,bank_transfer,prod_00479,Iron Sheet 3m,4,14281.45,57125.8
+txn_8365e98aec2c,user_000238,2025-02-13T09:23:47,2025-02-13,2,February,processing,airtel_money,prod_00321,Mosquito Net Treated,4,13272.87,53091.48
+txn_bacd91d75db4,user_000141,2025-03-10T07:58:14,2025-03-10,3,March,shipped,airtel_money,prod_00053,PVC Pipe 2inch,4,5853.83,23415.32
+txn_436b3fdf851f,user_000452,2025-01-21T20:46:34,2025-01-21,1,January,processing,cash,prod_00346,Pineapple Crate Nyungwe,4,4929.0,19716.0
+txn_436b3fdf851f,user_000452,2025-01-21T20:46:34,2025-01-21,1,January,processing,cash,prod_00185,Charcoal Stove Jiko,3,17997.11,53991.33
+txn_436b3fdf851f,user_000452,2025-01-21T20:46:34,2025-01-21,1,January,processing,cash,prod_00170,Mattress Foam Single,3,15784.13,47352.39
+txn_5d8014077b34,user_000090,2025-01-14T07:40:11,2025-01-14,1,January,processing,bank_transfer,prod_00166,Irish Potato 5kg,3,7667.45,23002.35
+txn_57d44ae806c3,user_000152,2025-03-21T06:16:59,2025-03-21,3,March,refunded,mtn_momo,prod_00233,Mosquito Net Treated,3,7057.53,21172.59
+txn_a691cd246ec6,user_000100,2025-01-05T11:25:33,2025-01-05,1,January,shipped,bank_transfer,prod_00295,Akagera Print T-Shirt,4,5300.42,21201.68
+txn_4cfcf22dd1f1,user_000457,2025-02-26T20:11:52,2025-02-26,2,February,completed,mtn_momo,prod_00323,Cavendish Banana Bundle,1,5591.6,5591.6
+txn_d56f47b2982b,user_000463,2025-02-16T17:33:59,2025-02-16,2,February,refunded,cash,prod_00480,Akabanga Chilli Oil,4,12405.49,49621.96
+txn_d56f47b2982b,user_000463,2025-02-16T17:33:59,2025-02-16,2,February,refunded,cash,prod_00313,Fanta Citron,4,11986.44,47945.76
+txn_d56f47b2982b,user_000463,2025-02-16T17:33:59,2025-02-16,2,February,refunded,cash,prod_00195,Pineapple Crate Nyungwe,2,12573.94,25147.88
+txn_4b826850c435,user_000036,2025-02-15T14:47:07,2025-02-15,2,February,shipped,cash,prod_00090,Umushanana Set,2,3668.64,7337.28
+txn_4b826850c435,user_000036,2025-02-15T14:47:07,2025-02-15,2,February,shipped,cash,prod_00366,Cement Bag 50kg Cimerwa,2,14497.98,28995.96
+txn_08dbfb64ab9c,user_000354,2025-01-30T08:48:31,2025-01-30,1,January,shipped,cash,prod_00375,Umutsima Porridge,1,3871.6,3871.6
+txn_08dbfb64ab9c,user_000354,2025-01-30T08:48:31,2025-01-30,1,January,shipped,cash,prod_00385,Mattress Foam Single,4,12649.32,50597.28
+txn_4413c3e8ca6e,user_000262,2025-02-06T00:51:29,2025-02-06,2,February,processing,airtel_money,prod_00062,Kitenge Fabric 2m,2,3658.36,7316.72
+txn_4413c3e8ca6e,user_000262,2025-02-06T00:51:29,2025-02-06,2,February,processing,airtel_money,prod_00096,PVC Pipe 2inch,3,2023.0,6069.0
+txn_5c9a6f7e88e4,user_000295,2025-03-21T14:30:41,2025-03-21,3,March,processing,visa_card,prod_00475,Power Bank 10000mAh,2,3828.44,7656.88
+txn_5c9a6f7e88e4,user_000295,2025-03-21T14:30:41,2025-03-21,3,March,processing,visa_card,prod_00119,Toothpaste Colgate,2,5242.55,10485.1
+txn_27e3735ba632,user_000427,2025-03-01T13:46:30,2025-03-01,3,March,shipped,cash,prod_00158,Kitenge Fabric 2m,4,12742.35,50969.4
+txn_27e3735ba632,user_000427,2025-03-01T13:46:30,2025-03-01,3,March,shipped,cash,prod_00089,Smartphone Android 4G,3,19787.44,59362.32
+txn_aedca465fba3,user_000331,2025-03-29T22:23:21,2025-03-29,3,March,completed,cash,prod_00132,MTN MoMo Agent Kit,4,7027.36,28109.44
+txn_aedca465fba3,user_000331,2025-03-29T22:23:21,2025-03-29,3,March,completed,cash,prod_00014,Power Bank 10000mAh,3,12208.0,36624.0
+txn_2074eee818d9,user_000425,2025-02-07T10:30:58,2025-02-07,2,February,completed,visa_card,prod_00081,Kitenge Fabric 2m,2,14245.57,28491.14
+txn_35180e86e1da,user_000283,2025-01-25T07:44:39,2025-01-25,1,January,shipped,cash,prod_00233,Mosquito Net Treated,3,7057.53,21172.59
+txn_35180e86e1da,user_000283,2025-01-25T07:44:39,2025-01-25,1,January,shipped,cash,prod_00223,Gahunda Work Shirt,2,17846.7,35693.4
+txn_35180e86e1da,user_000283,2025-01-25T07:44:39,2025-01-25,1,January,shipped,cash,prod_00052,Ubwiza Face Cream,1,6894.44,6894.44
+txn_eadf01888ae7,user_000309,2025-01-16T02:46:17,2025-01-16,1,January,processing,airtel_money,prod_00159,Inzoga ya Primus,2,19029.95,38059.9
+txn_eadf01888ae7,user_000309,2025-01-16T02:46:17,2025-01-16,1,January,processing,airtel_money,prod_00383,Cavendish Banana Bundle,4,3541.83,14167.32
+txn_b712f2b4ae2b,user_000407,2025-02-01T03:18:13,2025-02-01,2,February,shipped,airtel_money,prod_00423,Ikivuguto Yoghurt,3,16674.42,50023.26
+txn_b712f2b4ae2b,user_000407,2025-02-01T03:18:13,2025-02-01,2,February,shipped,airtel_money,prod_00367,WiFi Router ZTE,2,16561.04,33122.08
+txn_b712f2b4ae2b,user_000407,2025-02-01T03:18:13,2025-02-01,2,February,shipped,airtel_money,prod_00342,Fanta Citron,2,8242.39,16484.78
+txn_b4365ae2c36f,user_000256,2025-03-01T04:29:31,2025-03-01,3,March,shipped,airtel_money,prod_00460,Calculator Casio,2,14307.46,28614.92
+txn_b4365ae2c36f,user_000256,2025-03-01T04:29:31,2025-03-01,3,March,shipped,airtel_money,prod_00208,PVC Pipe 2inch,1,5671.64,5671.64
+txn_b4365ae2c36f,user_000256,2025-03-01T04:29:31,2025-03-01,3,March,shipped,airtel_money,prod_00382,Phone Charger USB-C,2,15508.79,31017.58
+txn_8d5148b8b83f,user_000249,2025-01-18T07:03:21,2025-01-18,1,January,shipped,airtel_money,prod_00341,Fanta Citron,2,3762.7,7525.4
+txn_4ed3a530b0f0,user_000083,2025-01-02T13:44:45,2025-01-02,1,January,completed,mtn_momo,prod_00375,Umutsima Porridge,4,3871.6,15486.4
+txn_4ed3a530b0f0,user_000083,2025-01-02T13:44:45,2025-01-02,1,January,completed,mtn_momo,prod_00347,Phone Charger USB-C,4,9649.36,38597.44
+txn_4ed3a530b0f0,user_000083,2025-01-02T13:44:45,2025-01-02,1,January,completed,mtn_momo,prod_00059,Sufuria Cooking Pot 5L,4,11303.42,45213.68
+txn_397681069aa0,user_000358,2025-03-01T17:06:15,2025-03-01,3,March,shipped,airtel_money,prod_00325,Phone Charger USB-C,1,17309.45,17309.45
+txn_00b3775e900f,user_000405,2025-03-10T03:22:16,2025-03-10,3,March,refunded,bank_transfer,prod_00161,Door Lock Yale,2,15871.92,31743.84
+txn_dd677edf4f3d,user_000207,2025-02-12T09:31:45,2025-02-12,2,February,refunded,bank_transfer,prod_00247,Cement Bag 50kg Cimerwa,1,1447.45,1447.45
+txn_7e654214de73,user_000110,2025-03-18T07:36:06,2025-03-18,3,March,refunded,mtn_momo,prod_00164,PVC Pipe 2inch,3,14222.11,42666.33
+txn_cb6a84e61846,user_000268,2025-01-26T08:25:13,2025-01-26,1,January,completed,bank_transfer,prod_00200,Calculator Casio,3,3933.96,11801.88
+txn_cb6a84e61846,user_000268,2025-01-26T08:25:13,2025-01-26,1,January,completed,bank_transfer,prod_00245,Nivea Roll-On,3,14692.72,44078.16
+txn_cb6a84e61846,user_000268,2025-01-26T08:25:13,2025-01-26,1,January,completed,bank_transfer,prod_00424,Sandals Handmade,2,9153.59,18307.18
+txn_75bcdf5ea2ff,user_000368,2025-03-19T08:22:23,2025-03-19,3,March,processing,airtel_money,prod_00285,Mutzig Beer,4,14478.93,57915.72
+txn_75bcdf5ea2ff,user_000368,2025-03-19T08:22:23,2025-03-19,3,March,processing,airtel_money,prod_00229,Power Bank 10000mAh,1,1035.28,1035.28
+txn_22c1d06c1218,user_000428,2025-02-19T10:57:28,2025-02-19,2,February,shipped,bank_transfer,prod_00274,Agaseke Woven Basket,2,16373.51,32747.02
+txn_5df382a6ccbe,user_000198,2025-02-28T22:47:45,2025-02-28,2,February,shipped,visa_card,prod_00284,Sweet Potato Bag,1,17366.54,17366.54
+txn_5df382a6ccbe,user_000198,2025-02-28T22:47:45,2025-02-28,2,February,shipped,visa_card,prod_00285,Mutzig Beer,2,14478.93,28957.86
+txn_5df382a6ccbe,user_000198,2025-02-28T22:47:45,2025-02-28,2,February,shipped,visa_card,prod_00266,Plastic Jerry Can 20L,4,18569.22,74276.88
+txn_fe869d28bb02,user_000268,2025-02-21T23:15:59,2025-02-21,2,February,completed,visa_card,prod_00138,Gas Cylinder 15kg,1,1363.79,1363.79
+txn_d86e1c8f6706,user_000201,2025-03-19T22:00:18,2025-03-19,3,March,refunded,visa_card,prod_00396,Sufuria Cooking Pot 5L,2,4102.56,8205.12
+txn_d86e1c8f6706,user_000201,2025-03-19T22:00:18,2025-03-19,3,March,refunded,visa_card,prod_00152,PVC Pipe 2inch,4,2727.03,10908.12
+txn_af96cf852636,user_000415,2025-01-22T13:32:56,2025-01-22,1,January,completed,visa_card,prod_00382,Phone Charger USB-C,3,15508.79,46526.37
+txn_bff5072b515d,user_000014,2025-02-17T21:05:34,2025-02-17,2,February,refunded,airtel_money,prod_00366,Cement Bag 50kg Cimerwa,1,14497.98,14497.98
+txn_bff5072b515d,user_000014,2025-02-17T21:05:34,2025-02-17,2,February,refunded,airtel_money,prod_00423,Ikivuguto Yoghurt,1,16674.42,16674.42
+txn_bff5072b515d,user_000014,2025-02-17T21:05:34,2025-02-17,2,February,refunded,airtel_money,prod_00176,Fresh Avocado Pack,3,15768.25,47304.75
+txn_b8e20a052ea4,user_000180,2025-01-31T19:10:20,2025-01-31,1,January,refunded,visa_card,prod_00145,Inkorora Storage Basket,4,2484.16,9936.64
+txn_a4a34f4ff52b,user_000077,2025-01-10T04:56:54,2025-01-10,1,January,completed,mtn_momo,prod_00372,Kitenge Fabric 2m,1,817.9,817.9
+txn_f55eac3a39c5,user_000416,2025-03-29T08:36:39,2025-03-29,3,March,refunded,cash,prod_00392,Bed Sheet Cotton,3,18239.84,54719.52
+txn_7ae2d48d07e4,user_000239,2025-02-01T06:18:08,2025-02-01,2,February,processing,cash,prod_00128,Sandals Handmade,2,11361.21,22722.42
+txn_50ce50a64674,user_000056,2025-03-11T22:27:19,2025-03-11,3,March,refunded,visa_card,prod_00055,Vaseline Petroleum Jelly,3,11691.47,35074.41
+txn_da1ce5d79127,user_000221,2025-02-21T17:49:22,2025-02-21,2,February,refunded,bank_transfer,prod_00240,Umutsima Porridge,2,6669.48,13338.96
+txn_8072396003a6,user_000210,2025-03-15T02:53:06,2025-03-15,3,March,processing,cash,prod_00116,Sufuria Cooking Pot 5L,4,8541.65,34166.6
+txn_5fea92f8cbd3,user_000033,2025-02-08T15:07:15,2025-02-08,2,February,shipped,mtn_momo,prod_00221,Agaseke Woven Basket,4,2694.12,10776.48
+txn_5fea92f8cbd3,user_000033,2025-02-08T15:07:15,2025-02-08,2,February,shipped,mtn_momo,prod_00238,Toothpaste Colgate,2,17098.67,34197.34
+txn_5fea92f8cbd3,user_000033,2025-02-08T15:07:15,2025-02-08,2,February,shipped,mtn_momo,prod_00425,Door Lock Yale,1,16531.7,16531.7
+txn_da357f9e7887,user_000114,2025-01-16T15:30:38,2025-01-16,1,January,refunded,airtel_money,prod_00119,Toothpaste Colgate,2,5242.55,10485.1
+txn_aaa9be7a01ff,user_000393,2025-01-29T16:12:24,2025-01-29,1,January,processing,cash,prod_00166,Irish Potato 5kg,2,7667.45,15334.9
+txn_42de7d6a63cc,user_000457,2025-01-25T06:39:09,2025-01-25,1,January,shipped,bank_transfer,prod_00235,Roofing Nails 4inch,3,8071.36,24214.08
+txn_42de7d6a63cc,user_000457,2025-01-25T06:39:09,2025-01-25,1,January,shipped,bank_transfer,prod_00219,Biro Pen Box,1,8755.81,8755.81
+txn_42de7d6a63cc,user_000457,2025-01-25T06:39:09,2025-01-25,1,January,shipped,bank_transfer,prod_00146,School Uniform Set,2,12140.93,24281.86
+txn_ffa63c6a4d2c,user_000383,2025-02-21T07:59:05,2025-02-21,2,February,processing,bank_transfer,prod_00056,Electric Wire 2.5mm,4,5604.65,22418.6
+txn_eabbd794c8be,user_000095,2025-03-11T02:32:36,2025-03-11,3,March,processing,airtel_money,prod_00278,School Uniform Set,3,9593.46,28780.38
+txn_3838ce93cfb4,user_000351,2025-01-25T08:29:20,2025-01-25,1,January,shipped,visa_card,prod_00373,Pineapple Crate Nyungwe,1,11348.3,11348.3
+txn_3838ce93cfb4,user_000351,2025-01-25T08:29:20,2025-01-25,1,January,shipped,visa_card,prod_00434,Sufuria Cooking Pot 5L,4,15952.4,63809.6
+txn_3838ce93cfb4,user_000351,2025-01-25T08:29:20,2025-01-25,1,January,shipped,visa_card,prod_00462,Umutsima Porridge,1,5518.06,5518.06
+txn_001aeccd7612,user_000447,2025-01-11T18:10:39,2025-01-11,1,January,refunded,cash,prod_00364,Inkorora Storage Basket,2,6790.7,13581.4
+txn_001aeccd7612,user_000447,2025-01-11T18:10:39,2025-01-11,1,January,refunded,cash,prod_00351,Plastic Jerry Can 20L,3,19460.49,58381.47
+txn_001aeccd7612,user_000447,2025-01-11T18:10:39,2025-01-11,1,January,refunded,cash,prod_00450,Umushanana Set,3,14675.95,44027.85
+txn_659c860489f9,user_000052,2025-03-07T18:55:10,2025-03-07,3,March,shipped,bank_transfer,prod_00205,School Bag Primary,1,4853.13,4853.13
+txn_4a9e50451fae,user_000185,2025-01-06T21:12:26,2025-01-06,1,January,completed,visa_card,prod_00153,Ikivuguto Yoghurt,2,19800.63,39601.26
+txn_4a9e50451fae,user_000185,2025-01-06T21:12:26,2025-01-06,1,January,completed,visa_card,prod_00018,Imishanana Traditional Dress,4,6576.93,26307.72
+txn_8fb5cc216e0a,user_000322,2025-02-13T10:49:00,2025-02-13,2,February,shipped,bank_transfer,prod_00104,Bed Sheet Cotton,3,13604.46,40813.38
+txn_8fb5cc216e0a,user_000322,2025-02-13T10:49:00,2025-02-13,2,February,shipped,bank_transfer,prod_00065,Sufuria Cooking Pot 5L,1,6148.6,6148.6
+txn_ee827c3102e3,user_000438,2025-02-18T21:36:06,2025-02-18,2,February,processing,mtn_momo,prod_00133,Calculator Casio,2,6183.24,12366.48
+txn_8066315a1fd6,user_000013,2025-02-16T21:20:16,2025-02-16,2,February,shipped,bank_transfer,prod_00050,Plastic Jerry Can 20L,3,2927.26,8781.78
+txn_1e88259f98b2,user_000427,2025-03-24T12:23:14,2025-03-24,3,March,shipped,bank_transfer,prod_00470,Stapler Heavy Duty,1,2154.82,2154.82
+txn_1e88259f98b2,user_000427,2025-03-24T12:23:14,2025-03-24,3,March,shipped,bank_transfer,prod_00051,Sandals Handmade,4,5701.05,22804.2
+txn_1e88259f98b2,user_000427,2025-03-24T12:23:14,2025-03-24,3,March,shipped,bank_transfer,prod_00466,Inzoga ya Primus,4,5695.51,22782.04
+txn_81fa0375b087,user_000470,2025-03-28T00:05:01,2025-03-28,3,March,processing,mtn_momo,prod_00039,Agaseke Woven Basket,3,17523.54,52570.62
+txn_81fa0375b087,user_000470,2025-03-28T00:05:01,2025-03-28,3,March,processing,mtn_momo,prod_00128,Sandals Handmade,3,11361.21,34083.63
+txn_81fa0375b087,user_000470,2025-03-28T00:05:01,2025-03-28,3,March,processing,mtn_momo,prod_00080,Power Bank 10000mAh,1,7408.6,7408.6
+txn_d2d715b0c102,user_000412,2025-01-02T10:59:44,2025-01-02,1,January,shipped,cash,prod_00255,Umutsima Porridge,3,13953.1,41859.3
+txn_1727d58db687,user_000211,2025-01-12T17:34:11,2025-01-12,1,January,refunded,cash,prod_00148,Inkorora Storage Basket,4,3188.41,12753.64
+txn_1727d58db687,user_000211,2025-01-12T17:34:11,2025-01-12,1,January,refunded,cash,prod_00014,Power Bank 10000mAh,4,12208.0,48832.0
+txn_1727d58db687,user_000211,2025-01-12T17:34:11,2025-01-12,1,January,refunded,cash,prod_00140,Irish Potato 5kg,3,9914.04,29742.12
+txn_253cecb62863,user_000407,2025-01-18T23:41:05,2025-01-18,1,January,completed,airtel_money,prod_00160,Passion Fruit Tray,4,4747.68,18990.72
+txn_253cecb62863,user_000407,2025-01-18T23:41:05,2025-01-18,1,January,completed,airtel_money,prod_00343,Passion Fruit Tray,3,12552.99,37658.97
+txn_253cecb62863,user_000407,2025-01-18T23:41:05,2025-01-18,1,January,completed,airtel_money,prod_00024,Mutzig Beer,2,2033.62,4067.24
+txn_232e06aee5ae,user_000277,2025-01-18T07:00:44,2025-01-18,1,January,shipped,mtn_momo,prod_00172,Agaseke Woven Basket,1,1816.89,1816.89
+txn_232e06aee5ae,user_000277,2025-01-18T07:00:44,2025-01-18,1,January,shipped,mtn_momo,prod_00139,Sweet Potato Bag,4,11820.11,47280.44
+txn_232e06aee5ae,user_000277,2025-01-18T07:00:44,2025-01-18,1,January,shipped,mtn_momo,prod_00292,Feature Phone Tecno,4,4036.48,16145.92
+txn_eddb26a8f3bf,user_000212,2025-03-30T12:58:22,2025-03-30,3,March,shipped,mtn_momo,prod_00180,Charcoal Stove Jiko,2,5341.13,10682.26
+txn_8e3f602e95a4,user_000321,2025-02-07T17:16:59,2025-02-07,2,February,refunded,mtn_momo,prod_00372,Kitenge Fabric 2m,4,817.9,3271.6
+txn_8e3f602e95a4,user_000321,2025-02-07T17:16:59,2025-02-07,2,February,refunded,mtn_momo,prod_00495,Biro Pen Box,3,7629.02,22887.06
+txn_7b7ff49634b3,user_000294,2025-01-12T09:23:41,2025-01-12,1,January,completed,mtn_momo,prod_00280,Mattress Foam Single,4,2292.94,9171.76
+txn_7b7ff49634b3,user_000294,2025-01-12T09:23:41,2025-01-12,1,January,completed,mtn_momo,prod_00438,Umushanana Set,3,18113.49,54340.47
+txn_7b7ff49634b3,user_000294,2025-01-12T09:23:41,2025-01-12,1,January,completed,mtn_momo,prod_00470,Stapler Heavy Duty,1,2154.82,2154.82
+txn_af4a4c8b6a82,user_000026,2025-03-22T00:25:23,2025-03-22,3,March,completed,airtel_money,prod_00434,Sufuria Cooking Pot 5L,4,15952.4,63809.6
+txn_af4a4c8b6a82,user_000026,2025-03-22T00:25:23,2025-03-22,3,March,completed,airtel_money,prod_00091,Pineapple Crate Nyungwe,1,3922.15,3922.15
+txn_9d052e47f702,user_000148,2025-03-06T23:58:40,2025-03-06,3,March,shipped,airtel_money,prod_00261,Ikivuguto Yoghurt,1,9217.83,9217.83
+txn_629876aad745,user_000331,2025-02-19T22:48:03,2025-02-19,2,February,processing,mtn_momo,prod_00152,PVC Pipe 2inch,4,2727.03,10908.12
+txn_629876aad745,user_000331,2025-02-19T22:48:03,2025-02-19,2,February,processing,mtn_momo,prod_00099,Iron Sheet 3m,4,14157.51,56630.04
+txn_90ef0a9d8281,user_000035,2025-02-21T05:11:10,2025-02-21,2,February,refunded,mtn_momo,prod_00229,Power Bank 10000mAh,4,1035.28,4141.12
+txn_90ef0a9d8281,user_000035,2025-02-21T05:11:10,2025-02-21,2,February,refunded,mtn_momo,prod_00073,Roofing Nails 4inch,1,12248.03,12248.03
+txn_6f1c09af66c3,user_000486,2025-01-27T10:51:24,2025-01-27,1,January,completed,cash,prod_00263,Power Bank 10000mAh,3,16423.48,49270.44
+txn_449807aab66a,user_000291,2025-03-27T17:03:51,2025-03-27,3,March,refunded,mtn_momo,prod_00442,Savon Ivoirien Soap,4,7940.52,31762.08
+txn_449807aab66a,user_000291,2025-03-27T17:03:51,2025-03-27,3,March,refunded,mtn_momo,prod_00059,Sufuria Cooking Pot 5L,4,11303.42,45213.68
+txn_449807aab66a,user_000291,2025-03-27T17:03:51,2025-03-27,3,March,refunded,mtn_momo,prod_00464,Rukundo Tea Leaves,3,11042.33,33126.99
+txn_e1abb68c9f51,user_000201,2025-02-28T16:27:14,2025-02-28,2,February,processing,bank_transfer,prod_00189,Sandals Handmade,1,9535.26,9535.26
+txn_e1abb68c9f51,user_000201,2025-02-28T16:27:14,2025-02-28,2,February,processing,bank_transfer,prod_00028,Impala Club Soda,3,1595.36,4786.08
+txn_e1abb68c9f51,user_000201,2025-02-28T16:27:14,2025-02-28,2,February,processing,bank_transfer,prod_00167,PVC Pipe 2inch,3,11484.18,34452.54
+txn_bca2b0aa53df,user_000416,2025-02-01T20:53:26,2025-02-01,2,February,refunded,cash,prod_00235,Roofing Nails 4inch,1,8071.36,8071.36
+txn_26feb798424a,user_000334,2025-01-24T17:39:23,2025-01-24,1,January,processing,cash,prod_00027,School Uniform Set,3,6802.56,20407.68
+txn_26feb798424a,user_000334,2025-01-24T17:39:23,2025-01-24,1,January,processing,cash,prod_00177,Calculator Casio,1,16238.6,16238.6
+txn_5e88f850e872,user_000174,2025-02-19T02:08:57,2025-02-19,2,February,shipped,cash,prod_00465,Akabanga Chilli Oil,2,1873.04,3746.08
+txn_5e88f850e872,user_000174,2025-02-19T02:08:57,2025-02-19,2,February,shipped,cash,prod_00480,Akabanga Chilli Oil,3,12405.49,37216.47
+txn_5e88f850e872,user_000174,2025-02-19T02:08:57,2025-02-19,2,February,shipped,cash,prod_00190,Biro Pen Box,1,14367.57,14367.57
+txn_7b18202bc495,user_000053,2025-02-20T04:21:10,2025-02-20,2,February,refunded,mtn_momo,prod_00246,Decoder StarTimes,4,4874.27,19497.08
+txn_efa9c2dfc6c8,user_000284,2025-03-30T02:29:35,2025-03-30,3,March,processing,cash,prod_00264,Iron Sheet 3m,1,7425.21,7425.21
+txn_a8d499e80fa9,user_000322,2025-01-12T11:20:54,2025-01-12,1,January,processing,bank_transfer,prod_00226,Smartphone Android 4G,2,10547.76,21095.52
+txn_a8d499e80fa9,user_000322,2025-01-12T11:20:54,2025-01-12,1,January,processing,bank_transfer,prod_00390,Impala Club Soda,1,17862.84,17862.84
+txn_b38631312124,user_000090,2025-02-17T21:28:14,2025-02-17,2,February,refunded,airtel_money,prod_00413,Leather Shoes Kigali,4,14068.68,56274.72
+txn_b38631312124,user_000090,2025-02-17T21:28:14,2025-02-17,2,February,refunded,airtel_money,prod_00233,Mosquito Net Treated,1,7057.53,7057.53
+txn_2293f82a097a,user_000393,2025-02-02T06:28:24,2025-02-02,2,February,processing,mtn_momo,prod_00250,Solar Lantern LifeLight,2,10205.91,20411.82
+txn_2293f82a097a,user_000393,2025-02-02T06:28:24,2025-02-02,2,February,processing,mtn_momo,prod_00079,Pillow Fiber,1,10614.32,10614.32
+txn_2293f82a097a,user_000393,2025-02-02T06:28:24,2025-02-02,2,February,processing,mtn_momo,prod_00107,Power Bank 10000mAh,2,6715.32,13430.64
+txn_cf84f9e5e3da,user_000422,2025-02-03T11:23:28,2025-02-03,2,February,refunded,visa_card,prod_00225,Mosquito Net Treated,2,14711.59,29423.18
+txn_aebd2bbc2926,user_000019,2025-03-10T07:14:50,2025-03-10,3,March,refunded,visa_card,prod_00430,Pillow Fiber,2,3990.17,7980.34
+txn_aebd2bbc2926,user_000019,2025-03-10T07:14:50,2025-03-10,3,March,refunded,visa_card,prod_00442,Savon Ivoirien Soap,1,7940.52,7940.52
+txn_9f01196530fd,user_000054,2025-01-03T21:01:13,2025-01-03,1,January,completed,mtn_momo,prod_00022,Nivea Roll-On,1,9465.21,9465.21
+txn_9f01196530fd,user_000054,2025-01-03T21:01:13,2025-01-03,1,January,completed,mtn_momo,prod_00091,Pineapple Crate Nyungwe,3,3922.15,11766.45
+txn_9f01196530fd,user_000054,2025-01-03T21:01:13,2025-01-03,1,January,completed,mtn_momo,prod_00133,Calculator Casio,4,6183.24,24732.96
+txn_3df4585aaa3d,user_000212,2025-02-07T04:16:09,2025-02-07,2,February,processing,bank_transfer,prod_00209,Mutzig Beer,1,17748.76,17748.76
+txn_3a786a99d0bd,user_000403,2025-03-22T05:33:57,2025-03-22,3,March,refunded,mtn_momo,prod_00420,Akagera Print T-Shirt,4,11516.38,46065.52
+txn_1c560ae0ce0b,user_000396,2025-01-31T10:19:41,2025-01-31,1,January,processing,airtel_money,prod_00356,Earphones Oraimo,2,5439.6,10879.2
+txn_bd7aebbb4101,user_000326,2025-02-20T22:32:39,2025-02-20,2,February,shipped,cash,prod_00397,Pineapple Crate Nyungwe,2,16999.7,33999.4
+txn_bd7aebbb4101,user_000326,2025-02-20T22:32:39,2025-02-20,2,February,shipped,cash,prod_00377,Power Bank 10000mAh,1,6443.28,6443.28
+txn_bd7aebbb4101,user_000326,2025-02-20T22:32:39,2025-02-20,2,February,shipped,cash,prod_00491,Impala Club Soda,2,5189.97,10379.94
+txn_e7ff90732b7a,user_000321,2025-02-27T05:08:06,2025-02-27,2,February,completed,visa_card,prod_00429,Impala Club Soda,1,1489.16,1489.16
+txn_ba43f3a8b071,user_000272,2025-01-28T15:25:52,2025-01-28,1,January,shipped,bank_transfer,prod_00404,Mattress Foam Single,1,13988.49,13988.49
+txn_d49814c346d6,user_000034,2025-02-12T15:09:47,2025-02-12,2,February,refunded,airtel_money,prod_00291,Decoder StarTimes,2,18159.75,36319.5
+txn_a74abcce2e44,user_000031,2025-01-16T04:33:31,2025-01-16,1,January,shipped,mtn_momo,prod_00112,Nziza Body Lotion,3,10906.18,32718.54
+txn_a74abcce2e44,user_000031,2025-01-16T04:33:31,2025-01-16,1,January,shipped,mtn_momo,prod_00065,Sufuria Cooking Pot 5L,3,6148.6,18445.8
